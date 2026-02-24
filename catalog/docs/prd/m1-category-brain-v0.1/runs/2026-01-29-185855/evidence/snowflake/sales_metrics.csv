@@ -1,0 +1,3 @@
+SKU_ID,PROD_NAME,BRAND,L1_CATEGORY,L2_CATEGORY,L3_CATEGORY,current_units,current_gmv,current_orders,active_stores,prev_units,prev_gmv,units_mom_growth_pct,gmv_mom_growth_pct
+# ERROR: Data extraction blocked due to Snowflake IP restriction (390422)
+# Re-run after connecting via VPN or requesting IP whitelisting
