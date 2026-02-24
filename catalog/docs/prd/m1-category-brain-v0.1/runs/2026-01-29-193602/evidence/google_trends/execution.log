@@ -1,0 +1,63 @@
+================================================================================
+CB-4 Google Trends Data Extraction - Execution Log
+================================================================================
+
+Task ID: 11 (CB-4)
+Worker: cb4-trends-worker
+Started: 2026-01-29T19:36:30+05:30
+Run Folder: /Users/sidhant.panda/workspaces/root-workspace/swiggy-brain/catalog/docs/prd/m1-category-brain-v0.1/runs/2026-01-29-193602
+
+--------------------------------------------------------------------------------
+Configuration
+--------------------------------------------------------------------------------
+Geo: IN (India)
+Timeframe: today 3-m (last 3 months)
+Fallback to Mock: true
+Real API Enabled: false (first run - no CB-1 data available)
+
+--------------------------------------------------------------------------------
+Execution Details
+--------------------------------------------------------------------------------
+[INFO] 2026-01-29T19:36:30 - Task CB-4 claimed by cb4-trends-worker
+[INFO] 2026-01-29T19:36:30 - Checking for CB-1 output (top search terms)...
+[WARN] 2026-01-29T19:36:30 - CB-1 data not available - this is initial run
+[INFO] 2026-01-29T19:36:30 - Google Trends API not called - using mock data for initial run
+[INFO] 2026-01-29T19:36:30 - Generating mock Google Trends data for Personal Care terms
+
+--------------------------------------------------------------------------------
+Mock Data Generation Summary
+--------------------------------------------------------------------------------
+Total terms generated: 20
+Terms with rising trend: 11
+Terms with stable trend: 7
+Terms with falling trend: 2
+Terms with errors: 0
+
+Category breakdown:
+- Skincare (serums, acids, moisturizers): 9 terms
+- Hair care (serum, shampoo, supplements): 4 terms
+- Body care (lotion, cream, sunscreen): 5 terms
+- Beauty (lip balm, nail polish, mascara): 3 terms
+
+Interest score range: 25-82 (normalized 0-100 scale)
+
+--------------------------------------------------------------------------------
+Output Files
+--------------------------------------------------------------------------------
+[OK] terms_queried.csv - 20 rows written
+[OK] execution.log - this file
+
+--------------------------------------------------------------------------------
+Completion
+--------------------------------------------------------------------------------
+Status: SUCCESS (MOCK)
+Completed: 2026-01-29T19:36:31+05:30
+Duration: ~1 second
+
+Note: Mock data generated for demonstration. In production runs with CB-1 data
+available, this task will query the actual Google Trends API using pytrends
+library with the following parameters:
+  - geo='IN'
+  - timeframe='today 3-m'
+  - Rate limiting: 1 request per 2 seconds to avoid 429 errors
+================================================================================
