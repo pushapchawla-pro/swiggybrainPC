@@ -1,0 +1,28 @@
+{
+  "run_id": "2026-01-30-105504",
+  "status": "completed",
+  "category": "Personal Care",
+  "l1_categories": ["Bath Body and Hair", "Beauty and Grooming", "Hygiene and Wellness", "Makeup"],
+  "date_range": {
+    "current_month": "2026-01-01 to 2026-01-28",
+    "previous_month": "2025-12-01 to 2025-12-28"
+  },
+  "insights_generated": 20,
+  "terms_processed": 573,
+  "terms_passed_gates": 100,
+  "top_emerging_score": 68.48,
+  "evidence_files": {
+    "search_metrics": "evidence/snowflake/search_metrics.csv",
+    "sales_metrics": "evidence/snowflake/sales_metrics.csv",
+    "availability_rca": "evidence/databricks/availability_rca.csv",
+    "brand_emergence": "evidence/snowflake/brand_emergence.csv",
+    "ranked_terms": "intermediate/ranked_terms.csv",
+    "signal_fusion": "intermediate/signal_fusion.json"
+  },
+  "output_files": {
+    "digest": "output/digest.md",
+    "insights_json": "output/insights.json"
+  },
+  "execution_timestamp": "2026-01-30T10:55:04+05:30",
+  "version": "v0.4"
+}
