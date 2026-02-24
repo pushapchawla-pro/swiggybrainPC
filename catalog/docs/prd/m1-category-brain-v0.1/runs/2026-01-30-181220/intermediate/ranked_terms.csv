@@ -1,0 +1,201 @@
+search_string,canonical_term,l1_category,l2_category,emerging_score,confidence,passed_gates,m0_volume,mom_search_growth,mom_sales_growth,availability_pct,demand_gap,typed_pct,trend_stability_score,seasonality_flag,tags
+mysore soap,mysore soap,bath body and hair,soap,70.49,Medium,True,60292.0,1644.56,0.0,70.67,13484791.84,7.19,100.0,SEASONAL_NORMAL,DEMAND_SURGE|AUTOSUGGEST_DRIVEN|STABLE_UP
+body scrubber,body scrubber,beauty and grooming,beauty accessories,66.69,Medium,True,10427.0,106.56,0.0,14.29,33566429.16,11.51,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|DEMAND_SURGE|AUTOSUGGEST_DRIVEN|ACCELERATING
+durex,durex,hygiene and wellness,sexual wellness,65.24,Medium,True,27556.0,968.48,0.0,79.24,9806845.06,11.22,75.0,SEASONAL_NORMAL,DEMAND_SURGE|AUTOSUGGEST_DRIVEN|ACCELERATING
+panty liner,panty liner,hygiene and wellness,feminine hygiene,64.51,Medium,True,18458.0,23.7,0.0,63.03,49135656.25,11.56,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+loofah,loofah,beauty and grooming,beauty accessories,62.57,Medium,True,83430.0,23.42,0.0,14.29,33566429.16,12.91,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+mars lip liner,mars lip liner,makeup,lip makeup,61.25,Medium,True,10422.0,660.18,0.0,88.47,8747.92,18.78,75.0,SEASONAL_NORMAL,DEMAND_SURGE|AUTOSUGGEST_DRIVEN|ACCELERATING
+pad,pad,hygiene and wellness,feminine hygiene,60.39,Medium,False,88172.0,15.05,0.0,63.03,49135656.25,23.56,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+nua,nua,hygiene and wellness,feminine hygiene,60.17,Medium,False,126704.0,9.92,0.0,63.03,49135656.25,15.08,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+whisper,whisper,hygiene and wellness,feminine hygiene,60.12,Medium,False,191309.0,8.82,0.0,63.03,49135656.25,10.12,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+stayfree,stayfree,hygiene and wellness,feminine hygiene,60.02,Medium,False,164044.0,6.52,0.0,63.03,49135656.25,9.9,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+period panties,period panties,hygiene and wellness,feminine hygiene,60.02,Medium,False,137655.0,6.42,0.0,63.03,49135656.25,10.26,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+pads,pads,hygiene and wellness,feminine hygiene,59.98,Medium,False,232880.0,5.53,0.0,63.03,49135656.25,18.38,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+sanitary pads,sanitary pads,hygiene and wellness,feminine hygiene,59.96,Medium,False,280571.0,7.45,0.0,63.03,49135656.25,10.12,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+sofy,sofy,hygiene and wellness,feminine hygiene,59.79,Medium,False,64457.0,1.2,0.0,63.03,49135656.25,13.31,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+sensodyne toothbrush,sensodyne toothbrush,hygiene and wellness,oral care,57.98,Medium,False,19600.0,16.94,0.0,59.26,33805924.82,8.33,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+brush,brush,hygiene and wellness,oral care,57.51,Medium,False,86408.0,6.03,0.0,59.26,33805924.82,21.25,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+sexual wellness,sexual wellness,hygiene and wellness,sexual wellness,54.67,Medium,True,50683.0,254.2,0.0,79.24,9806845.06,15.45,75.0,SEASONAL_NORMAL,DEMAND_SURGE|AUTOSUGGEST_DRIVEN|ACCELERATING
+anti dandruff,anti dandruff,bath body and hair,shampoo and conditioner,54.39,Medium,False,26805.0,7.65,0.0,73.18,25957139.62,7.28,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+mehendi,mehendi,beauty and grooming,hair colour,54.32,Medium,True,16070.0,250.8,0.0,76.6,94342.32,9.54,100.0,SEASONAL_NORMAL,DEMAND_SURGE|AUTOSUGGEST_DRIVEN|STABLE_UP
+l'oreal paris,l'oreal paris,bath body and hair,shampoo and conditioner,53.96,Medium,True,17146.0,84.92,0.0,73.18,25957139.62,7.79,75.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|ACCELERATING
+tresemme shampoo,tresemme shampoo,bath body and hair,shampoo and conditioner,53.94,Medium,True,12912.0,84.35,0.0,73.18,25957139.62,7.2,75.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|ACCELERATING
+nail clipper,nail clipper,makeup,makeup brushes and tools,53.87,Medium,True,17396.0,287.96,0.0,56.77,4271526.83,9.51,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|DEMAND_SURGE|AUTOSUGGEST_DRIVEN|ACCELERATING
+tongue cleaner,tongue cleaner,hygiene and wellness,oral care,53.76,Medium,False,117519.0,5.93,0.0,59.26,33805924.82,11.6,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+colgate,colgate,hygiene and wellness,oral care,53.69,Medium,False,237025.0,4.46,0.0,59.26,33805924.82,11.38,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+paste,paste,hygiene and wellness,oral care,53.66,Medium,False,104136.0,3.67,0.0,59.26,33805924.82,15.54,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+mouthwash,mouthwash,hygiene and wellness,oral care,53.66,Medium,False,71940.0,3.54,0.0,59.26,33805924.82,11.69,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+toothbrush,toothbrush,hygiene and wellness,oral care,53.59,Medium,False,512669.0,1.97,0.0,59.26,33805924.82,10.27,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+electric toothbrush,electric toothbrush,hygiene and wellness,oral care,53.55,Medium,False,17031.0,0.99,0.0,59.26,33805924.82,9.39,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+toothpaste,toothpaste,hygiene and wellness,oral care,53.53,Medium,False,510868.0,0.61,0.0,59.26,33805924.82,11.81,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+durex condom,durex condom,hygiene and wellness,sexual wellness,51.65,Medium,True,57881.0,96.92,0.0,79.24,9806845.06,8.77,100.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|STABLE_UP
+price drop,price drop,hygiene and wellness,basic pharma,51.19,Medium,True,11765.0,33.01,0.0,61.57,20346291.32,24.74,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+hair mask,hair mask,bath body and hair,shampoo and conditioner,51.13,Medium,False,52691.0,19.05,0.0,73.18,25957139.62,15.58,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+conditioner,conditioner,bath body and hair,shampoo and conditioner,50.77,Medium,False,167512.0,10.83,0.0,73.18,25957139.62,11.44,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+bare anatomy,bare anatomy,bath body and hair,shampoo and conditioner,50.75,Medium,False,93668.0,10.24,0.0,73.18,25957139.62,8.99,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+l'oreal shampoo,l'oreal shampoo,bath body and hair,shampoo and conditioner,50.67,Medium,False,118780.0,8.53,0.0,73.18,25957139.62,7.58,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+shampoo,shampoo,bath body and hair,shampoo and conditioner,50.63,Medium,False,524644.0,12.09,0.0,73.18,25957139.62,14.28,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+pilgrim shampoo,pilgrim shampoo,bath body and hair,shampoo and conditioner,50.46,Medium,False,20614.0,3.45,0.0,73.18,25957139.62,8.55,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+dove shampoo,dove shampoo,bath body and hair,shampoo and conditioner,50.43,Medium,False,91196.0,2.88,0.0,73.18,25957139.62,11.0,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+rose water,rose water,beauty and grooming,shampoo and conditioner,50.31,Medium,False,16326.0,0.0,0.0,73.18,25957139.62,15.78,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+lux soap,lux soap,bath body and hair,soap,49.97,Medium,True,15739.0,22.95,0.0,70.67,13484791.84,12.46,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+sensodyne toothpaste,sensodyne toothpaste,hygiene and wellness,oral care,49.03,Medium,False,28804.0,-16.65,0.0,59.26,33805924.82,7.62,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+cough medicine,cough medicine,hygiene and wellness,basic pharma,48.57,Medium,False,12002.0,12.66,0.0,61.57,20346291.32,10.0,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+adult diaper,adult diaper,hygiene and wellness,basic pharma,48.33,Medium,False,122638.0,7.13,0.0,61.57,20346291.32,8.35,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+condom,condom,hygiene and wellness,sexual wellness,47.99,Medium,False,551578.0,14.01,0.0,79.24,9806845.06,12.65,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+gillette blade,gillette blade,beauty and grooming,shaving needs,47.95,Medium,True,44143.0,58.65,0.0,70.32,4761087.74,6.57,100.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|STABLE_UP
+aloe vera,aloe vera,beauty and grooming,face and lip care,47.89,Medium,True,25923.0,101.81,0.0,66.05,54260.38,14.72,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|DEMAND_SURGE|AUTOSUGGEST_DRIVEN|STABLE_UP
+pilgrim serum,pilgrim serum,beauty and grooming,face and lip care,47.66,Medium,True,40761.0,96.42,0.0,66.05,54260.38,8.23,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|HIGH_GROWTH|AUTOSUGGEST_DRIVEN|STABLE_UP
+moisturising cream,moisturising cream,bath body and hair,face cream,47.65,Medium,True,36272.0,94.04,0.0,78.65,282142.76,11.99,100.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|STABLE_UP
+ghar soaps,ghar soaps,bath body and hair,soap,47.47,Medium,True,30577.0,51.97,0.0,70.67,13484791.84,9.94,75.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|ACCELERATING
+simple wash,simple wash,bath body and hair,face wash and scrub,47.05,Medium,True,11769.0,82.58,0.0,87.25,6203.3,5.36,100.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|STABLE_UP
+ghar soap,ghar soaps,bath body and hair,soap,46.8,Medium,True,21923.0,36.38,0.0,70.67,13484791.84,13.79,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+handwash,handwash,hygiene and wellness,hand wash and sanitizer,46.59,Medium,True,412165.0,24.82,0.0,78.04,4993263.34,10.99,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+blade,blade,beauty and grooming,hair removal,46.59,Medium,False,11485.0,15.46,0.0,69.71,5983529.01,18.25,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+bellavita perfume,bellavita perfume,bath body and hair,"perfumes, deos and talc",46.05,Medium,True,12475.0,146.74,0.0,100,0.0,9.63,75.0,SEASONAL_NORMAL,DEMAND_SURGE|AUTOSUGGEST_DRIVEN|ACCELERATING
+dove soaps,dove soaps,bath body and hair,soap,45.9,Medium,False,88901.0,15.5,0.0,70.67,13484791.84,8.8,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+cotton pads,cotton pads,makeup,makeup brushes and tools,45.89,Medium,False,15031.0,15.26,0.0,56.77,4271526.83,12.0,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+pears,pears,bath body and hair,soap,45.74,Medium,False,116769.0,11.8,0.0,70.67,13484791.84,13.4,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+razor for men,razor for men,beauty and grooming,shaving needs,45.74,Medium,False,30050.0,7.12,0.0,70.32,4761087.74,11.23,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+dove,dove,bath body and hair,soap,45.61,Medium,False,81509.0,8.89,0.0,70.67,13484791.84,10.54,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+bandage,bandage,hygiene and wellness,wound care and pain relief,45.58,Medium,True,12348.0,75.07,0.0,65.97,6420294.68,9.63,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|HIGH_GROWTH|AUTOSUGGEST_DRIVEN|ACCELERATING
+soap,soap,bath body and hair,soap,45.51,Medium,False,232043.0,8.92,0.0,70.67,13484791.84,23.31,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+soaps,soaps,bath body and hair,soap,45.41,Medium,False,223986.0,8.74,0.0,70.67,13484791.84,12.27,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+pears soap,pears soap,bath body and hair,soap,45.4,Medium,False,86788.0,4.05,0.0,70.67,13484791.84,12.89,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+mehendi cones,mehendi cones,beauty and grooming,alta,45.22,Medium,True,12322.0,39.83,0.0,53.45,24764.25,10.16,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+eyebrow pencils,eyebrow pencils,makeup,eye makeup,45.17,Medium,True,11186.0,38.87,0.0,74.85,14592.04,10.95,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+moisturising lotion,moisturising lotion,bath body and hair,body lotion,45.03,Medium,True,36671.0,32.39,0.0,84.79,359436.93,9.65,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+castor oil,castor oil,bath body and hair,hair oil and serum,44.72,Medium,True,52431.0,59.56,0.0,83.02,5945372.95,12.47,75.0,SEASONAL_NORMAL,HIGH_GROWTH|AUTOSUGGEST_DRIVEN|ACCELERATING
+vaseline jelly,vaseline jelly,beauty and grooming,face and lip care,44.63,Medium,True,45069.0,26.08,0.0,66.05,54260.38,8.32,100.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|STABLE_UP
+nail,nail,makeup,nail paints and accessories,44.48,Medium,False,15220.0,13.28,0.0,71.65,1024308.65,18.52,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+lip liner,lip liner,makeup,lip makeup,44.44,Medium,True,70238.0,21.85,0.0,88.47,8747.92,17.45,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+pregnancy test,pregnancy test,hygiene and wellness,basic pharma,44.11,Medium,False,83823.0,-3.68,0.0,61.57,20346291.32,9.11,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+pregnancy kit,pregnancy kit,hygiene and wellness,basic pharma,44.09,Medium,False,205630.0,-1.84,0.0,61.57,20346291.32,8.28,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+medicine,medicine,hygiene and wellness,basic pharma,44.03,Medium,False,115946.0,-5.73,0.0,61.57,20346291.32,7.19,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+prega news,prega news,hygiene and wellness,basic pharma,44.0,Medium,False,73438.0,-6.28,0.0,61.57,20346291.32,6.85,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+facial kit,facial kit,beauty and grooming,face and lip care,44.0,Medium,True,66848.0,98.57,0.0,66.05,54260.38,13.88,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|HIGH_GROWTH|AUTOSUGGEST_DRIVEN|ACCELERATING
+nail paint,nail paint,makeup,nail paints and accessories,43.94,Medium,False,63894.0,0.75,0.0,71.65,1024308.65,11.79,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+hand sanitizer,hand sanitizer,hygiene and wellness,hand wash and sanitizer,43.84,Medium,True,22050.0,48.11,0.0,78.04,4993263.34,10.99,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+mars,mars,makeup,milk chocolates,43.75,Medium,False,19491.0,6.11,0,100,0.0,14.9,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+dot & key,dot & key,bath body and hair,face cream,43.67,Medium,False,24242.0,1.47,0.0,78.65,282142.76,8.18,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+derma co,derma co,bath body and hair,face wash and scrub,43.59,Medium,False,17264.0,2.23,0.0,87.25,6203.3,7.53,100.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|STABLE_UP
+prega kit,prega kit,hygiene and wellness,basic pharma,43.55,Medium,False,35048.0,-16.76,0.0,61.57,20346291.32,7.19,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+body scrub,body scrub,bath body and hair,shower gel,43.27,Medium,False,32225.0,9.12,0.0,76.01,7704801.8,15.24,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+body wash,body wash,bath body and hair,shower gel,43.02,Medium,False,368588.0,3.32,0.0,76.01,7704801.8,12.2,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+chemist at play,chemist at play,bath body and hair,shower gel,43.02,Medium,False,69685.0,3.26,0.0,76.01,7704801.8,10.0,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+gillette,gillette,beauty and grooming,shaving needs,42.59,Medium,True,19579.0,21.22,0.0,70.32,4761087.74,10.83,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+dettol,dettol,hygiene and wellness,wound care and pain relief,42.5,Medium,False,203094.0,3.31,0.0,65.97,6420294.68,11.13,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+rosemary oil,rosemary oil,bath body and hair,hair oil and serum,42.41,Medium,False,11225.0,5.71,0.0,83.02,5945372.95,13.62,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+hair oil,hair oil,bath body and hair,hair oil and serum,42.4,Medium,False,137968.0,5.6,0.0,83.02,5945372.95,13.11,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+hair serum,hair serum,bath body and hair,hair oil and serum,42.36,Medium,False,160500.0,4.49,0.0,83.02,5945372.95,12.13,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+cough syrup,cough syrup,hygiene and wellness,basic pharma,42.27,Medium,False,29923.0,-46.62,0.0,61.57,20346291.32,9.39,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+wax,wax,beauty and grooming,hair removal,42.21,Medium,False,12713.0,0.86,0.0,69.71,5983529.01,19.75,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+sensodyne,sensodyne,hygiene and wellness,oral care,42.19,Medium,False,126160.0,-1.42,0.0,59.26,33805924.82,8.75,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+coconut oil,coconut oil,bath body and hair,hair oil and serum,42.18,Medium,False,493904.0,0.36,0.0,83.02,5945372.95,13.14,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+rosemary water,rosemary water,bath body and hair,hair oil and serum,42.16,Medium,False,11065.0,0.0,0.0,83.02,5945372.95,11.0,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+dettol handwash,dettol handwash,hygiene and wellness,hand wash and sanitizer,42.1,Medium,False,89389.0,7.64,0.0,78.04,4993263.34,8.15,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+primer,primer,makeup,face makeup,41.95,Medium,True,12236.0,41.97,0.0,75.53,985183.97,16.22,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+toner,toner,beauty and grooming,face makeup,41.58,Medium,True,16483.0,33.39,0.0,75.53,985183.97,9.58,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+spray bottles,spray bottle,makeup,makeup brushes and tools,41.48,Medium,False,12955.0,0.0,0.0,56.77,4271526.83,13.62,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+simple,simple,bath body and hair,face wash and scrub,41.31,Medium,True,13593.0,36.5,0.0,87.25,6203.3,9.59,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+cetaphil soap,cetaphil soap,bath body and hair,soap,40.8,Medium,False,13391.0,-15.92,0.0,70.67,13484791.84,8.61,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+aloe vera gel,aloe vera gel,beauty and grooming,face and lip care,40.79,Medium,True,25127.0,23.94,0.0,66.05,54260.38,11.5,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+serum,serum,beauty and grooming,face and lip care,40.67,Medium,True,28363.0,21.14,0.0,66.05,54260.38,19.18,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+compact,compact,makeup,face makeup,40.55,Medium,False,10890.0,9.57,0.0,75.53,985183.97,10.43,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+the derma co,the derma co,bath body and hair,face wash and scrub,40.53,Medium,False,19217.0,18.38,0.0,87.25,6203.3,9.21,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+sunscreen,sunscreen,bath body and hair,face cream,40.5,Medium,False,267820.0,14.88,0.0,78.65,282142.76,11.82,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+minoxidil,minoxidil,beauty and grooming,mens grooming,40.5,Medium,False,10517.0,15.74,0.0,55.13,194003.13,13.27,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+face scrub,face scrub,bath body and hair,face wash and scrub,40.39,Medium,False,36817.0,14.93,0.0,87.25,6203.3,11.6,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+cetaphil cleanser,cetaphil cleanser,bath body and hair,face wash and scrub,40.33,Medium,False,155800.0,13.72,0.0,87.25,6203.3,7.35,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+powder,powder,bath body and hair,"perfumes, deos and talc",40.29,Medium,False,18576.0,12.73,0.0,100,0.0,17.11,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+roll on,roll on,bath body and hair,"perfumes, deos and talc",40.22,Medium,False,66828.0,11.06,0.0,100,0.0,15.11,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+foundation,foundation,makeup,face makeup,40.18,Medium,False,29704.0,0.87,0.0,75.53,985183.97,13.1,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+face serum,face serum,beauty and grooming,face and lip care,40.18,Medium,False,27984.0,9.58,0.0,66.05,54260.38,15.33,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+multani mitti,multani mitti,beauty and grooming,face and lip care,40.06,Medium,False,19082.0,6.84,0.0,66.05,54260.38,8.46,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+facewash,facewash,bath body and hair,face wash and scrub,40.02,Medium,False,89331.0,6.5,0.0,87.25,6203.3,16.09,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+face wash,face wash,bath body and hair,face wash and scrub,40.01,Medium,False,407387.0,6.18,0.0,87.25,6203.3,13.79,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+kajal,kajal,makeup,eye makeup,40.0,Medium,False,97764.0,5.94,0.0,74.85,14592.04,15.28,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+shoe polish,shoe polish,beauty and grooming,mens grooming,39.98,Medium,False,23362.0,3.66,0.0,55.13,194003.13,16.43,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+sex toys,sex toys,hygiene and wellness,sexual wellness,39.95,Medium,False,30111.0,-0.71,0.0,79.24,9806845.06,11.68,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+mascara,mascara,makeup,eye makeup,39.9,Medium,False,28462.0,3.5,0.0,74.85,14592.04,11.16,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+fair and lovely,fair and lovely,bath body and hair,face cream,39.9,Medium,False,19659.0,1.07,0.0,78.65,282142.76,11.7,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+face pack,face pack,beauty and grooming,face and lip care,39.89,Medium,False,16646.0,2.96,0.0,66.05,54260.38,17.63,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+cera ve,cera ve,bath body and hair,body lotion,39.89,Medium,False,11435.0,0.0,0.0,84.79,359436.93,18.72,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+cetaphil,cetaphil,bath body and hair,face wash and scrub,39.86,Medium,False,182070.0,2.77,0.0,87.25,6203.3,8.56,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+plum,plum,bath body and hair,face cream,39.86,Medium,False,23937.0,0.0,0.0,78.65,282142.76,17.74,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+cetaphil face wash,cetaphil face wash,bath body and hair,face wash and scrub,39.86,Medium,False,10456.0,2.69,0.0,87.25,6203.3,11.31,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+hair colour,hair colour,beauty and grooming,hair colour,39.85,Medium,False,165396.0,1.52,0.0,76.6,94342.32,11.66,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+lip gloss,lip gloss,makeup,lip makeup,39.85,Medium,False,86369.0,2.53,0.0,88.47,8747.92,14.88,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+vitamin c,vitamin c,beauty and grooming,face and lip care,39.82,Medium,False,21280.0,1.28,0.0,66.05,54260.38,13.51,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+pimple patch,pimple patch,beauty and grooming,face and lip care,39.79,Medium,False,111862.0,0.52,0.0,66.05,54260.38,13.82,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+pilgrim,pilgrim,beauty and grooming,face and lip care,39.76,Medium,False,13711.0,0.0,0.0,66.05,54260.38,9.86,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+foxtale,foxtale,bath body and hair,face and lip care,39.76,Medium,False,13662.0,0.0,0.0,66.05,54260.38,9.24,75.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN|ACCELERATING
+himalaya face wash,himalaya face wash,bath body and hair,face wash and scrub,39.75,Medium,False,20414.0,0.22,0.0,87.25,6203.3,13.23,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+kiro,kiro,makeup,lip makeup,39.75,Medium,False,10264.0,0.0,0.0,88.47,8747.92,13.55,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
+mysore sandal,mysore sandal,bath body and hair,soap,39.14,Medium,False,72969.0,-14.86,0.0,70.67,13484791.84,8.71,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+dandruff shampoo,dandruff shampoo,bath body and hair,shampoo and conditioner,38.77,Medium,False,10740.0,-6.66,0.0,73.18,25957139.62,10.11,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+bombay shaving company,bombay shaving company,beauty and grooming,shaving needs,37.76,Medium,False,15982.0,-4.05,0.0,70.32,4761087.74,9.19,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+lens,lens,hygiene and wellness,basic pharma,36.31,Medium,False,11711.0,-10.78,0.0,61.57,20346291.32,14.2,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+razor for women,razor for women,beauty and grooming,hair removal,36.26,Medium,False,15425.0,-50.5,0.0,69.71,5983529.01,9.93,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+vicks,vicks,hygiene and wellness,basic pharma,36.04,Medium,False,136019.0,-16.95,0.0,61.57,20346291.32,14.67,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+mask,mask,hygiene and wellness,basic pharma,35.98,Medium,False,98637.0,-18.5,0.0,61.57,20346291.32,20.44,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+cotton,cotton,makeup,makeup brushes and tools,35.47,Medium,False,29001.0,-52.55,0.0,56.77,4271526.83,15.34,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+paradyes,paradyes,beauty and grooming,hair colour,35.4,Medium,False,19797.0,-14.57,0.0,76.6,94342.32,14.79,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+perfume,perfumes,bath body and hair,"perfumes, deos and talc",35.06,Medium,False,127260.0,-21.58,0.0,100,0.0,16.73,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+perfumes,perfumes,bath body and hair,"perfumes, deos and talc",34.86,Medium,False,171633.0,-26.36,0.0,100,0.0,11.54,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+nail polish,nail polish,makeup,nail paints and accessories,34.63,Medium,False,45761.0,-41.37,0.0,71.65,1024308.65,10.15,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+pilgrim,pilgrim,bath body and hair,face and lip care,34.48,Medium,False,17281.0,-35.53,0.0,66.05,54260.38,9.86,50.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+moisturizer,moisturizer,bath body and hair,body lotion,34.23,Medium,False,137526.0,-44.33,0.0,84.79,359436.93,9.41,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+nivea moisturizer,nivea moisturizer,bath body and hair,face cream,33.66,Medium,False,24693.0,-56.81,0.0,78.65,282142.76,8.87,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+bella vita,bella vita,bath body and hair,"perfumes, deos and talc",33.41,Medium,False,22303.0,-60.1,0.0,100,0.0,8.22,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+n95 mask,n95 mask,hygiene and wellness,basic pharma,33.28,Medium,False,13866.0,-81.17,0.0,61.57,20346291.32,16.98,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+plum,plum,bath body and hair,fruits,33.25,Medium,False,33716.0,-63.67,0,100,0.0,17.74,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+perfume men,perfume men,bath body and hair,"perfumes, deos and talc",33.2,Medium,False,19527.0,-64.88,0.0,100,0.0,7.06,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+rose water,rose water,beauty and grooming,gift packs,32.98,Medium,False,13371.0,-70.41,0.0,84.86,56257.07,15.78,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+gift for men,gift for men,bath body and hair,"perfumes, deos and talc",32.66,Medium,False,20459.0,-77.32,0.0,100,0.0,21.6,50.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+shower gel,shower gel,bath body and hair,shower gel,31.0,Medium,False,56241.0,-14.69,0.0,76.01,7704801.8,16.05,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+face razor,face razor,beauty and grooming,hair removal,30.9,Medium,False,58192.0,-0.69,0.0,69.71,5983529.01,16.67,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+parachute,parachute,bath body and hair,hair oil and serum,30.87,Medium,False,95983.0,-1.11,0.0,83.02,5945372.95,9.22,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+hair removal,hair removal,beauty and grooming,hair removal,30.87,Medium,False,20552.0,-1.44,0.0,69.71,5983529.01,7.82,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+almond oil,almond oil,bath body and hair,hair oil and serum,30.8,Medium,False,24200.0,-2.47,0.0,83.02,5945372.95,14.02,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+razor,razor,beauty and grooming,hair removal,30.68,Medium,False,113500.0,-5.66,0.0,69.71,5983529.01,17.54,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+sanitizer,sanitizer,hygiene and wellness,hand wash and sanitizer,30.36,Medium,False,74943.0,-3.71,0.0,78.04,4993263.34,11.08,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+nail cutter,nail cutter,makeup,makeup brushes and tools,30.17,Medium,False,83706.0,-1.3,0.0,56.77,4271526.83,11.35,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+hair removal spray,hair removal spray,beauty and grooming,hair removal,29.36,Medium,False,10491.0,-36.52,0.0,69.71,5983529.01,14.29,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+blush,blush,makeup,face makeup,28.87,Medium,False,20335.0,-0.42,0.0,75.53,985183.97,20.38,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+concealer,concealer,makeup,face makeup,28.81,Medium,False,26024.0,-1.9,0.0,75.53,985183.97,13.57,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+spray bottle,spray bottle,makeup,makeup brushes and tools,28.64,Medium,False,14073.0,-36.9,0.0,56.77,4271526.83,20.09,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+derma roller,derma roller,beauty and grooming,mens grooming,28.56,Medium,False,15156.0,-0.25,0.0,55.13,194003.13,11.5,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+pond's,pond's,bath body and hair,"perfumes, deos and talc",28.46,Medium,False,14494.0,-0.6,0.0,100,0.0,11.71,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+cetaphil moisturiser,cetaphil moisturiser,bath body and hair,body lotion,28.45,Medium,False,27295.0,-4.33,0.0,84.79,359436.93,8.94,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+hair wax,hair wax,beauty and grooming,mens grooming,28.45,Medium,False,18810.0,-2.85,0.0,55.13,194003.13,11.36,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+dot and key,dot and key,bath body and hair,face cream,28.41,Medium,False,16450.0,-4.45,0.0,78.65,282142.76,12.9,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+face cream,face cream,bath body and hair,face cream,28.39,Medium,False,25006.0,-5.04,0.0,78.65,282142.76,13.68,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+lip tint,lip tint,makeup,lip makeup,28.39,Medium,False,13802.0,-2.51,0.0,88.47,8747.92,10.71,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+eyeliner,eyeliner,makeup,eye makeup,28.37,Medium,False,73478.0,-2.87,0.0,74.85,14592.04,13.51,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+mars lipstick,mars lipstick,makeup,lip makeup,28.32,Medium,False,18680.0,-4.16,0.0,88.47,8747.92,11.61,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+mirror,mirror,makeup,makeup brushes and tools,28.3,Medium,False,32508.0,-40.12,0.0,56.77,4271526.83,14.6,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+deos,deos,bath body and hair,"perfumes, deos and talc",28.28,Medium,False,11292.0,-4.96,0.0,100,0.0,14.38,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+hair spray,hair spray,beauty and grooming,mens grooming,28.17,Medium,False,14742.0,-9.24,0.0,55.13,194003.13,13.77,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+mamaearth,mamaearth,bath body and hair,face wash and scrub,28.17,Medium,False,14160.0,-7.54,0.0,87.25,6203.3,4.14,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+lipstick,lipstick,makeup,lip makeup,28.16,Medium,False,173198.0,-7.88,0.0,88.47,8747.92,13.17,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+renee,renee,makeup,eye makeup,28.13,Medium,False,12970.0,-8.54,0.0,74.85,14592.04,16.32,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+lipbalm,lipbalm,beauty and grooming,face and lip care,28.07,Medium,False,12581.0,-10.38,0.0,66.05,54260.38,12.37,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+press on nails,press on nails,makeup,nail paints and accessories,27.98,Medium,False,14485.0,-21.68,0.0,71.65,1024308.65,14.05,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+face mask,face mask,beauty and grooming,face and lip care,27.96,Medium,False,138886.0,-12.75,0.0,66.05,54260.38,17.37,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+nose strip,nose strip,beauty and grooming,face and lip care,27.81,Medium,False,13557.0,-16.24,0.0,66.05,54260.38,12.07,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+nails,nails,makeup,nail paints and accessories,27.79,Medium,False,14492.0,-25.88,0.0,71.65,1024308.65,22.15,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+minimalist,minimalist,bath body and hair,face wash and scrub,27.73,Medium,False,43263.0,-17.77,0.0,87.25,6203.3,11.26,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+hand cream,hand cream,bath body and hair,face cream,27.7,Medium,False,12150.0,-21.14,0.0,78.65,282142.76,26.63,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+bb cream,bb cream,bath body and hair,face cream,27.67,Medium,False,11333.0,-21.86,0.0,78.65,282142.76,20.96,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+nivea,nivea,bath body and hair,body lotion,27.58,Medium,False,69293.0,-24.64,0.0,84.79,359436.93,11.15,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+body lotion,body lotion,bath body and hair,body lotion,27.49,Medium,False,274799.0,-26.76,0.0,84.79,359436.93,12.25,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+glycerine,glycerine,beauty and grooming,face and lip care,27.48,Medium,False,16917.0,-24.07,0.0,66.05,54260.38,13.06,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+lip balm,lip balm,beauty and grooming,face and lip care,27.47,Medium,False,308826.0,-24.18,0.0,66.05,54260.38,13.85,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+vaseline,vaseline,bath body and hair,body lotion,27.41,Medium,False,141291.0,-28.61,0.0,84.79,359436.93,11.34,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+body oil,body oil,bath body and hair,body lotion,26.93,Medium,False,22108.0,-39.68,0.0,84.79,359436.93,16.24,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+foxtale,foxtale,beauty and grooming,face and lip care,26.82,Medium,False,13175.0,-39.44,0.0,66.05,54260.38,9.24,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+face moisturizer,face moisturizer,bath body and hair,face cream,26.73,Medium,False,30958.0,-43.52,0.0,78.65,282142.76,10.44,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+vaseline lip,vaseline lip,beauty and grooming,face and lip care,25.59,Medium,False,11450.0,-68.02,0.0,66.05,54260.38,12.2,0.0,SEASONAL_NORMAL,SUPPLY_CONSTRAINED|AUTOSUGGEST_DRIVEN
+boroline,boroline,bath body and hair,face cream,25.44,Medium,False,65188.0,-43.41,0.0,78.65,282142.76,12.24,0.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN
+sebamed,sebamed,bath body and hair,shampoo and conditioner,8.86,Medium,False,17975.0,5.8,0.0,73.18,25957139.62,13.92,75.0,SEASONAL_NORMAL,AUTOSUGGEST_DRIVEN|ACCELERATING
