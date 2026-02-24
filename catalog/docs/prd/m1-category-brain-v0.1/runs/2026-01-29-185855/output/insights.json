@@ -1,0 +1,1406 @@
+[
+  {
+    "insight_number": 1,
+    "title": "Pantyliners (+113% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "Strong emerging demand for 'pantyliners' with 113% MoM growth indicates shifting consumer preferences in feminine hygiene. This represents a clear catalog opportunity.",
+    "strategy": [
+      "Expand SKU assortment for 'pantyliners' category immediately",
+      "Feature in homepage promotions and search autocomplete",
+      "Ensure 95%+ availability across all dark stores"
+    ],
+    "evidence": {
+      "search_volume": 5626,
+      "search_growth_pct": 113.03,
+      "zero_result_rate": 0.03,
+      "availability_pct": 0.06,
+      "emerging_score": 99.87
+    },
+    "confidence": "Medium",
+    "confidence_reason": "Solid volume (5,626/wk) indicates meaningful consumer demand signal",
+    "tags": [
+      "DEMAND_SURGE",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "pantyliners"
+    ]
+  },
+  {
+    "insight_number": 2,
+    "title": "Cera Ve (-54% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "consumer_insight": "'Cera Ve' shows significant volume (4,243 searches/week) with -54% MoM change. Monitor for seasonal patterns or category shifts in body lotion.",
+    "strategy": [
+      "Address supply constraints in body lotion (current: 0%)",
+      "Review forecasting for 'cera ve' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4243,
+      "search_growth_pct": -54.07,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.49,
+      "emerging_score": 54.81
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "cera ve"
+    ]
+  },
+  {
+    "insight_number": 3,
+    "title": "Close Up (-55% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "consumer_insight": "'Close Up' shows significant volume (4,343 searches/week) with -55% MoM change. Monitor for seasonal patterns or category shifts in oral care.",
+    "strategy": [
+      "Address supply constraints in oral care (current: 0%)",
+      "Review forecasting for 'close up' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4343,
+      "search_growth_pct": -54.9,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 54.79
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "close up"
+    ]
+  },
+  {
+    "insight_number": 4,
+    "title": "Ghar Soaps (-56% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Ghar Soaps' shows significant volume (11,591 searches/week) with -56% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'ghar soaps' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 11591,
+      "search_growth_pct": -55.78,
+      "zero_result_rate": 0.03,
+      "availability_pct": 0.0,
+      "emerging_score": 54.44
+    },
+    "confidence": "Medium",
+    "confidence_reason": "Solid volume (11,591/wk) indicates meaningful consumer demand signal",
+    "tags": [
+      "MEDIUM_VOLUME",
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "ghar soaps"
+    ]
+  },
+  {
+    "insight_number": 5,
+    "title": "Vibrator (-59% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "consumer_insight": "'Vibrator' shows significant volume (3,859 searches/week) with -59% MoM change. Monitor for seasonal patterns or category shifts in sexual wellness.",
+    "strategy": [
+      "Address supply constraints in sexual wellness (current: 0%)",
+      "Review forecasting for 'vibrator' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3859,
+      "search_growth_pct": -59.11,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 53.65
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "vibrator"
+    ]
+  },
+  {
+    "insight_number": 6,
+    "title": "Pond'S Moisture (-61% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "consumer_insight": "'Pond'S Moisture' shows significant volume (5,237 searches/week) with -61% MoM change. Monitor for seasonal patterns or category shifts in face cream.",
+    "strategy": [
+      "Address supply constraints in face cream (current: 0%)",
+      "Review forecasting for 'pond's moisture' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 5237,
+      "search_growth_pct": -60.75,
+      "zero_result_rate": 0.05,
+      "availability_pct": 0.0,
+      "emerging_score": 53.02
+    },
+    "confidence": "Medium",
+    "confidence_reason": "Solid volume (5,237/wk) indicates meaningful consumer demand signal",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "pond's moisture"
+    ]
+  },
+  {
+    "insight_number": 7,
+    "title": "Whisper Pad (-61% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Whisper Pad' shows significant volume (5,685 searches/week) with -61% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Audit catalog coverage for 'whisper pad' - 8.0% zero result rate",
+      "Identify brand/SKU gaps vs competitors",
+      "Fast-track onboarding of missing variants"
+    ],
+    "evidence": {
+      "search_volume": 5685,
+      "search_growth_pct": -60.59,
+      "zero_result_rate": 0.08,
+      "availability_pct": 0.06,
+      "emerging_score": 52.94
+    },
+    "confidence": "Medium",
+    "confidence_reason": "Solid volume (5,685/wk) indicates meaningful consumer demand signal",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "whisper pad"
+    ]
+  },
+  {
+    "insight_number": 8,
+    "title": "Stayfree Pad (-62% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Stayfree Pad' shows significant volume (3,131 searches/week) with -62% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'stayfree pad' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3131,
+      "search_growth_pct": -61.82,
+      "zero_result_rate": 0.03,
+      "availability_pct": 0.06,
+      "emerging_score": 52.8
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "stayfree pad"
+    ]
+  },
+  {
+    "insight_number": 9,
+    "title": "Mehendi (-66% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair colour",
+    "consumer_insight": "'Mehendi' shows significant volume (4,889 searches/week) with -66% MoM change. Monitor for seasonal patterns or category shifts in hair colour.",
+    "strategy": [
+      "Address supply constraints in hair colour (current: 0%)",
+      "Review forecasting for 'mehendi' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4889,
+      "search_growth_pct": -65.7,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 51.88
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "mehendi"
+    ]
+  },
+  {
+    "insight_number": 10,
+    "title": "Mysore Sandal Soaps (-65% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Mysore Sandal Soaps' shows significant volume (6,127 searches/week) with -65% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'mysore sandal soaps' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 6127,
+      "search_growth_pct": -65.49,
+      "zero_result_rate": 0.05,
+      "availability_pct": 0.0,
+      "emerging_score": 51.75
+    },
+    "confidence": "Medium",
+    "confidence_reason": "Solid volume (6,127/wk) indicates meaningful consumer demand signal",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "mysore sandal soaps"
+    ]
+  },
+  {
+    "insight_number": 11,
+    "title": "Sanfe (-66% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "consumer_insight": "'Sanfe' shows significant volume (4,394 searches/week) with -66% MoM change. Monitor for seasonal patterns or category shifts in face cream.",
+    "strategy": [
+      "Address supply constraints in face cream (current: 0%)",
+      "Review forecasting for 'sanfe' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4394,
+      "search_growth_pct": -66.02,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.0,
+      "emerging_score": 51.72
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "sanfe"
+    ]
+  },
+  {
+    "insight_number": 12,
+    "title": "Whisper Xxl (-68% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Whisper Xxl' shows significant volume (3,947 searches/week) with -68% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'whisper xxl' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3947,
+      "search_growth_pct": -67.59,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.06,
+      "emerging_score": 51.36
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "whisper xxl"
+    ]
+  },
+  {
+    "insight_number": 13,
+    "title": "Listerine (-70% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "consumer_insight": "'Listerine' shows significant volume (3,633 searches/week) with -70% MoM change. Monitor for seasonal patterns or category shifts in oral care.",
+    "strategy": [
+      "Audit catalog coverage for 'listerine' - 8.0% zero result rate",
+      "Identify brand/SKU gaps vs competitors",
+      "Fast-track onboarding of missing variants"
+    ],
+    "evidence": {
+      "search_volume": 3633,
+      "search_growth_pct": -69.67,
+      "zero_result_rate": 0.08,
+      "availability_pct": 0.0,
+      "emerging_score": 50.51
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "listerine"
+    ]
+  },
+  {
+    "insight_number": 14,
+    "title": "Cetaphil Soap (-72% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Cetaphil Soap' shows significant volume (4,271 searches/week) with -72% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'cetaphil soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4271,
+      "search_growth_pct": -71.97,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 50.19
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "cetaphil soap"
+    ]
+  },
+  {
+    "insight_number": 15,
+    "title": "Sofy Pad (-72% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Sofy Pad' shows significant volume (4,972 searches/week) with -72% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'sofy pad' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4972,
+      "search_growth_pct": -72.17,
+      "zero_result_rate": 0.04,
+      "availability_pct": 0.06,
+      "emerging_score": 49.97
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "sofy pad"
+    ]
+  },
+  {
+    "insight_number": 16,
+    "title": "Stayfree Pads (-72% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Stayfree Pads' shows significant volume (5,448 searches/week) with -72% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'stayfree pads' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 5448,
+      "search_growth_pct": -72.13,
+      "zero_result_rate": 0.05,
+      "availability_pct": 0.06,
+      "emerging_score": 49.95
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "stayfree pads"
+    ]
+  },
+  {
+    "insight_number": 17,
+    "title": "Nua Pads (-73% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Nua Pads' shows significant volume (5,122 searches/week) with -73% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'nua pads' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 5122,
+      "search_growth_pct": -72.75,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.06,
+      "emerging_score": 49.89
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "nua pads"
+    ]
+  },
+  {
+    "insight_number": 18,
+    "title": "Santoor Soap (-73% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Santoor Soap' shows significant volume (4,817 searches/week) with -73% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'santoor soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4817,
+      "search_growth_pct": -72.95,
+      "zero_result_rate": 0.04,
+      "availability_pct": 0.0,
+      "emerging_score": 49.78
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "santoor soap"
+    ]
+  },
+  {
+    "insight_number": 19,
+    "title": "Gillette (-74% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shaving needs",
+    "consumer_insight": "'Gillette' shows significant volume (4,646 searches/week) with -74% MoM change. Monitor for seasonal patterns or category shifts in shaving needs.",
+    "strategy": [
+      "Address supply constraints in shaving needs (current: 0%)",
+      "Review forecasting for 'gillette' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4646,
+      "search_growth_pct": -73.7,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.73
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "gillette"
+    ]
+  },
+  {
+    "insight_number": 20,
+    "title": "Colgate Toothpaste (-74% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "consumer_insight": "'Colgate Toothpaste' shows significant volume (4,999 searches/week) with -74% MoM change. Monitor for seasonal patterns or category shifts in oral care.",
+    "strategy": [
+      "Address supply constraints in oral care (current: 0%)",
+      "Review forecasting for 'colgate toothpaste' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4999,
+      "search_growth_pct": -73.8,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.7
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "colgate toothpaste"
+    ]
+  },
+  {
+    "insight_number": 21,
+    "title": "Dove Soap (-73% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Dove Soap' shows significant volume (7,510 searches/week) with -73% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'dove soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 7510,
+      "search_growth_pct": -73.45,
+      "zero_result_rate": 0.04,
+      "availability_pct": 0.0,
+      "emerging_score": 49.64
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "dove soap"
+    ]
+  },
+  {
+    "insight_number": 22,
+    "title": "Hair Dye (-74% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair colour",
+    "consumer_insight": "'Hair Dye' shows significant volume (4,235 searches/week) with -74% MoM change. Monitor for seasonal patterns or category shifts in hair colour.",
+    "strategy": [
+      "Address supply constraints in hair colour (current: 0%)",
+      "Review forecasting for 'hair dye' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4235,
+      "search_growth_pct": -74.07,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.63
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "hair dye"
+    ]
+  },
+  {
+    "insight_number": 23,
+    "title": "Sensodyne Toothpaste (-74% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "consumer_insight": "'Sensodyne Toothpaste' shows significant volume (9,177 searches/week) with -74% MoM change. Monitor for seasonal patterns or category shifts in oral care.",
+    "strategy": [
+      "Address supply constraints in oral care (current: 0%)",
+      "Review forecasting for 'sensodyne toothpaste' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 9177,
+      "search_growth_pct": -74.14,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.61
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "sensodyne toothpaste"
+    ]
+  },
+  {
+    "insight_number": 24,
+    "title": "Dettol Soap (-74% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Dettol Soap' shows significant volume (6,087 searches/week) with -74% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'dettol soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 6087,
+      "search_growth_pct": -74.21,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.59
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "dettol soap"
+    ]
+  },
+  {
+    "insight_number": 25,
+    "title": "Dabur Red Toothpaste (-74% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "consumer_insight": "'Dabur Red Toothpaste' shows significant volume (4,132 searches/week) with -74% MoM change. Monitor for seasonal patterns or category shifts in oral care.",
+    "strategy": [
+      "Address supply constraints in oral care (current: 0%)",
+      "Review forecasting for 'dabur red toothpaste' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4132,
+      "search_growth_pct": -74.38,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.54
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "dabur red toothpaste"
+    ]
+  },
+  {
+    "insight_number": 26,
+    "title": "Fiama Soap (-75% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Fiama Soap' shows significant volume (3,422 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'fiama soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3422,
+      "search_growth_pct": -74.72,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.45
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "fiama soap"
+    ]
+  },
+  {
+    "insight_number": 27,
+    "title": "Shoe Polish (-74% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "mens grooming",
+    "consumer_insight": "'Shoe Polish' shows significant volume (6,384 searches/week) with -74% MoM change. Monitor for seasonal patterns or category shifts in mens grooming.",
+    "strategy": [
+      "Address supply constraints in mens grooming (current: 0%)",
+      "Review forecasting for 'shoe polish' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 6384,
+      "search_growth_pct": -74.36,
+      "zero_result_rate": 0.03,
+      "availability_pct": 0.11,
+      "emerging_score": 49.41
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "shoe polish"
+    ]
+  },
+  {
+    "insight_number": 28,
+    "title": "Hair Spray (-75% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "mens grooming",
+    "consumer_insight": "'Hair Spray' shows significant volume (4,212 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in mens grooming.",
+    "strategy": [
+      "Address supply constraints in mens grooming (current: 0%)",
+      "Review forecasting for 'hair spray' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4212,
+      "search_growth_pct": -74.53,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.11,
+      "emerging_score": 49.4
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "hair spray"
+    ]
+  },
+  {
+    "insight_number": 29,
+    "title": "Primer (-75% MoM)",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "consumer_insight": "'Primer' shows significant volume (3,738 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in face makeup.",
+    "strategy": [
+      "Address supply constraints in face makeup (current: 0%)",
+      "Review forecasting for 'primer' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3738,
+      "search_growth_pct": -75.03,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.37
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "primer"
+    ]
+  },
+  {
+    "insight_number": 30,
+    "title": "Dove Body Wash (-75% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "consumer_insight": "'Dove Body Wash' shows significant volume (6,755 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in shower gel.",
+    "strategy": [
+      "Address supply constraints in shower gel (current: 0%)",
+      "Review forecasting for 'dove body wash' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 6755,
+      "search_growth_pct": -75.2,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.32
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "dove body wash"
+    ]
+  },
+  {
+    "insight_number": 31,
+    "title": "Whisper Ultra (-75% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Whisper Ultra' shows significant volume (6,626 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'whisper ultra' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 6626,
+      "search_growth_pct": -74.62,
+      "zero_result_rate": 0.04,
+      "availability_pct": 0.06,
+      "emerging_score": 49.31
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "whisper ultra"
+    ]
+  },
+  {
+    "insight_number": 32,
+    "title": "Foundation (-75% MoM)",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "consumer_insight": "'Foundation' shows significant volume (5,975 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in face makeup.",
+    "strategy": [
+      "Address supply constraints in face makeup (current: 0%)",
+      "Review forecasting for 'foundation' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 5975,
+      "search_growth_pct": -75.26,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.31
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "foundation"
+    ]
+  },
+  {
+    "insight_number": 33,
+    "title": "Colgate Toothbrush (-75% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "consumer_insight": "'Colgate Toothbrush' shows significant volume (3,547 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in oral care.",
+    "strategy": [
+      "Address supply constraints in oral care (current: 0%)",
+      "Review forecasting for 'colgate toothbrush' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3547,
+      "search_growth_pct": -75.28,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.3
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "colgate toothbrush"
+    ]
+  },
+  {
+    "insight_number": 34,
+    "title": "Ghar Soap (-75% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Ghar Soap' shows significant volume (5,546 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'ghar soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 5546,
+      "search_growth_pct": -75.13,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.0,
+      "emerging_score": 49.27
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "ghar soap"
+    ]
+  },
+  {
+    "insight_number": 35,
+    "title": "Whisper (-75% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Whisper' shows significant volume (24,136 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'whisper' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 24136,
+      "search_growth_pct": -75.15,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.06,
+      "emerging_score": 49.25
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "HIGH_VOLUME",
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "whisper"
+    ]
+  },
+  {
+    "insight_number": 36,
+    "title": "Tooth Brush (-75% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "consumer_insight": "'Tooth Brush' shows significant volume (4,709 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in oral care.",
+    "strategy": [
+      "Address supply constraints in oral care (current: 0%)",
+      "Review forecasting for 'tooth brush' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4709,
+      "search_growth_pct": -75.24,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.0,
+      "emerging_score": 49.24
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "tooth brush"
+    ]
+  },
+  {
+    "insight_number": 37,
+    "title": "Minimalist Sunscreen (-75% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "consumer_insight": "'Minimalist Sunscreen' shows significant volume (4,102 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in face cream.",
+    "strategy": [
+      "Address supply constraints in face cream (current: 0%)",
+      "Review forecasting for 'minimalist sunscreen' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4102,
+      "search_growth_pct": -75.35,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.0,
+      "emerging_score": 49.21
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "minimalist sunscreen"
+    ]
+  },
+  {
+    "insight_number": 38,
+    "title": "Bathing Soap (-76% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Bathing Soap' shows significant volume (3,591 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'bathing soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3591,
+      "search_growth_pct": -75.63,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.21
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "bathing soap"
+    ]
+  },
+  {
+    "insight_number": 39,
+    "title": "Concealer (-76% MoM)",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "consumer_insight": "'Concealer' shows significant volume (6,997 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in face makeup.",
+    "strategy": [
+      "Address supply constraints in face makeup (current: 0%)",
+      "Review forecasting for 'concealer' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 6997,
+      "search_growth_pct": -75.7,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.19
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "concealer"
+    ]
+  },
+  {
+    "insight_number": 40,
+    "title": "Lux Soap (-76% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Lux Soap' shows significant volume (5,134 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'lux soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 5134,
+      "search_growth_pct": -75.5,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.0,
+      "emerging_score": 49.17
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "lux soap"
+    ]
+  },
+  {
+    "insight_number": 41,
+    "title": "Himalaya Soap (-75% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Himalaya Soap' shows significant volume (3,328 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Audit catalog coverage for 'himalaya soap' - 6.0% zero result rate",
+      "Identify brand/SKU gaps vs competitors",
+      "Fast-track onboarding of missing variants"
+    ],
+    "evidence": {
+      "search_volume": 3328,
+      "search_growth_pct": -74.96,
+      "zero_result_rate": 0.06,
+      "availability_pct": 0.0,
+      "emerging_score": 49.16
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "himalaya soap"
+    ]
+  },
+  {
+    "insight_number": 42,
+    "title": "Cinthol Soap (-76% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Cinthol Soap' shows significant volume (5,533 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'cinthol soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 5533,
+      "search_growth_pct": -75.89,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.14
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "cinthol soap"
+    ]
+  },
+  {
+    "insight_number": 43,
+    "title": "Wax (-75% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "consumer_insight": "'Wax' shows significant volume (3,849 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in hair removal.",
+    "strategy": [
+      "Address supply constraints in hair removal (current: 0%)",
+      "Review forecasting for 'wax' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3849,
+      "search_growth_pct": -75.46,
+      "zero_result_rate": 0.03,
+      "availability_pct": 0.0,
+      "emerging_score": 49.14
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "wax"
+    ]
+  },
+  {
+    "insight_number": 44,
+    "title": "Razor (-76% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "consumer_insight": "'Razor' shows significant volume (16,022 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in hair removal.",
+    "strategy": [
+      "Address supply constraints in hair removal (current: 0%)",
+      "Review forecasting for 'razor' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 16022,
+      "search_growth_pct": -75.95,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.12
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "MEDIUM_VOLUME",
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "razor"
+    ]
+  },
+  {
+    "insight_number": 45,
+    "title": "Veet (-76% MoM)",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "consumer_insight": "'Veet' shows significant volume (6,302 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in hair removal.",
+    "strategy": [
+      "Address supply constraints in hair removal (current: 0%)",
+      "Review forecasting for 'veet' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 6302,
+      "search_growth_pct": -75.66,
+      "zero_result_rate": 0.02,
+      "availability_pct": 0.0,
+      "emerging_score": 49.12
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "veet"
+    ]
+  },
+  {
+    "insight_number": 46,
+    "title": "Cinthol (-75% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Cinthol' shows significant volume (4,014 searches/week) with -75% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'cinthol' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 4014,
+      "search_growth_pct": -75.41,
+      "zero_result_rate": 0.05,
+      "availability_pct": 0.0,
+      "emerging_score": 49.08
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "cinthol"
+    ]
+  },
+  {
+    "insight_number": 47,
+    "title": "Moisturizer (-76% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "consumer_insight": "'Moisturizer' shows significant volume (15,968 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in body lotion.",
+    "strategy": [
+      "Address supply constraints in body lotion (current: 0%)",
+      "Review forecasting for 'moisturizer' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 15968,
+      "search_growth_pct": -75.72,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.49,
+      "emerging_score": 49.06
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "MEDIUM_VOLUME",
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "moisturizer"
+    ]
+  },
+  {
+    "insight_number": 48,
+    "title": "Body Scrub (-76% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "consumer_insight": "'Body Scrub' shows significant volume (7,156 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in shower gel.",
+    "strategy": [
+      "Address supply constraints in shower gel (current: 0%)",
+      "Review forecasting for 'body scrub' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 7156,
+      "search_growth_pct": -76.32,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.02
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "body scrub"
+    ]
+  },
+  {
+    "insight_number": 49,
+    "title": "Period Panty (-76% MoM)",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "consumer_insight": "'Period Panty' shows significant volume (3,609 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in feminine hygiene.",
+    "strategy": [
+      "Address supply constraints in feminine hygiene (current: 0%)",
+      "Review forecasting for 'period panty' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3609,
+      "search_growth_pct": -75.92,
+      "zero_result_rate": 0.03,
+      "availability_pct": 0.06,
+      "emerging_score": 49.0
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "period panty"
+    ]
+  },
+  {
+    "insight_number": 50,
+    "title": "Bath Soap (-76% MoM)",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "consumer_insight": "'Bath Soap' shows significant volume (3,234 searches/week) with -76% MoM change. Monitor for seasonal patterns or category shifts in soap.",
+    "strategy": [
+      "Address supply constraints in soap (current: 0%)",
+      "Review forecasting for 'bath soap' to prevent stockouts",
+      "Negotiate buffer stock with key suppliers"
+    ],
+    "evidence": {
+      "search_volume": 3234,
+      "search_growth_pct": -76.4,
+      "zero_result_rate": 0.0,
+      "availability_pct": 0.0,
+      "emerging_score": 49.0
+    },
+    "confidence": "Low",
+    "confidence_reason": "Lower volume or higher volatility - monitor for 2-3 weeks to confirm trend",
+    "tags": [
+      "DECLINING",
+      "SUPPLY_CONSTRAINED"
+    ],
+    "search_terms": [
+      "bath soap"
+    ]
+  }
+]
