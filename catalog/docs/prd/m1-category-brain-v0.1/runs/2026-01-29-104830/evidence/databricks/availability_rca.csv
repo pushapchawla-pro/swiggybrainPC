@@ -1,0 +1,101 @@
+NEW_L1	L2	FINAL_REASON	sku_count	avg_availability_pct	total_non_avail_sessions
+Bath Body and Hair	Shampoo and Conditioner	oos_9.fillrate Issue	35648	72.98	4.988657373788901E7
+Hygiene and Wellness	Feminine Hygiene	oos_9.fillrate Issue	21396	62.01	4.2119770289063E7
+Beauty and Grooming	Face and Lip Care	oos_10.Planning Ordering Issue	32299	75.56	3.7201716369391E7
+Hygiene and Wellness	Oral Care	oos_9.fillrate Issue	16704	58.49	3.4302175851002E7
+Bath Body and Hair	Shampoo and Conditioner	oos_10.Planning Ordering Issue	38410	82.23	3.3397284541106E7
+Beauty and Grooming	Face and Lip Care	oos_9.fillrate Issue	23267	74.29	2.9830014819915E7
+Bath Body and Hair	Face Wash and Scrub	oos_9.fillrate Issue	19450	72.43	2.7745349932302002E7
+Hygiene and Wellness	Feminine Hygiene	oos_10.Planning Ordering Issue	18739	71.12	2.6960053188008E7
+Bath Body and Hair	Hair Oil and Serum	oos_9.fillrate Issue	16296	68.37	2.6853528051996E7
+Hygiene and Wellness	Basic Pharma	oos_9.fillrate Issue	12913	61.11	2.4914575370527003E7
+Hygiene and Wellness	Sexual Wellness	oos_10.Planning Ordering Issue	21728	79.08	2.3407859096238E7
+Bath Body and Hair	Perfumes, Deos and Talc	oos_9.fillrate Issue	23098	82.3	2.1111733736409E7
+Bath Body and Hair	Perfumes, Deos and Talc	oos_10.Planning Ordering Issue	26785	84.01	2.0460893962163E7
+Makeup	Lip Makeup	oos_9.fillrate Issue	14166	71.04	2.0133557265915006E7
+Hygiene and Wellness	Oral Care	oos_10.Planning Ordering Issue	14376	72.75	1.9445848539412E7
+Bath Body and Hair	Soap	oos_10.Planning Ordering Issue	15125	73.23	1.9435162272965E7
+Bath Body and Hair	Face Wash and Scrub	oos_10.Planning Ordering Issue	19622	80.09	1.9361687806904E7
+Bath Body and Hair	Soap	oos_9.fillrate Issue	13142	70.99	1.9358410149724998E7
+Makeup	Makeup Brushes and Tools	oos_9.fillrate Issue	8873	56.64	1.9136702417171996E7
+Makeup	Eye Makeup	oos_9.fillrate Issue	10487	64.78	1.8457773648886E7
+Bath Body and Hair	Hair Oil and Serum	oos_10.Planning Ordering Issue	14732	75.21	1.7277522052065E7
+Beauty and Grooming	Hair Colour	oos_9.fillrate Issue	9227	63.34	1.7076470322102E7
+Beauty and Grooming	Hair Colour	oos_10.Planning Ordering Issue	11826	71.36	1.6362768401374E7
+Hygiene and Wellness	Basic Pharma	oos_10.Planning Ordering Issue	11140	69.5	1.5956980005845E7
+Bath Body and Hair	Shower Gel	oos_9.fillrate Issue	13348	76.55	1.5123004363636E7
+Makeup	Lip Makeup	oos_10.Planning Ordering Issue	22991	85.43	1.4923154312308E7
+Makeup	Makeup Brushes and Tools	oos_10.Planning Ordering Issue	9561	66.97	1.4808344034720998E7
+Makeup	Face Makeup	oos_9.fillrate Issue	9880	71.1	1.4572432932784004E7
+Bath Body and Hair	Shampoo and Conditioner	instock_17.Others	159967	98.15	1.4489700899069004E7
+Makeup	Eye Makeup	oos_10.Planning Ordering Issue	14348	78.59	1.4418233942101002E7
+Bath Body and Hair	Face Cream	oos_9.fillrate Issue	13168	78.41	1.4330470286004E7
+Hygiene and Wellness	Sexual Wellness	oos_9.fillrate Issue	11189	75.23	1.4146863918998E7
+Beauty and Grooming	Hair Removal	oos_10.Planning Ordering Issue	8409	67.42	1.3910325987066E7
+Beauty and Grooming	Face and Lip Care	instock_17.Others	134837	97.96	1.3534168366307E7
+Makeup	Face Makeup	oos_10.Planning Ordering Issue	16566	82.14	1.3418983671387998E7
+Bath Body and Hair	Face Cream	oos_10.Planning Ordering Issue	15395	82.17	1.3368698466339001E7
+Beauty and Grooming	Beauty Accessories	oos_10.Planning Ordering Issue	8595	68.5	1.2892388468097001E7
+Hygiene and Wellness	Feminine Hygiene	instock_17.Others	78979	96.64	1.2817162515027998E7
+Bath Body and Hair	Shower Gel	oos_10.Planning Ordering Issue	14043	81.48	1.2800172513267E7
+Hygiene and Wellness	Oral Care	oos_9a.last po fillrate Issue	7781	71.26	1.2751863917193001E7
+Beauty and Grooming	Face and Lip Care	oos_8.Long Term Supply Issue	11151	76.4	1.2570343985074E7
+Hygiene and Wellness	Feminine Hygiene	oos_9a.last po fillrate Issue	7874	71.75	1.25179264653E7
+Bath Body and Hair	Soap	instock_17.Others	75704	96.81	1.2027025284020998E7
+Hygiene and Wellness	Oral Care	instock_17.Others	83791	97.06	1.1970019209501002E7
+Bath Body and Hair	Perfumes, Deos and Talc	oos_8.Long Term Supply Issue	13036	81.42	1.1646201402587E7
+Makeup	Nail Paints and Accessories	oos_9.fillrate Issue	7630	71.22	1.1254391118306E7
+Beauty and Grooming	Hair Removal	oos_9.fillrate Issue	5189	55.98	1.112626933228E7
+Makeup	Lip Makeup	oos_8.Long Term Supply Issue	9998	75.82	1.1101012034251E7
+Bath Body and Hair	Shampoo and Conditioner	oos_8.Long Term Supply Issue	11930	80.02	1.1017198300711E7
+Hygiene and Wellness	Hand Wash and Sanitizer	oos_9.fillrate Issue	5384	62.44	1.0471167998916E7
+Beauty and Grooming	Mens Grooming	oos_9.fillrate Issue	6808	69.9	1.0438707401736999E7
+Beauty and Grooming	Face and Lip Care	instock_13.Forecasting_error	6236	67.69	1.0363033168700997E7
+Hygiene and Wellness	Feminine Hygiene	instock_13.Forecasting_error	6199	67.37	1.0323136832565999E7
+Hygiene and Wellness	Oral Care	instock_8.POD Cap Missed	7472	78.11	1.0271539145674E7
+Bath Body and Hair	Body Lotion	oos_9.fillrate Issue	7991	74.08	1.0230897117362E7
+Hygiene and Wellness	Wound Care and Pain Relief	oos_10.Planning Ordering Issue	5182	59.26	1.0136542116328001E7
+Bath Body and Hair	Shampoo and Conditioner	instock_13.Forecasting_error	5198	62.42	9963748.912959998
+Bath Body and Hair	Shampoo and Conditioner	instock_8.POD Cap Missed	8056	80.77	9742872.215388998
+Bath Body and Hair	Shampoo and Conditioner	oos_9a.last po fillrate Issue	12018	85.83	9402579.785395999
+Hygiene and Wellness	Feminine Hygiene	instock_8.POD Cap Missed	6774	77.22	9316503.006977998
+Hygiene and Wellness	Oral Care	instock_13.Forecasting_error	5805	68.19	9186100.862905001
+Makeup	Nail Paints and Accessories	oos_10.Planning Ordering Issue	9833	80.55	8976926.01985
+Bath Body and Hair	Hair Oil and Serum	oos_8.Long Term Supply Issue	6245	69.64	8686163.884832
+Beauty and Grooming	Mens Grooming	oos_10.Planning Ordering Issue	6375	71.96	8420657.783230001
+Bath Body and Hair	Soap	instock_13.Forecasting_error	4346	62.87	8354636.567395
+Hygiene and Wellness	Wound Care and Pain Relief	oos_9.fillrate Issue	4115	57.45	8150325.466697999
+Hygiene and Wellness	Hand Wash and Sanitizer	oos_10.Planning Ordering Issue	5878	71.92	8011068.517460999
+Hygiene and Wellness	Sexual Wellness	instock_17.Others	61527	97.37	7987444.496077
+Bath Body and Hair	Face Wash and Scrub	instock_17.Others	73407	97.78	7945279.312546998
+Bath Body and Hair	Face Wash and Scrub	oos_9a.last po fillrate Issue	7169	79.68	7902053.16701
+Beauty and Grooming	Face and Lip Care	oos_9a.last po fillrate Issue	7015	78.64	7896137.094012999
+Makeup	Face Makeup	oos_8.Long Term Supply Issue	7208	76.32	7792130.467347001
+Bath Body and Hair	Soap	instock_8.POD Cap Missed	4770	74.97	7566045.434985999
+Hygiene and Wellness	Feminine Hygiene	oos_8.Long Term Supply Issue	5045	69.18	7470821.23359
+Bath Body and Hair	Face Cream	oos_8.Long Term Supply Issue	7213	78.57	7400259.450372
+Beauty and Grooming	Beauty Accessories	oos_9.fillrate Issue	3962	63.78	7049982.385309
+Bath Body and Hair	Perfumes, Deos and Talc	instock_17.Others	107603	98.73	6901783.552113
+Bath Body and Hair	Hair Oil and Serum	instock_17.Others	63313	97.83	6695043.044582
+Hygiene and Wellness	Sexual Wellness	instock_8.POD Cap Missed	4056	74.65	6664220.938653001
+Bath Body and Hair	Face Cream	instock_17.Others	98963	98.64	6616355.044269
+Bath Body and Hair	Shower Gel	instock_17.Others	76805	98.27	6504281.828729001
+Hygiene and Wellness	Basic Pharma	instock_17.Others	32112	95.69	6397819.292465
+Beauty and Grooming	Shaving Needs	oos_9.fillrate Issue	4113	69.88	6359446.166253
+Hygiene and Wellness	Sexual Wellness	oos_9a.last po fillrate Issue	5281	79.61	6338678.682074999
+Beauty and Grooming	Face and Lip Care	oos_9h.Case_Size_Constraint	9761	86.23	6334573.018313
+Hygiene and Wellness	Hand Wash and Sanitizer	instock_17.Others	34621	96.26	6189435.577788999
+Bath Body and Hair	Face Wash and Scrub	oos_8.Long Term Supply Issue	5258	75.39	6185079.317592999
+Bath Body and Hair	Shampoo and Conditioner	oos_9h.Case_Size_Constraint	13353	90.42	6170126.306106999
+Makeup	Eye Makeup	oos_8.Long Term Supply Issue	5065	73.59	6153089.01672
+Beauty and Grooming	Hair Removal	oos_9a.last po fillrate Issue	3032	63.14	6112977.332924999
+Hygiene and Wellness	Sexual Wellness	instock_13.Forecasting_error	3321	65.37	6039753.52644
+Beauty and Grooming	Shaving Needs	oos_10.Planning Ordering Issue	4712	73.79	5989673.7826539995
+Bath Body and Hair	Shower Gel	oos_8.Long Term Supply Issue	5864	78.9	5919102.5994420005
+Hygiene and Wellness	Sexual Wellness	oos_9h.Case_Size_Constraint	8036	85.52	5735758.334821999
+Beauty and Grooming	Face and Lip Care	instock_8.POD Cap Missed	5152	82.63	5422726.786221
+Bath Body and Hair	Face Cream	instock_13.Forecasting_error	3620	71.55	5405884.937089
+Hygiene and Wellness	Feminine Hygiene	oos_9h.Case_Size_Constraint	5416	80.01	5403010.149283
+Bath Body and Hair	Perfumes, Deos and Talc	instock_13.Forecasting_error	2850	64.27	5382561.915591999
+Bath Body and Hair	Body Lotion	oos_10.Planning Ordering Issue	6138	81.75	5301246.150870999
+Bath Body and Hair	Face Wash and Scrub	instock_13.Forecasting_error	3021	66.35	5266319.837114
