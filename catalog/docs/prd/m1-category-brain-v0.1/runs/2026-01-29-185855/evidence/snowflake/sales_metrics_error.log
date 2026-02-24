@@ -1,0 +1,38 @@
+Task: CB-2 Sales MoM Data Extraction
+Timestamp: 2026-01-29T19:00:00+05:30
+Status: BLOCKED
+
+Error Details:
+--------------
+Error Code: 390422
+Error Message: Incoming request with IP/Token 14.98.221.254 is not allowed to access Snowflake.
+
+Root Cause:
+-----------
+Snowflake network policy restricts access from the current IP address.
+This is a security configuration on the Snowflake account that limits which
+IP addresses can connect.
+
+Attempted Actions:
+------------------
+1. Verified connection configuration exists (swiggy profile in ~/.snowflake/config.toml)
+2. Confirmed IM_ITEM_SALES_DAILY table exists with correct schema
+3. Identified correct column mappings:
+   - SKU_ID (not ITEM_ID)
+   - PROD_NAME (not ITEM_NAME)
+   - ITEM_CATEGORY/PL_CATEGORY (not L2/L3_CATEGORY)
+   - TOTAL_QUANTITY (not QUANTITY)
+   - TOTAL_STORE_PRICE (not GMV)
+   - ORDERS (not ORDER_ID)
+
+Recommended Resolution:
+-----------------------
+1. Connect through VPN with whitelisted IP range
+2. Request IP whitelisting from Snowflake admin
+3. Use alternative data source (e.g., Databricks)
+
+Impact:
+-------
+- Criticality: DEGRADED (non-blocking)
+- Downstream tasks may proceed without sales MoM data
+- Category Brain insights will be limited without GMV/sales metrics
