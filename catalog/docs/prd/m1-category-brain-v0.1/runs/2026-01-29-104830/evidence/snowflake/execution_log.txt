@@ -1,0 +1,27 @@
+Snowflake Query Execution Log
+=============================
+Run ID: 2026-01-29-104830
+Executed: 2026-01-29 10:55 IST
+Connection: swiggy
+
+Tables Used:
+- ANALYTICS.PUBLIC.IM_SEARCH_FACT (914M rows, date range: 2025-10-30 to 2026-01-28)
+- ANALYTICS.PUBLIC.IM_SEARCH_DB_STRING_TO_CATEGORY (3M rows, snapshot date: 2026-01-14)
+
+Query: search_metrics.sql
+Purpose: Get Personal Care search terms with WoW growth
+Categories Filtered: bath body and hair, beauty and grooming, makeup, hygiene and wellness
+Current Week: 2026-01-21 to 2026-01-27
+Previous Week: 2026-01-14 to 2026-01-20
+Minimum Volume Threshold: 500 (current week), 100 (prev week)
+
+Output: search_metrics.csv
+Rows Returned: 100
+
+Key Findings:
+- Top growing term: "soap paper" +846% WoW
+- High volume growth: "pantyliners" +271% WoW (5,983 searches)
+- Notable trends: "beard colour" +325%, "mehndi" +174%, "gift set" +120%
+- Zero result rate generally low (<0.5% for most terms)
+
+Status: SUCCESS
