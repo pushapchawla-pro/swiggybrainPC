@@ -1,0 +1,51 @@
+BRAND_NAME,L1_CATEGORY,L2_CATEGORY,CURRENT_GMV,PREV_GMV,GMV_GROWTH_PCT,CURRENT_UNITS,CITY_REACH,BRAND_STATUS
+clayco,bath body and hair,face wash and scrub,412284.0,0.0,,516.0,16,NEW_BRAND
+unknown,bath body and hair,perfumes deos & talc,1223733.0,27132.0,4410.29,3067.0,110,BREAKOUT
+volini,hygiene and wellness,wound care and pain relief,693635.0,202874.0,241.9,3722.0,96,BREAKOUT
+bioderma,beauty and grooming,face cream,549368.0,154307.0,256.02,560.0,65,BREAKOUT
+vaseline,makeup,lip makeup,486479.0,25185.0,1831.62,1905.0,101,BREAKOUT
+jaguar,bath body and hair,perfumes deos & talc,422043.0,191929.0,119.9,109.0,33,BREAKOUT
+bioderma,beauty and grooming,face wash and scrub,315890.0,135422.0,133.26,460.0,61,BREAKOUT
+insight cosmetics,makeup,face makeup,218825.0,1170.0,18602.99,971.0,21,NEW_BRAND
+beauty of joseon,bath body and hair,face cream,214500.0,57000.0,276.32,143.0,35,BREAKOUT
+mannlich,beauty and grooming,mens grooming,166167.0,80798.0,105.66,333.0,46,BREAKOUT
+beauty of joseon,beauty and grooming,face and lip care,161280.0,70340.0,129.29,104.0,34,BREAKOUT
+muuchstac,bath body and hair,face wash and scrub,138736.0,1196.0,11500.0,464.0,57,NEW_BRAND
+wow skin science,bath body and hair,perfumes deos & talc,118424.0,36968.0,220.34,106.0,38,BREAKOUT
+nautica,bath body and hair,perfumes deos & talc,114860.0,33459.0,243.29,33.0,20,BREAKOUT
+schwarzkopf,bath body and hair,shampoo and conditioner,105600.0,7920.0,1233.33,160.0,17,NEW_BRAND
+karein,hygiene and wellness,basic pharma,3444306.0,2896255.0,18.92,6726.0,118,EXISTING
+evereve,hygiene and wellness,feminine hygiene,2280760.0,1543650.0,47.75,11108.0,129,EXISTING
+vaseline,beauty and grooming,face and lip care,1812721.0,943544.0,92.12,11757.0,129,HIGH_GROWTH
+himalaya,hygiene and wellness,basic pharma,964981.0,741860.0,30.08,10009.0,131,EXISTING
+mars,makeup,eye makeup,855283.0,835000.0,2.43,3708.0,115,EXISTING
+sanfe,bath body and hair,face cream,751046.0,618474.0,21.44,1824.0,113,EXISTING
+rexona,bath body and hair,soap,747772.0,701406.0,6.61,4793.0,126,EXISTING
+aqualens,hygiene and wellness,basic pharma,669202.0,391860.0,70.78,1312.0,23,HIGH_GROWTH
+mamaearth,makeup,lip makeup,590093.0,571402.0,3.27,1543.0,110,EXISTING
+be bodywise,hygiene and wellness,basic pharma,454860.0,363489.0,25.14,1140.0,80,EXISTING
+boldedge,hygiene and wellness,sexual wellness,435139.0,421876.0,3.14,261.0,63,EXISTING
+biolage,bath body and hair,shampoo and conditioner,432705.0,367900.0,17.61,800.0,90,EXISTING
+conscious chemist,bath body and hair,face cream,400482.0,391062.0,2.41,729.0,87,EXISTING
+unfold,hygiene and wellness,sexual wellness,360989.0,343190.0,5.19,6005.0,114,EXISTING
+just herbs,makeup,lip makeup,359810.0,299683.0,20.06,851.0,100,EXISTING
+bare essentials,makeup,makeup brushes and tools,353930.0,322200.0,9.85,2257.0,115,EXISTING
+neude skin,bath body and hair,shower gel,349253.0,321138.0,8.75,891.0,58,EXISTING
+episoft,bath body and hair,face cream,261333.0,218103.0,19.82,387.0,60,EXISTING
+tonymoly,beauty and grooming,face makeup,242620.0,167925.0,44.48,254.0,30,EXISTING
+midazzle,hygiene and wellness,oral care,236624.0,141647.0,67.05,1756.0,37,HIGH_GROWTH
+mannlich,beauty and grooming,face and lip care,221445.0,205086.0,7.98,555.0,65,EXISTING
+plush,bath body and hair,body lotion,218635.0,166522.0,31.29,365.0,54,EXISTING
+loreal paris,bath body and hair,hair colour,215718.0,157920.0,36.6,542.0,42,EXISTING
+matrix biolage,bath body and hair,shampoo and conditioner,173465.0,152884.0,13.46,520.0,86,EXISTING
+sirona hygiene,beauty and grooming,face and lip care,172406.0,153209.0,12.53,494.0,67,EXISTING
+khadi natural,beauty and grooming,hair colour,142615.0,127170.0,12.15,670.0,67,EXISTING
+r for rabbit,hygiene and wellness,feminine hygiene,141858.0,75924.0,86.84,71.0,18,HIGH_GROWTH
+careview,hygiene and wellness,wound care and pain relief,141177.0,114710.0,23.07,623.0,61,EXISTING
+beardo,beauty and grooming,hair colour,138347.0,129315.0,6.98,198.0,22,EXISTING
+just herbs,makeup,nail paints and accessories,126534.0,126090.0,0.35,618.0,60,EXISTING
+guess,bath body and hair,perfumes deos & talc,123612.0,99790.0,23.87,36.0,19,EXISTING
+medimix,hygiene and wellness,hand wash and sanitizer,109503.0,107877.0,1.51,1093.0,76,EXISTING
+blue heaven,makeup,nail paints and accessories,108345.0,108340.0,0.0,1708.0,68,EXISTING
+moxie beauty,makeup,makeup brushes and tools,107808.0,57600.0,87.17,581.0,75,HIGH_GROWTH
+ustraa,bath body and hair,perfumes deos & talc,100688.0,74917.0,34.4,112.0,40,EXISTING
