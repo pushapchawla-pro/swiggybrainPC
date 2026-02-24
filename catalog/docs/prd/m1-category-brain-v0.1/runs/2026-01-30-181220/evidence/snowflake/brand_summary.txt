@@ -1,0 +1,95 @@
+Brand Emergence Summary - Jan 19-29, 2026 vs Oct 19-31, 2025
+============================================================
+L1 Categories: bath body and hair, beauty and grooming, hygiene and wellness, makeup
+Min GMV Threshold: INR 100,000
+
+Data Note: Comparison period uses October 2025 data due to data gap from Nov 2025 to Jan 18, 2026
+
+Total Brand-Category Combinations Analyzed: 148
+- NEW_BRAND: 6 (no prior period sales or GMV < 10k)
+- BREAKOUT: 16 (>100% growth vs prior period)
+- HIGH_GROWTH: 19 (50-100% growth vs prior period)
+- EXISTING: 107 (positive growth but <50%)
+
+============================================================
+Top 5 New Brands (by Current GMV)
+============================================================
+1. clayco (bath body and hair / face wash and scrub)
+   - Current GMV: INR 441,847
+   - Units Sold: 553
+   - City Reach: 16 cities
+
+2. schwarzkopf (bath body and hair / shampoo and conditioner)
+   - Current GMV: INR 114,840
+   - Units Sold: 174
+   - City Reach: 17 cities
+
+3. vaseline (makeup / lip makeup) *entered new subcategory
+   - Current GMV: INR 527,869
+   - Units Sold: 2,057
+   - City Reach: 101 cities
+
+4. beauty of joseon (bath body and hair / face cream)
+   - Current GMV: INR 247,500
+   - Units Sold: 165
+   - City Reach: 38 cities
+
+5. insight cosmetics (makeup / face makeup)
+   - Current GMV: INR 236,360
+   - Units Sold: 1,044
+   - City Reach: 21 cities
+
+6. muuchstac (bath body and hair / face wash and scrub)
+   - Current GMV: INR 150,995
+   - Units Sold: 505
+   - City Reach: 58 cities
+
+============================================================
+Top 5 Breakout Brands (>100% Growth)
+============================================================
+1. volini (hygiene and wellness / wound care and pain relief)
+   - Growth: +1,121% (INR 62,604 -> INR 764,568)
+   - Units: 4,087
+   - City Reach: 99 cities
+
+2. vaseline (beauty and grooming / face and lip care)
+   - Growth: +461% (INR 348,045 -> INR 1,952,385)
+   - Units: 12,682
+   - City Reach: 129 cities
+
+3. beauty of joseon (beauty and grooming / face and lip care)
+   - Growth: +362% (INR 40,049 -> INR 184,860)
+   - Units: 119
+   - City Reach: 34 cities
+
+4. mannlich (beauty and grooming / face and lip care)
+   - Growth: +311% (INR 59,052 -> INR 242,592)
+   - Units: 608
+   - City Reach: 66 cities
+
+5. bioderma (beauty and grooming / face cream)
+   - Growth: +258% (INR 168,040 -> INR 602,006)
+   - Units: 616
+   - City Reach: 68 cities
+
+============================================================
+Notable Observations
+============================================================
+1. K-Beauty Trend: Beauty of Joseon (Korean brand) showing strong emergence
+   in both face cream and face care categories
+
+2. Vaseline Expansion: Established brand expanding into new subcategories
+   (lip makeup) with strong performance
+
+3. Men's Grooming Growth: Mannlich showing breakout performance in both
+   face care (+311%) and mens grooming (+105%)
+
+4. Pain Relief Surge: Volini showing exceptional 1,121% growth, possibly
+   seasonal or promotional-driven
+
+5. Premium Skincare: Bioderma and Cetaphil maintaining strong positions
+   in derma/clinical skincare segment
+
+============================================================
+Generated: 2026-01-30
+Query Period: Current (Jan 19-29, 2026) vs Prior (Oct 19-31, 2025)
