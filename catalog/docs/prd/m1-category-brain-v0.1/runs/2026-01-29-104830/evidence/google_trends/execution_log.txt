@@ -1,0 +1,45 @@
+Google Trends Execution Log
+===========================
+Run ID: 2026-01-29-104830
+Executed: 2026-01-29 11:05 IST
+Source: pytrends API (with SSL workaround)
+
+Configuration:
+- Geo: India (IN)
+- Timeframe: Last 3 months
+- Batch size: 5 terms
+- Delay between batches: 30 seconds
+- Terms queried: 20
+
+Output Files:
+- terms_queried.csv - 20 terms with interest scores
+- raw_responses.json - Full API response
+
+Key Observations:
+1. Many niche terms (soap paper, shampoo sachets) show 0 interest - too specific for Google Trends
+2. Broad terms (shampoo, face wash, perfume) show healthy interest (46-54)
+3. Most terms show MoM decline - typical post-holiday (January) seasonal pattern
+4. "pregnancy test" shows +39% MoM growth - notable signal
+
+Top Interest Scores (Current):
+- shampoo: 54/100
+- perfume: 51/100
+- face wash: 46/100
+- sunscreen: 34/100
+- pregnancy test: 25/100
+
+Growing Terms (MoM):
+- pregnancy test: +38.9%
+
+Declining Terms (seasonal):
+- mehndi: -61.9% (post-wedding season)
+- perfume: -40.7% (post-holiday)
+- lipstick: -39.4% (post-holiday)
+
+Data Quality Notes:
+- SSL certificate issue required verify=False workaround
+- Niche/long-tail terms don't have Google Trends data
+- Internal Snowflake search data is more valuable for these specific terms
+- Google Trends better for validating broad category trends
+
+Status: SUCCESS (with caveats on data quality for niche terms)
