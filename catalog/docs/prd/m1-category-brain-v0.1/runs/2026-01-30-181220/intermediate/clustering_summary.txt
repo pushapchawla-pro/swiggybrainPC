@@ -1,0 +1,102 @@
+================================================================================
+TERM CLUSTERING SUMMARY
+Category Brain v0.1 - Run: 2026-01-30-181220
+================================================================================
+
+CONFIGURATION
+-------------
+Similarity Threshold: 0.75 (Jaccard trigram similarity)
+Max Cluster Size: 10
+Min Term Length: 3
+
+INPUT/OUTPUT STATISTICS
+-----------------------
+Input Terms Count:     200
+Output Clusters Count: 193
+Terms Reduced By:      7 (3.5%)
+
+CLUSTER TYPE DISTRIBUTION
+-------------------------
+Singleton Clusters:    186 (96.4%)
+Multi-term Clusters:     7 (3.6%)
+
+Average Cluster Size:  1.04 terms
+
+TOP 5 LARGEST CLUSTERS (by term count)
+--------------------------------------
+
+1. CLUSTER #21: "perfumes"
+   Canonical Term: perfumes
+   Variants: perfume
+   Total Volume: 298,893
+   Avg Growth: -23.97%
+   Category: bath body and hair > perfumes, deos and talc
+
+2. CLUSTER #88: "plum"
+   Canonical Term: plum
+   Variants: plum (duplicate entry in different category)
+   Total Volume: 57,653
+   Avg Growth: -31.84%
+   Category: bath body and hair > fruits
+
+3. CLUSTER #92: "ghar soaps"
+   Canonical Term: ghar soaps
+   Variants: ghar soap
+   Total Volume: 52,500
+   Avg Growth: 44.17%
+   Category: bath body and hair > soap
+
+4. CLUSTER #136: "pilgrim"
+   Canonical Term: pilgrim
+   Variants: pilgrim (duplicate entry in different category)
+   Total Volume: 30,992
+   Avg Growth: -17.77%
+   Category: bath body and hair > face and lip care
+
+5. CLUSTER #144: "rose water"
+   Canonical Term: rose water
+   Variants: rose water (duplicate entry in different category)
+   Total Volume: 29,697
+   Avg Growth: -35.20%
+   Category: beauty and grooming > shampoo and conditioner
+
+OTHER MULTI-TERM CLUSTERS
+-------------------------
+
+6. CLUSTER #157: "spray bottle"
+   Canonical Term: spray bottle
+   Variants: spray bottles
+   Total Volume: 27,028
+   Avg Growth: -18.45%
+   Category: makeup > makeup brushes and tools
+
+7. CLUSTER #160: "foxtale"
+   Canonical Term: foxtale
+   Variants: foxtale (duplicate entry in different category)
+   Total Volume: 26,837
+   Avg Growth: -19.72%
+   Category: bath body and hair > face and lip care
+
+OBSERVATIONS
+------------
+1. The dataset has high term diversity - most terms are unique enough to remain
+   as singletons at threshold 0.75.
+
+2. Multi-term clusters are primarily:
+   - Singular/plural variants: "perfume"/"perfumes", "ghar soap"/"ghar soaps",
+     "spray bottle"/"spray bottles"
+   - Duplicate entries: Same brand appearing in different categories
+     ("plum", "pilgrim", "rose water", "foxtale")
+
+3. At threshold 0.75, spelling variants like "facewash"/"face wash" do NOT
+   cluster (Jaccard similarity = 0.33). Consider lowering threshold if these
+   should merge.
+
+4. Brand-specific terms (cetaphil, dove, l'oreal, etc.) remain as singletons
+   as expected - they have distinct trigram signatures.
+
+================================================================================
+Generated: 2026-01-30 18:30:46 UTC
+Algorithm: Trigram Jaccard + Union-Find
+Comparisons: 19,900 | Merges: 7
+================================================================================
