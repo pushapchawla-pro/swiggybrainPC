@@ -1,0 +1,79 @@
+CB-5: Availability RCA Extraction Summary
+=========================================
+Generated: 2026-01-29
+Data Period: Last 7 days (2026-01-22 to 2026-01-28)
+Filter: OOS >= 5% (availability < 95%)
+
+EXECUTIVE SUMMARY
+-----------------
+Total Records: 500 SKU-store-date combinations with availability issues
+Unique L2 Categories: 26
+Top Issue: Supply-led (74.2% of all OOS instances)
+
+L1 CATEGORY DISTRIBUTION
+------------------------
+Bath Body and Hair:     202 records (40.4%), 9 L2 categories
+Hygiene and Wellness:   159 records (31.8%), 6 L2 categories
+Beauty and Grooming:     96 records (19.2%), 11 L2 categories
+Makeup:                  43 records (8.6%), 5 L2 categories
+
+TOP L2 CATEGORIES BY OOS VOLUME
+-------------------------------
+1. Feminine Hygiene:           52 records
+2. Shampoo and Conditioner:    49 records
+3. Face Wash and Scrub:        40 records
+4. Oral Care:                  39 records
+5. Face and Lip Care:          34 records
+6. Soap:                       32 records
+7. Sexual Wellness:            26 records
+8. Perfumes, Deos and Talc:    24 records
+9. Shower Gel:                 21 records
+10. Hair Oil and Serum:        19 records
+
+ISSUE TREE ROOT CAUSE ANALYSIS
+------------------------------
+1. Supply-led:     371 records (74.2%)
+   - oos_9.fillrate Issue: 192 (38.4%)
+   - oos_9a.last po fillrate Issue: 163 (32.6%)
+   - oos_8.Long Term Supply Issue: 13 (2.6%)
+   - oos_9b.OTIF Issue: 3 (0.6%)
+
+2. Forecasting:    86 records (17.2%)
+   - oos_10.Planning Ordering Issue: 52 (10.4%)
+   - instock_13.Forecasting_error: 34 (6.8%)
+
+3. Other:          28 records (5.6%)
+   - instock_17.Others: 19 (3.8%)
+   - instock_14.Putway_delay: 9 (1.8%)
+
+4. Dark-store:     12 records (2.4%)
+   - instock_8.POD Cap Missed: 12 (2.4%)
+
+5. Tagging/Config: 2 records (0.4%)
+   - oos_9g.MOVMOQTonnageConstraint: 1 (0.2%)
+   - oos_9h.Case_Size_Constraint: 1 (0.2%)
+
+6. Warehouse-ops:  1 record (0.2%)
+   - instock_12.wh_ob_Fillrate Issue: 1 (0.2%)
+
+7. PO-led:         0 records (0.0%)
+
+KEY INSIGHTS
+------------
+1. Supply-side issues dominate: 74.2% of OOS is due to fillrate/supply issues
+2. Fillrate issues (warehouse not receiving from suppliers) are the #1 cause
+3. Forecasting/planning errors account for 17.2% of issues
+4. Dark store capacity constraints are relatively minor (2.4%)
+5. Tagging/config issues are minimal (<1%)
+
+RECOMMENDATIONS
+---------------
+1. Prioritize supplier performance management (fillrate improvement)
+2. Review planning algorithms for high-OOS L2 categories
+3. Focus on Feminine Hygiene and Shampoo/Conditioner for immediate impact
+
+DATA SOURCE
+-----------
+Table: prod.analytics_prod.analytics_public_sku_wise_availability_rca_with_reasons_v7
+Query: /evidence/databricks/availability_rca.sql
+Full data: /evidence/databricks/availability_rca.csv
