@@ -1,0 +1,1268 @@
+{
+  "run_id": "2026-01-29-193602",
+  "generated_at": "2026-01-29T19:45:00Z",
+  "total_insights": 50,
+  "parameters": {
+    "min_volume": 3000,
+    "categories": ["Hygiene and Wellness", "Bath Body and Hair", "Beauty and Grooming", "Makeup"],
+    "ranking_method": "emerging_score"
+  },
+  "summary": {
+    "dominant_category": "Feminine Hygiene",
+    "critical_availability_categories": ["Feminine Hygiene", "Oral Care", "Basic Pharma", "Hair Colour", "Makeup Brushes and Tools"],
+    "top_growth_terms": ["spray bottles", "pantyliners", "vicks lozenges", "l'oreal paris moisture", "whisper period panty"],
+    "assortment_gaps": ["wottagirl", "perfume pack"]
+  },
+  "insights": [
+    {
+      "rank": 1,
+      "search_term": "pantyliners",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 8453,
+        "search_growth_pct": 3214.9,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 59.31,
+      "consumer_insight": "Explosive demand for pantyliners indicates a shift in daily feminine hygiene habits. Customers are seeking everyday freshness products beyond period days.",
+      "actions": [
+        "Urgently address fillrate issues causing 62% availability—coordinate with Whisper, Plush, and Stayfree suppliers",
+        "Expand assortment with daily liner variants (scented, organic cotton, biodegradable)",
+        "Create 'daily freshness' collection featuring pantyliners prominently"
+      ],
+      "tags": ["DEMAND_SURGE", "SUPPLY_CONSTRAINED", "TOP_100"],
+      "related_terms": ["whisper liner", "plush panties", "ultra pads"]
+    },
+    {
+      "rank": 2,
+      "search_term": "soap paper",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Hand Wash and Sanitizer"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 3453,
+        "search_growth_pct": 217.96,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.44,
+        "google_interest": 45,
+        "zero_result_rate": 0.03
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 50.33,
+      "consumer_insight": "Customers are searching for portable paper soap sheets at unprecedented rates, signaling demand for travel-friendly, hygienic handwash alternatives.",
+      "actions": [
+        "Expand soap paper SKU assortment immediately—currently limited selection",
+        "Address fillrate issues with vendors (current 62% availability)",
+        "Feature in 'travel essentials' and 'on-the-go hygiene' collections"
+      ],
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "VALUE_PACK"],
+      "related_terms": ["refill handwash"]
+    },
+    {
+      "rank": 3,
+      "search_term": "vicks lozenges",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Basic Pharma"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 5021,
+        "search_growth_pct": 1884.58,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 61.11,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 49.11,
+      "consumer_insight": "Seasonal cold/flu symptoms driving massive search spike for throat lozenges. Vicks brand commands strong trust for symptomatic relief.",
+      "actions": [
+        "Stock up on Vicks lozenges variants (menthol, honey-lemon) before winter peak ends",
+        "Resolve fillrate issues—61% availability is losing significant sales",
+        "Cross-promote with other cold remedies (Vicks VapoRub, steam inhalers)"
+      ],
+      "tags": ["DEMAND_SURGE", "SUPPLY_CONSTRAINED", "SEASONAL"],
+      "related_terms": ["prega news pregnancy", "friends diaper", "be bodywise foot"]
+    },
+    {
+      "rank": 4,
+      "search_term": "sexual wellness",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Sexual Wellness"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 31997,
+        "search_growth_pct": 115.42,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 79.08,
+        "google_interest": 0,
+        "zero_result_rate": 0.06
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 45.48,
+      "consumer_insight": "Category search has doubled to 32K weekly searches, indicating growing comfort with the category and customers exploring beyond just condoms.",
+      "actions": [
+        "Expand assortment beyond condoms—add intimate wellness kits, lubricants, and enhancers",
+        "Address Planning/Ordering issues causing 79% availability to hit 90%+ target",
+        "Consider discrete packaging messaging in product descriptions"
+      ],
+      "tags": ["DEMAND_SURGE", "HIGH_GROWTH", "TOP_100"],
+      "related_terms": ["nooky chocolate", "thin condom", "skore condoms"]
+    },
+    {
+      "rank": 5,
+      "search_term": "spray bottles",
+      "category": {"l1": "Makeup", "l2": "Makeup Brushes and Tools"},
+      "signal_type": "Search Surge",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 12837,
+        "search_growth_pct": 4404.21,
+        "sales_growth_pct": -18.23,
+        "availability_pct": 56.64,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 44.1,
+      "consumer_insight": "Anomalous spike suggests customers seeking misting/setting spray tools for makeup application, or possibly DIY beauty tool interest.",
+      "actions": [
+        "Clarify if demand is for makeup setting spray bottles vs empty spray bottles",
+        "Urgently address 57% availability—worst in this batch",
+        "Bundle with setting sprays or skincare mists if bottles are the container type"
+      ],
+      "tags": ["DEMAND_SURGE", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["cotton ear bud"]
+    },
+    {
+      "rank": 6,
+      "search_term": "alife",
+      "category": {"l1": "Bath Body and Hair", "l2": "Soap"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 45677,
+        "search_growth_pct": 75.36,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 73.23,
+        "google_interest": 0,
+        "zero_result_rate": 0.01
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 41.24,
+      "consumer_insight": "Alife soap (Adani Wilmar brand) showing strong traction with value packs across variants like Lime, Sandal, Rose.",
+      "actions": [
+        "Ensure full variant coverage—Lime, Sandal, Rose, Gondhoraj, Neem, Lily sets all available",
+        "Resolve PO planning issues causing 73% availability",
+        "Feature in 'value packs' and 'family essentials' collections"
+      ],
+      "tags": ["HIGH_GROWTH", "VALUE_PACK", "TOP_100"],
+      "related_terms": ["mysore soap", "sandal soap"]
+    },
+    {
+      "rank": 7,
+      "search_term": "whisper period panty",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 3518,
+        "search_growth_pct": 766.5,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.03
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 40.7,
+      "consumer_insight": "Whisper's period panty product line seeing explosive search growth. Customers want leak-proof, disposable period underwear.",
+      "actions": [
+        "Prioritize Whisper period panty stock—coordinate with P&G on fill rates",
+        "Ensure size coverage (M-L, L-XL) and pack variants (single, value packs of 18)",
+        "Cross-merchandise with sanitary pads for 'complete period care' positioning"
+      ],
+      "tags": ["DEMAND_SURGE", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["plush panties", "whispers", "whisper pad"]
+    },
+    {
+      "rank": 8,
+      "search_term": "close up",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Oral Care"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 12680,
+        "search_growth_pct": 281.12,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 58.49,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 40.58,
+      "consumer_insight": "Close Up seeing resurgence with freshness-focused positioning resonating with younger demographics.",
+      "actions": [
+        "Stock Close Up variants (Everfresh, Deep Action) at adequate depth",
+        "Address 58% availability—critical constraint in oral care",
+        "Bundle opportunities with mouthwash for 'fresh breath' combos"
+      ],
+      "tags": ["DEMAND_SURGE", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["closeup everfresh", "sensodyne repair", "dabur red toothpaste"]
+    },
+    {
+      "rank": 9,
+      "search_term": "sensodyne repair",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Oral Care"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 15994,
+        "search_growth_pct": 126.54,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 58.49,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 40.49,
+      "consumer_insight": "Premium sensitivity toothpaste segment growing. Customers seeking specialized oral care for enamel protection.",
+      "actions": [
+        "Expand Sensodyne assortment—add Repair & Protect, Rapid Relief variants",
+        "Fix fillrate issues causing 58% availability",
+        "Create 'sensitive teeth care' collection with mouthwash cross-sell"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED", "PREMIUM"],
+      "related_terms": ["close up", "dabur red toothpaste", "closeup everfresh"]
+    },
+    {
+      "rank": 10,
+      "search_term": "dabur red toothpaste",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Oral Care"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 15904,
+        "search_growth_pct": 111.52,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 58.49,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 40.48,
+      "consumer_insight": "Ayurvedic oral care gaining momentum. Heritage Ayurvedic positioning appeals to health-conscious customers.",
+      "actions": [
+        "Ensure Dabur Red paste availability—combo packs with Oral-B brush showing promise",
+        "Resolve fillrate constraints (58% availability)",
+        "Create 'Ayurvedic oral care' collection with other herbal brands"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["sensodyne repair", "close up", "closeup everfresh"]
+    },
+    {
+      "rank": 11,
+      "search_term": "vwash wash",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 11956,
+        "search_growth_pct": 228.46,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 39.98,
+      "consumer_insight": "Intimate hygiene wash searches tripling. V-Wash brand dominates as awareness of intimate hygiene increases.",
+      "actions": [
+        "Stock V-Wash variants (original, plus, expert) at adequate levels",
+        "Address 62% availability—intimate care customers are brand loyal",
+        "Cross-promote with feminine hygiene category for basket building"
+      ],
+      "tags": ["DEMAND_SURGE", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["pantyliners", "whisper period panty", "plush panties"]
+    },
+    {
+      "rank": 12,
+      "search_term": "whispers",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 15671,
+        "search_growth_pct": 59.92,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 39.93,
+      "consumer_insight": "Generic brand search shows strong brand recall. Customers trust Whisper as go-to sanitary pad brand.",
+      "actions": [
+        "Ensure top Whisper SKUs are always in stock—Choice Ultra XL, Bindazzz Nights XXL/XXXL",
+        "Address fillrate issues across the brand",
+        "Leverage brand search for cross-sell to period panties"
+      ],
+      "tags": ["SUPPLY_CONSTRAINED", "TOP_100"],
+      "related_terms": ["whisper pad", "whisper period panty", "whisper liner"]
+    },
+    {
+      "rank": 13,
+      "search_term": "whisper pad",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 16322,
+        "search_growth_pct": 73.18,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.07
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 39.92,
+      "consumer_insight": "Variant search with 7% zero-result rate indicates some search-to-product mapping issues.",
+      "actions": [
+        "Audit search mappings for 'whisper pad' to ensure correct product display",
+        "Fix zero-result issues (7% rate is above threshold)",
+        "Ensure XL/XXL sizes prominently featured—highest demand sizes"
+      ],
+      "tags": ["SUPPLY_CONSTRAINED"],
+      "related_terms": ["whispers", "whisper period panty", "ultra pads"]
+    },
+    {
+      "rank": 14,
+      "search_term": "refill handwash",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Hand Wash and Sanitizer"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 14949,
+        "search_growth_pct": 70.13,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.44,
+        "google_interest": 0,
+        "zero_result_rate": 0.01
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 39.82,
+      "consumer_insight": "Handwash refill pouches growing. Cost-conscious customers prefer refills over buying new dispensers.",
+      "actions": [
+        "Expand refill pouch assortment across brands (Dettol, Lifebuoy, Savlon)",
+        "Address fillrate causing 62% availability",
+        "Create 'eco-friendly refills' collection highlighting sustainability angle"
+      ],
+      "tags": ["HIGH_GROWTH", "VALUE_PACK"],
+      "related_terms": ["soap paper"]
+    },
+    {
+      "rank": 15,
+      "search_term": "mysore soap",
+      "category": {"l1": "Bath Body and Hair", "l2": "Soap"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 40303,
+        "search_growth_pct": 113.97,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 73.23,
+        "google_interest": 0,
+        "zero_result_rate": 0.01
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 39.72,
+      "consumer_insight": "Heritage brand Mysore Sandal Soap seeing strong revival. Premium sandalwood positioning appeals to customers.",
+      "actions": [
+        "Ensure Mysore Sandal Soap variants fully stocked—classic, gold, baby",
+        "Resolve PO planning issues (73% availability)",
+        "Feature in 'heritage brands' and 'natural skincare' collections"
+      ],
+      "tags": ["HIGH_GROWTH", "PREMIUM", "TOP_100"],
+      "related_terms": ["alife", "sandal soap"]
+    },
+    {
+      "rank": 16,
+      "search_term": "prega news pregnancy",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Basic Pharma"},
+      "signal_type": "Search Surge",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 7774,
+        "search_growth_pct": 198.54,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 61.11,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 38.39,
+      "consumer_insight": "Pregnancy test kit searches tripling. Quick-commerce is ideal channel for this time-sensitive, privacy-preferred purchase.",
+      "actions": [
+        "Ensure Prega News kits always in stock—critical for customer trust",
+        "Address 61% availability urgently—lost sales in this category won't return",
+        "Add Plush and i-can test kits for assortment breadth"
+      ],
+      "tags": ["DEMAND_SURGE", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["preganews", "friends diaper", "be bodywise foot"]
+    },
+    {
+      "rank": 17,
+      "search_term": "nooky chocolate",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Sexual Wellness"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 5430,
+        "search_growth_pct": 255.83,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 79.08,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 37.88,
+      "consumer_insight": "Nooky brand (chocolate-flavored intimate products) indicates customers exploring fun, flavored variants beyond basic options.",
+      "actions": [
+        "Stock Nooky product line—chocolate and other flavor variants",
+        "Address PO planning (79% availability)",
+        "Feature in 'couples essentials' collection with other wellness products"
+      ],
+      "tags": ["DEMAND_SURGE"],
+      "related_terms": ["sexual wellness", "thin condom", "skore condoms"]
+    },
+    {
+      "rank": 18,
+      "search_term": "stayfree night",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 6922,
+        "search_growth_pct": 64.89,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 37.18,
+      "consumer_insight": "Night-time sanitary pad specific searches. Customers distinguishing between day and night protection needs.",
+      "actions": [
+        "Ensure Stayfree overnight variants (XL, XXL) in stock",
+        "Address fillrate issues (62% availability)",
+        "Cross-promote with Whisper Bindazzz Nights for category coverage"
+      ],
+      "tags": ["SUPPLY_CONSTRAINED"],
+      "related_terms": ["whispers", "whisper pad", "ultra pads"]
+    },
+    {
+      "rank": 19,
+      "search_term": "closeup everfresh",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Oral Care"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3008,
+        "search_growth_pct": 172.71,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 58.49,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 36.62,
+      "consumer_insight": "Specific variant search shows customers seeking the freshness-focused SKU. Long-lasting fresh breath positioning resonating.",
+      "actions": [
+        "Stock Closeup Everfresh variant specifically",
+        "Address oral care fillrate issues (58% availability)",
+        "Bundle with Closeup mouthwash for fresh breath combo"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["close up", "sensodyne repair", "dabur red toothpaste"]
+    },
+    {
+      "rank": 20,
+      "search_term": "ultra pads",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4543,
+        "search_growth_pct": 140.75,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.07
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 36.47,
+      "consumer_insight": "Generic ultra-thin pad search with 7% zero-result rate. Customers seeking ultra-thin variants across brands.",
+      "actions": [
+        "Audit 'ultra pads' search to ensure multi-brand results display correctly",
+        "Fix zero-result mapping issues",
+        "Ensure ultra-thin variants from Whisper, Stayfree, Sofy available"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["whisper pad", "pantyliners", "stayfree night"]
+    },
+    {
+      "rank": 21,
+      "search_term": "be bodywise foot",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Basic Pharma"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3260,
+        "search_growth_pct": 94.74,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 61.11,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 36.17,
+      "consumer_insight": "D2C brand Be Bodywise foot care products indicates growing interest in specialized foot care.",
+      "actions": [
+        "Onboard Be Bodywise foot care range if not already listed",
+        "Address fillrate issues (61% availability)",
+        "Feature in 'foot care' or 'at-home pedicure' collection"
+      ],
+      "tags": ["PREMIUM", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["prega news pregnancy", "friends diaper"]
+    },
+    {
+      "rank": 22,
+      "search_term": "thin condom",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Sexual Wellness"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4024,
+        "search_growth_pct": 58.18,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 79.08,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 36.05,
+      "consumer_insight": "Indicates preference for ultra-thin variants prioritizing sensation. Durex Air, Manforce Ultra Thin serve this need.",
+      "actions": [
+        "Ensure ultra-thin condom variants from Durex, Manforce, Skore in stock",
+        "Address PO planning issues (79% availability)",
+        "Feature 'thin/sensation' variants prominently in category"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["sexual wellness", "nooky chocolate", "skore condoms"]
+    },
+    {
+      "rank": 23,
+      "search_term": "friends diaper",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Basic Pharma"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3140,
+        "search_growth_pct": 82.35,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 61.11,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 36.04,
+      "consumer_insight": "Adult diaper brand 'Friends' growing. Aging population and healthcare needs driving demand.",
+      "actions": [
+        "Stock Friends adult diapers across sizes (M, L, XL, XXL)",
+        "Address fillrate issues (61% availability)",
+        "Add Karein brand for price-tier coverage"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["prega news pregnancy", "be bodywise foot"]
+    },
+    {
+      "rank": 24,
+      "search_term": "plush panties",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3236,
+        "search_growth_pct": 67.49,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 35.97,
+      "consumer_insight": "D2C brand period panties gaining traction with 0% leak promise and disposable convenience.",
+      "actions": [
+        "Stock Plush period panties—High Waist L-XL 2-pack and 10-pack value option",
+        "Address fillrate issues (62% availability)",
+        "Cross-promote with Plush sanitary pads for brand basket"
+      ],
+      "tags": ["SUPPLY_CONSTRAINED", "PREMIUM"],
+      "related_terms": ["whisper period panty", "pantyliners"]
+    },
+    {
+      "rank": 25,
+      "search_term": "whisper liner",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3835,
+        "search_growth_pct": 58.67,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.03
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 35.92,
+      "consumer_insight": "Whisper Daily Liner searches. Customers seeking everyday liners from trusted brand for 'non period days' freshness.",
+      "actions": [
+        "Stock Whisper Daily Liner 20-pack normal variant",
+        "Address fillrate issues (62% availability)",
+        "Bundle with regular Whisper pads for complete menstrual care"
+      ],
+      "tags": ["SUPPLY_CONSTRAINED"],
+      "related_terms": ["pantyliners", "whispers", "whisper pad"]
+    },
+    {
+      "rank": 26,
+      "search_term": "period box",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Feminine Hygiene"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3074,
+        "search_growth_pct": 102.37,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 62.01,
+        "google_interest": 0,
+        "zero_result_rate": 0.07
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 35.72,
+      "consumer_insight": "Customers seeking curated period care kits/subscription-style boxes. Potential gap in current assortment.",
+      "actions": [
+        "Evaluate period box/kit assortment—may need to create or source curated options",
+        "Fix zero-result search issues (7% rate)",
+        "Consider creating Instamart-curated 'period essentials box'"
+      ],
+      "tags": ["HIGH_GROWTH", "NEW_CATEGORY"],
+      "related_terms": ["pantyliners", "whisper pad", "ultra pads"]
+    },
+    {
+      "rank": 27,
+      "search_term": "skore condoms",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Sexual Wellness"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3619,
+        "search_growth_pct": 66.47,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 79.08,
+        "google_interest": 0,
+        "zero_result_rate": 0.06
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 35.72,
+      "consumer_insight": "Indian brand gaining share with 6% zero-result rate. Customers seeking variety beyond Durex/Manforce.",
+      "actions": [
+        "Expand Skore assortment—verify all variants listed",
+        "Fix zero-result issues (6% rate)",
+        "Address PO planning (79% availability)"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["sexual wellness", "thin condom", "nooky chocolate"]
+    },
+    {
+      "rank": 28,
+      "search_term": "preganews",
+      "category": {"l1": "Hygiene and Wellness", "l2": "Basic Pharma"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3270,
+        "search_growth_pct": 59.36,
+        "sales_growth_pct": -4.31,
+        "availability_pct": 61.11,
+        "google_interest": 0,
+        "zero_result_rate": 0.21
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 34.61,
+      "consumer_insight": "Misspelled variant with 21% zero-result rate indicates critical search mapping issue.",
+      "actions": [
+        "URGENT: Fix 'preganews' search mapping—21% zero-result is critical",
+        "Add synonym/typo handling for Prega News brand",
+        "Ensure product displays correctly for common misspellings"
+      ],
+      "tags": ["SUPPLY_CONSTRAINED"],
+      "related_terms": ["prega news pregnancy"]
+    },
+    {
+      "rank": 29,
+      "search_term": "pilgrim serum",
+      "category": {"l1": "Beauty and Grooming", "l2": "Face and Lip Care"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 33048,
+        "search_growth_pct": 63.43,
+        "sales_growth_pct": -11.21,
+        "availability_pct": 75.56,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 33.33,
+      "consumer_insight": "D2C skincare brand Pilgrim serums commanding strong presence. Brand has strong trust for face care.",
+      "actions": [
+        "Ensure Pilgrim serum range fully stocked—Vitamin C, Niacinamide variants",
+        "Address PO planning (76% availability)",
+        "Feature in 'D2C skincare' and 'face serum' collections"
+      ],
+      "tags": ["PREMIUM", "TOP_100"],
+      "related_terms": ["aloe vera", "aroma magic facial kit", "oxylife bleach"]
+    },
+    {
+      "rank": 30,
+      "search_term": "l'oreal paris moisture",
+      "category": {"l1": "Bath Body and Hair", "l2": "Shampoo and Conditioner"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 4917,
+        "search_growth_pct": 789.15,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 72.98,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 32.57,
+      "consumer_insight": "L'Oreal Paris moisture shampoo/conditioner searches exploding. Moisture Filling range driving demand.",
+      "actions": [
+        "Stock L'Oreal Paris Moisture range—650ml shampoo, 180ml conditioner combos",
+        "Address fillrate issues (73% availability)",
+        "Feature in 'hair hydration' collection"
+      ],
+      "tags": ["DEMAND_SURGE", "PREMIUM"],
+      "related_terms": ["herbal essences shampoo", "biolage shampoo", "sebamed dandruff"]
+    },
+    {
+      "rank": 31,
+      "search_term": "sandal soap",
+      "category": {"l1": "Bath Body and Hair", "l2": "Soap"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 19020,
+        "search_growth_pct": 60.71,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 73.23,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 32.22,
+      "consumer_insight": "Generic sandalwood soap searches. Customers seeking sandalwood-based soaps across brands.",
+      "actions": [
+        "Ensure sandalwood soap coverage across price points",
+        "Address PO planning (73% availability)",
+        "Create 'sandalwood skincare' collection"
+      ],
+      "tags": ["TOP_100"],
+      "related_terms": ["mysore soap", "alife"]
+    },
+    {
+      "rank": 32,
+      "search_term": "aloe vera",
+      "category": {"l1": "Beauty and Grooming", "l2": "Face and Lip Care"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 27897,
+        "search_growth_pct": 101.22,
+        "sales_growth_pct": -11.21,
+        "availability_pct": 75.56,
+        "google_interest": 0,
+        "zero_result_rate": 0.01
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 31.94,
+      "consumer_insight": "Aloe vera ingredient search doubling. Customers seeking aloe-based face care products—gels, moisturizers.",
+      "actions": [
+        "Ensure aloe vera product coverage—gels, face packs, moisturizers",
+        "Address PO planning (76% availability)",
+        "Create 'aloe vera collection' featuring ingredient"
+      ],
+      "tags": ["HIGH_GROWTH", "TOP_100"],
+      "related_terms": ["pilgrim serum", "aroma magic facial kit"]
+    },
+    {
+      "rank": 33,
+      "search_term": "cera ve",
+      "category": {"l1": "Bath Body and Hair", "l2": "Body Lotion"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 12309,
+        "search_growth_pct": 225.63,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 74.08,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 31.13,
+      "consumer_insight": "Premium dermatologist-recommended CeraVe exploding. Cult following for ceramide-based cleansers.",
+      "actions": [
+        "Prioritize CeraVe stocking—Hydrating Cleanser (dry skin), Foaming Cleanser (oily skin)",
+        "Address fillrate issues urgently (74% availability)",
+        "Feature prominently in 'dermatologist recommended' collection"
+      ],
+      "tags": ["DEMAND_SURGE", "PREMIUM"],
+      "related_terms": ["vaseline moisturiser", "moisturizer lotion"]
+    },
+    {
+      "rank": 34,
+      "search_term": "vaseline moisturiser",
+      "category": {"l1": "Bath Body and Hair", "l2": "Body Lotion"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 7987,
+        "search_growth_pct": 165.0,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 74.08,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 29.41,
+      "consumer_insight": "Heritage brand trusted for body moisturization with +165% growth.",
+      "actions": [
+        "Stock Vaseline moisturizer variants—body lotion, intensive care",
+        "Address fillrate issues (74% availability)",
+        "Feature in 'winter skincare' or 'dry skin solutions'"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["cera ve", "moisturizer lotion"]
+    },
+    {
+      "rank": 35,
+      "search_term": "sunscreen gel",
+      "category": {"l1": "Bath Body and Hair", "l2": "Face Cream"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 7757,
+        "search_growth_pct": 67.47,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 78.41,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 28.66,
+      "consumer_insight": "Sunscreen gel format search. Customers prefer lightweight gel over cream textures.",
+      "actions": [
+        "Ensure gel-format sunscreens in stock—Aqualogica Glow+, Thank You Farmer stick",
+        "Address fillrate (78% availability)",
+        "Feature in 'lightweight sun protection' collection"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["suncream", "moisturising gel", "pond's bb cream"]
+    },
+    {
+      "rank": 36,
+      "search_term": "pond's bb cream",
+      "category": {"l1": "Bath Body and Hair", "l2": "Face Cream"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 6243,
+        "search_growth_pct": 125.95,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 78.41,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 28.56,
+      "consumer_insight": "Customers seeking tinted moisturizer/BB cream for light coverage daily use.",
+      "actions": [
+        "Stock Pond's BB Cream—verify shade range coverage",
+        "Address fillrate issues (78% availability)",
+        "Cross-promote with Maybelline BB Cream for category coverage"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["sunscreen gel", "moisturising gel"]
+    },
+    {
+      "rank": 37,
+      "search_term": "wottagirl",
+      "category": {"l1": "Bath Body and Hair", "l2": "Perfumes, Deos and Talc"},
+      "signal_type": "Availability Gap",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4453,
+        "search_growth_pct": 142.14,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 0.0,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": null,
+      "emerging_score": 28.08,
+      "consumer_insight": "Wottagirl perfume/deo with 0% availability indicates product may not be listed or completely OOS.",
+      "actions": [
+        "URGENT: Investigate Wottagirl availability—0% suggests unlisted or major OOS",
+        "Onboard brand if not listed—clear demand exists",
+        "Address sourcing/vendor setup"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["perfume pack"]
+    },
+    {
+      "rank": 38,
+      "search_term": "moisturizer lotion",
+      "category": {"l1": "Bath Body and Hair", "l2": "Body Lotion"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4547,
+        "search_growth_pct": 128.61,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 74.08,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 28.01,
+      "consumer_insight": "Generic moisturizer lotion search. Customers seeking body moisturizers.",
+      "actions": [
+        "Ensure moisturizing lotion coverage across brands and price points",
+        "Address fillrate (74% availability)",
+        "Feature functional lotions (AHA/BHA, nourishing) prominently"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["cera ve", "vaseline moisturiser"]
+    },
+    {
+      "rank": 39,
+      "search_term": "perfume pack",
+      "category": {"l1": "Bath Body and Hair", "l2": "Perfumes, Deos and Talc"},
+      "signal_type": "Availability Gap",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3336,
+        "search_growth_pct": 160.22,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 0.0,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": null,
+      "emerging_score": 27.83,
+      "consumer_insight": "Customers seeking gift sets or value packs of perfumes. 0% availability indicates assortment gap.",
+      "actions": [
+        "URGENT: Add perfume gift packs—Park Avenue, The Man Company, Secret Alchemist sets available",
+        "Create 'perfume gift sets' collection for gifting occasions",
+        "Address sourcing for this high-demand format"
+      ],
+      "tags": ["HIGH_GROWTH", "VALUE_PACK"],
+      "related_terms": ["wottagirl"]
+    },
+    {
+      "rank": 40,
+      "search_term": "livon serums",
+      "category": {"l1": "Bath Body and Hair", "l2": "Hair Oil and Serum"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4965,
+        "search_growth_pct": 79.31,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 68.37,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.81,
+      "consumer_insight": "Livon hair serum for frizz control and shine. Customers seeking quick hair styling solutions.",
+      "actions": [
+        "Stock Livon serum variants—original, keratin",
+        "Address fillrate issues (68% availability)",
+        "Feature in 'frizz control' and 'hair styling' collections"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED"],
+      "related_terms": []
+    },
+    {
+      "rank": 41,
+      "search_term": "moisturising gel",
+      "category": {"l1": "Bath Body and Hair", "l2": "Face Cream"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4729,
+        "search_growth_pct": 64.26,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 78.41,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.63,
+      "consumer_insight": "Moisturizing gel format search. Customers prefer lightweight gel moisturizers over heavy creams.",
+      "actions": [
+        "Ensure gel moisturizer coverage—aloe gels, water-based formulas",
+        "Address fillrate (78% availability)",
+        "Feature in 'lightweight hydration' collection"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["sunscreen gel", "suncream"]
+    },
+    {
+      "rank": 42,
+      "search_term": "suncream",
+      "category": {"l1": "Bath Body and Hair", "l2": "Face Cream"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4319,
+        "search_growth_pct": 68.12,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 78.41,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.52,
+      "consumer_insight": "Generic sun protection search. Combined with sunscreen gel growth indicates strong category demand.",
+      "actions": [
+        "Ensure broad sunscreen coverage—SPF 30, 50, gel, cream formats",
+        "Address fillrate (78% availability)",
+        "Create comprehensive 'sun protection' collection"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["sunscreen gel", "moisturising gel"]
+    },
+    {
+      "rank": 43,
+      "search_term": "mehendi",
+      "category": {"l1": "Beauty and Grooming", "l2": "Hair Colour"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 15280,
+        "search_growth_pct": 96.91,
+        "sales_growth_pct": -11.21,
+        "availability_pct": 63.34,
+        "google_interest": 0,
+        "zero_result_rate": 0.05
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.47,
+      "consumer_insight": "Mehendi/henna searches nearly doubling. Traditional hair coloring and body art usage.",
+      "actions": [
+        "Stock mehendi/henna products—hair color and body art varieties",
+        "Address fillrate issues (63% availability)",
+        "Feature prominently during wedding/festive seasons"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED", "SEASONAL"],
+      "related_terms": ["garnier colour"]
+    },
+    {
+      "rank": 44,
+      "search_term": "herbal essences shampoo",
+      "category": {"l1": "Bath Body and Hair", "l2": "Shampoo and Conditioner"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3189,
+        "search_growth_pct": 107.35,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 72.98,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.42,
+      "consumer_insight": "Herbal Essences brand shampoo doubling. Customers seeking botanical/herbal formulations.",
+      "actions": [
+        "Stock Herbal Essences range—verify variant coverage",
+        "Address fillrate issues (73% availability)",
+        "Feature in 'herbal hair care' collection"
+      ],
+      "tags": ["HIGH_GROWTH", "PREMIUM"],
+      "related_terms": ["l'oreal paris moisture", "biolage shampoo", "sebamed dandruff"]
+    },
+    {
+      "rank": 45,
+      "search_term": "biolage shampoo",
+      "category": {"l1": "Bath Body and Hair", "l2": "Shampoo and Conditioner"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 4270,
+        "search_growth_pct": 58.38,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 72.98,
+        "google_interest": 0,
+        "zero_result_rate": 0.02
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.31,
+      "consumer_insight": "Professional salon brand Biolage. Customers seeking salon-quality hair care at home.",
+      "actions": [
+        "Stock Biolage range—smoothing, volumizing variants",
+        "Address fillrate issues (73% availability)",
+        "Feature in 'salon-quality hair care' collection"
+      ],
+      "tags": ["PREMIUM"],
+      "related_terms": ["l'oreal paris moisture", "herbal essences shampoo", "sebamed dandruff"]
+    },
+    {
+      "rank": 46,
+      "search_term": "sebamed dandruff",
+      "category": {"l1": "Bath Body and Hair", "l2": "Shampoo and Conditioner"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3169,
+        "search_growth_pct": 83.39,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 72.98,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.24,
+      "consumer_insight": "Sebamed anti-dandruff shampoo. Dermatologist-recommended brand for scalp issues.",
+      "actions": [
+        "Stock Sebamed dandruff shampoo",
+        "Address fillrate issues (73% availability)",
+        "Feature in 'scalp care' and 'dermatologist recommended' collections"
+      ],
+      "tags": ["HIGH_GROWTH", "PREMIUM"],
+      "related_terms": ["l'oreal paris moisture", "herbal essences shampoo", "biolage shampoo"]
+    },
+    {
+      "rank": 47,
+      "search_term": "aroma magic",
+      "category": {"l1": "Bath Body and Hair", "l2": "Face Wash and Scrub"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 3035,
+        "search_growth_pct": 89.33,
+        "sales_growth_pct": -9.22,
+        "availability_pct": 72.43,
+        "google_interest": 0,
+        "zero_result_rate": 0.0
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 27.24,
+      "consumer_insight": "Aroma Magic brand face wash. Natural/aromatherapy skincare brand gaining traction.",
+      "actions": [
+        "Stock Aroma Magic range—face wash, body wash variants",
+        "Address fillrate issues (72% availability)",
+        "Feature in 'natural skincare' collection"
+      ],
+      "tags": ["HIGH_GROWTH"],
+      "related_terms": ["aroma magic facial kit", "dermatouch face"]
+    },
+    {
+      "rank": 48,
+      "search_term": "paranda",
+      "category": {"l1": "Beauty and Grooming", "l2": "Beauty Accessories"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 6452,
+        "search_growth_pct": 420.32,
+        "sales_growth_pct": -11.21,
+        "availability_pct": 68.5,
+        "google_interest": 0,
+        "zero_result_rate": 0.03
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 26.9,
+      "consumer_insight": "Traditional hair accessory 'paranda' with exceptional growth. Possibly festive or wedding season driven.",
+      "actions": [
+        "Expand paranda assortment—colors, styles, materials",
+        "Address PO planning (69% availability)",
+        "Feature in 'traditional hair accessories' and 'wedding essentials'"
+      ],
+      "tags": ["DEMAND_SURGE", "SEASONAL"],
+      "related_terms": ["re'equil cream"]
+    },
+    {
+      "rank": 49,
+      "search_term": "garnier colour",
+      "category": {"l1": "Beauty and Grooming", "l2": "Hair Colour"},
+      "signal_type": "Emerging Trend",
+      "confidence": "Medium",
+      "metrics": {
+        "search_volume": 8525,
+        "search_growth_pct": 119.04,
+        "sales_growth_pct": -11.21,
+        "availability_pct": 63.34,
+        "google_interest": 0,
+        "zero_result_rate": 0.01
+      },
+      "top_oos_reason": "Fillrate Issue",
+      "emerging_score": 25.63,
+      "consumer_insight": "Garnier hair colour doubling. Accessible price point for home hair coloring.",
+      "actions": [
+        "Stock Garnier Color Naturals range—popular shades (black, brown)",
+        "Address fillrate issues (63% availability)",
+        "Feature in 'home hair color' collection"
+      ],
+      "tags": ["HIGH_GROWTH", "SUPPLY_CONSTRAINED"],
+      "related_terms": ["mehendi"]
+    },
+    {
+      "rank": 50,
+      "search_term": "aroma magic facial kit",
+      "category": {"l1": "Beauty and Grooming", "l2": "Face and Lip Care"},
+      "signal_type": "Search Surge",
+      "confidence": "High",
+      "metrics": {
+        "search_volume": 3700,
+        "search_growth_pct": 324.8,
+        "sales_growth_pct": -11.21,
+        "availability_pct": 75.56,
+        "google_interest": 0,
+        "zero_result_rate": 0.03
+      },
+      "top_oos_reason": "Planning Ordering Issue",
+      "emerging_score": 25.32,
+      "consumer_insight": "Aroma Magic facial kit with exceptional growth. Customers seeking at-home facial/spa experiences.",
+      "actions": [
+        "Stock Aroma Magic facial kits—various skin type variants",
+        "Address PO planning (76% availability)",
+        "Create 'at-home facial' collection featuring kits"
+      ],
+      "tags": ["DEMAND_SURGE"],
+      "related_terms": ["aroma magic", "pilgrim serum", "aloe vera"]
+    }
+  ]
+}
