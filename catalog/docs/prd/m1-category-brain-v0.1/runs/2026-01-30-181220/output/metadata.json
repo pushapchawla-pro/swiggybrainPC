@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-01-30-181220",
+  "status": "completed",
+  "category": "Personal Care",
+  "week": "Week 5, 2026 (Jan 27 - Feb 2, 2026)",
+  "insights_generated": 20,
+  "terms_processed": 200,
+  "terms_passed_gates": 38,
+  "top_score": 70.49,
+  "top_term": "mysore soap",
+  "timestamp": "2026-01-30T18:45:00Z",
+  "evidence_path": "runs/2026-01-30-181220/evidence",
+  "outputs": {
+    "insights_json": "runs/2026-01-30-181220/output/insights.json",
+    "digest_md": "runs/2026-01-30-181220/output/digest.md"
+  },
+  "signal_fusion_version": "v0.5",
+  "methodology": {
+    "volume_gate": ">=3000 weekly searches",
+    "growth_gate": ">=20% MoM search growth OR >=15% MoM sales growth",
+    "trend_gate": "growth in 2+ of 3 months",
+    "ranking": "emerging_score DESC"
+  },
+  "key_findings": {
+    "supply_constrained_categories": [
+      "Beauty Accessories (14.3%)",
+      "Makeup Brushes and Tools (56.8%)",
+      "Oral Care (59.3%)"
+    ],
+    "demand_surge_terms": [
+      "mysore soap (+1645%)",
+      "durex (+968%)",
+      "mars lip liner (+660%)"
+    ],
+    "stable_growth_themes": [
+      "Sexual wellness category maturation",
+      "Premium haircare brand preference",
+      "Traditional/heritage soap brands"
+    ]
+  }
+}
