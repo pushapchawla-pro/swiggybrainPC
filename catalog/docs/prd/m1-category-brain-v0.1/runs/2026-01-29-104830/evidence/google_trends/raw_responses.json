@@ -1,0 +1,187 @@
+{
+  "results": [
+    {
+      "term": "soap paper",
+      "current_interest": 0,
+      "month_ago_interest": 0,
+      "mom_growth_pct": 0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:56:41.912433"
+    },
+    {
+      "term": "shampoo sachets",
+      "current_interest": 0,
+      "month_ago_interest": 0,
+      "mom_growth_pct": 0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:56:41.912456"
+    },
+    {
+      "term": "pantyliners",
+      "current_interest": 0,
+      "month_ago_interest": 0,
+      "mom_growth_pct": 0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:56:41.912470"
+    },
+    {
+      "term": "beard colour",
+      "current_interest": 0,
+      "month_ago_interest": 1,
+      "mom_growth_pct": -100.0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:56:41.912483"
+    },
+    {
+      "term": "mehndi",
+      "current_interest": 16,
+      "month_ago_interest": 42,
+      "mom_growth_pct": -61.9,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:56:41.912495"
+    },
+    {
+      "term": "gift set",
+      "current_interest": 3,
+      "month_ago_interest": 5,
+      "mom_growth_pct": -40.0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:14.038123"
+    },
+    {
+      "term": "lifebuoy soap",
+      "current_interest": 0,
+      "month_ago_interest": 0,
+      "mom_growth_pct": 0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:14.038145"
+    },
+    {
+      "term": "pregnancy test",
+      "current_interest": 25,
+      "month_ago_interest": 18,
+      "mom_growth_pct": 38.89,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:14.038157"
+    },
+    {
+      "term": "face wash",
+      "current_interest": 46,
+      "month_ago_interest": 73,
+      "mom_growth_pct": -36.99,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:14.038167"
+    },
+    {
+      "term": "body lotion",
+      "current_interest": 10,
+      "month_ago_interest": 14,
+      "mom_growth_pct": -28.57,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:14.038177"
+    },
+    {
+      "term": "condom",
+      "current_interest": 20,
+      "month_ago_interest": 28,
+      "mom_growth_pct": -28.57,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:46.243020"
+    },
+    {
+      "term": "shampoo",
+      "current_interest": 54,
+      "month_ago_interest": 82,
+      "mom_growth_pct": -34.15,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:46.243040"
+    },
+    {
+      "term": "toothbrush",
+      "current_interest": 3,
+      "month_ago_interest": 4,
+      "mom_growth_pct": -25.0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:46.243050"
+    },
+    {
+      "term": "toothpaste",
+      "current_interest": 9,
+      "month_ago_interest": 11,
+      "mom_growth_pct": -18.18,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:46.243060"
+    },
+    {
+      "term": "coconut oil",
+      "current_interest": 10,
+      "month_ago_interest": 14,
+      "mom_growth_pct": -28.57,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:57:46.243070"
+    },
+    {
+      "term": "handwash",
+      "current_interest": 1,
+      "month_ago_interest": 1,
+      "mom_growth_pct": 0.0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:58:18.472667"
+    },
+    {
+      "term": "sunscreen",
+      "current_interest": 34,
+      "month_ago_interest": 48,
+      "mom_growth_pct": -29.17,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:58:18.472688"
+    },
+    {
+      "term": "perfume",
+      "current_interest": 51,
+      "month_ago_interest": 86,
+      "mom_growth_pct": -40.7,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:58:18.472699"
+    },
+    {
+      "term": "lipstick",
+      "current_interest": 20,
+      "month_ago_interest": 33,
+      "mom_growth_pct": -39.39,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:58:18.472709"
+    },
+    {
+      "term": "sanitary pads",
+      "current_interest": 1,
+      "month_ago_interest": 2,
+      "mom_growth_pct": -50.0,
+      "geo": "IN",
+      "source": "google_trends_api",
+      "fetched_at": "2026-01-29T10:58:18.472720"
+    }
+  ],
+  "errors": [],
+  "terms_count": 20,
+  "fetched_at": "2026-01-29T10:58:18.472958"
+}
