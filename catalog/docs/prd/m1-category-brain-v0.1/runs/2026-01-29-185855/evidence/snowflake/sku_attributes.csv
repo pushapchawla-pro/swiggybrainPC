@@ -1,0 +1,23 @@
+## CB-3 SKU Attributes Extraction - BLOCKED
+## Timestamp: 2026-01-29T19:03:00+05:30
+## Status: BLOCKED
+## Error: Snowflake connection failed - IP not whitelisted
+##
+## Error Details:
+## "Incoming request with IP/Token 14.98.221.254 is not allowed to access Snowflake.
+## Contact your account administrator."
+##
+## Resolution Required:
+## 1. Connect to Swiggy VPN to access Snowflake from a whitelisted IP
+## 2. Or request IP whitelisting for current network
+##
+## SQL Query saved to: sku_attributes.sql
+## Query validated against schema - ready for execution when network access restored
+##
+## L1 Categories Targeted:
+## - Bath Body And Hair
+## - Beauty And Grooming
+## - Hygiene And Wellness
+## - Makeup
+##
+## This task is OPTIONAL criticality. Pipeline can continue without SKU attributes.
