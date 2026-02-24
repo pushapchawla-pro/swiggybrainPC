@@ -1,0 +1,101 @@
+search_string,l1_category,l2_category,emerging_score,confidence,opportunity_type,internal_volume,internal_wow_growth,google_interest,category_availability,top_oos_reason
+soap paper,hygiene and wellness,hand wash and sanitizer,69.2,medium,supply_constrained,2451,846.33,0,62.44,oos_9.fillrate Issue
+shampoo sachets,bath body and hair,shampoo and conditioner,53.64,low,demand_surge,1443,587.14,0,72.98,oos_9.fillrate Issue
+boroline antiseptic cream,bath body and hair,face cream,46.76,low,demand_surge,584,478.22,0,78.41,oos_9.fillrate Issue
+sanfe exfoliating,bath body and hair,face cream,42.21,low,demand_surge,668,406.06,0,78.41,oos_9.fillrate Issue
+cetaphil moisturizer,bath body and hair,body lotion,41.77,low,demand_surge,569,399.12,0,74.08,oos_9.fillrate Issue
+small shampoo,bath body and hair,shampoo and conditioner,38.1,low,demand_surge,732,340.96,0,72.98,oos_9.fillrate Issue
+beard colour,beauty and grooming,hair colour,37.07,low,supply_constrained,896,324.64,0,63.34,oos_9.fillrate Issue
+bblunt heat protection,bath body and hair,hair oil and serum,35.63,low,supply_constrained,876,301.83,0,68.37,oos_9.fillrate Issue
+small toothpaste,hygiene and wellness,oral care,34.08,low,supply_constrained,830,277.27,0,58.49,oos_9.fillrate Issue
+niine sanitary napkins,hygiene and wellness,feminine hygiene,33.72,low,supply_constrained,524,271.63,0,62.01,oos_9.fillrate Issue
+pantyliners,hygiene and wellness,feminine hygiene,33.71,medium,supply_constrained,5983,271.38,0,62.01,oos_9.fillrate Issue
+vilvah serum,beauty and grooming,face and lip care,33.52,low,demand_surge,501,268.38,0,75.56,oos_10.Planning Ordering Issue
+attar ayurveda indigo,beauty and grooming,hair colour,33.24,low,supply_constrained,557,264.05,0,63.34,oos_9.fillrate Issue
+molecular sunscreen,bath body and hair,face cream,32.62,low,demand_surge,712,254.23,0,78.41,oos_9.fillrate Issue
+mehndi,beauty and grooming,hair colour,32.36,medium,supply_constrained,1118,174.02,16,63.34,oos_9.fillrate Issue
+cerave face wash,beauty and grooming,face makeup,30.14,low,demand_surge,733,259.31,0,71.1,oos_9.fillrate Issue
+cera ve cleanser,beauty and grooming,face makeup,28.74,low,demand_surge,603,192.72,0,71.1,oos_9.fillrate Issue
+gillette guard razor,beauty and grooming,shaving needs,28.13,low,supply_constrained,821,183.1,0,69.88,oos_9.fillrate Issue
+shampoo packets,bath body and hair,shampoo and conditioner,27.72,low,demand_surge,542,176.53,0,72.98,oos_9.fillrate Issue
+l'oreal paris l'oreal glycolic shampoo,bath body and hair,shampoo and conditioner,27.13,low,demand_surge,588,167.27,0,72.98,oos_9.fillrate Issue
+eye care,beauty and grooming,eye care,25.59,low,demand_surge,561,142.86,0,80,Unknown
+powder handwash,hygiene and wellness,hand wash and sanitizer,25.35,low,supply_constrained,767,138.94,0,62.44,oos_9.fillrate Issue
+ethiglo face wash,bath body and hair,face wash and scrub,25.29,low,demand_surge,588,138.06,0,72.43,oos_9.fillrate Issue
+face care,beauty and grooming,face and lip care,25.16,low,demand_surge,1067,136.06,0,75.56,oos_10.Planning Ordering Issue
+sanitary pads xxl,hygiene and wellness,feminine hygiene,25.07,low,supply_constrained,610,134.62,0,62.01,oos_9.fillrate Issue
+gift set,beauty and grooming,gift packs,25.06,medium,demand_surge,2744,120.22,3,80,Unknown
+aroma magic facial kit,beauty and grooming,face and lip care,24.78,low,demand_surge,1844,145.87,0,75.56,oos_10.Planning Ordering Issue
+durex extra time condoms,hygiene and wellness,sexual wellness,24.72,low,demand_surge,781,129.03,0,79.08,oos_10.Planning Ordering Issue
+brown shoe polish,beauty and grooming,mens grooming,24.18,low,supply_constrained,525,180.75,0,69.9,oos_9.fillrate Issue
+mens face wash,bath body and hair,face wash and scrub,23.97,low,demand_surge,1016,117.09,0,72.43,oos_9.fillrate Issue
+soft pads,hygiene and wellness,feminine hygiene,23.93,low,supply_constrained,612,167.25,0,62.01,oos_9.fillrate Issue
+white tone powder,bath body and hair,"perfumes, deos and talc",23.81,low,demand_surge,631,114.63,0,82.3,oos_9.fillrate Issue
+garnier colour,beauty and grooming,hair colour,23.4,medium,supply_constrained,3128,117.68,0,63.34,oos_9.fillrate Issue
+lifebuoy soap,bath body and hair,soap,23.15,medium,demand_surge,2056,104.17,0,73.23,oos_10.Planning Ordering Issue
+stick on nails,makeup,nail paints and accessories,23.08,low,demand_surge,526,103.09,0,71.22,oos_9.fillrate Issue
+men deodorant,bath body and hair,"perfumes, deos and talc",23.05,low,demand_surge,549,102.58,0,82.3,oos_9.fillrate Issue
+ghar face wash,bath body and hair,face wash and scrub,22.96,low,demand_surge,684,101.18,0,72.43,oos_9.fillrate Issue
+the derma co face wash,bath body and hair,face wash and scrub,22.72,low,demand_surge,951,97.3,0,72.43,oos_9.fillrate Issue
+lux soaps,bath body and hair,soap,22.72,low,demand_surge,505,97.27,0,73.23,oos_10.Planning Ordering Issue
+bold care condoms,hygiene and wellness,sexual wellness,22.64,low,demand_surge,687,143.62,0,79.08,oos_10.Planning Ordering Issue
+plum moisturizer,bath body and hair,face cream,22.62,low,demand_surge,730,95.71,0,78.41,oos_9.fillrate Issue
+white shoe polish,beauty and grooming,mens grooming,22.55,low,supply_constrained,643,145.42,0,69.9,oos_9.fillrate Issue
+hair setting spray,beauty and grooming,mens grooming,22.55,low,supply_constrained,872,94.64,0,69.9,oos_9.fillrate Issue
+stayfree pad,hygiene and wellness,feminine hygiene,22.41,medium,supply_constrained,3469,92.51,0,62.01,oos_9.fillrate Issue
+whisper sanitary pads,hygiene and wellness,feminine hygiene,22.38,low,supply_constrained,1542,92.03,0,62.01,oos_9.fillrate Issue
+the derma co sunscreen,bath body and hair,face cream,22.36,low,demand_surge,594,91.61,0,78.41,oos_9.fillrate Issue
+whisper night,hygiene and wellness,feminine hygiene,22.29,low,supply_constrained,972,90.59,0,62.01,oos_9.fillrate Issue
+body wash for men,bath body and hair,shower gel,22.29,low,demand_surge,800,90.48,0,76.55,oos_9.fillrate Issue
+small soap,bath body and hair,soap,22.22,low,demand_surge,713,133.77,0,73.23,oos_10.Planning Ordering Issue
+vibrator,hygiene and wellness,sexual wellness,22.04,medium,demand_surge,3939,86.59,0,79.08,oos_10.Planning Ordering Issue
+sofy sanitary pads,hygiene and wellness,feminine hygiene,22.01,low,supply_constrained,849,86.18,0,62.01,oos_9.fillrate Issue
+ghar soaps,bath body and hair,soap,21.94,medium,demand_surge,11148,97.69,0,73.23,oos_10.Planning Ordering Issue
+stayfree pads,hygiene and wellness,feminine hygiene,21.81,medium,supply_constrained,5542,89.34,0,62.01,oos_9.fillrate Issue
+face hair removal,beauty and grooming,hair removal,21.66,low,supply_constrained,634,80.63,0,67.42,oos_10.Planning Ordering Issue
+palmolive,bath body and hair,shower gel,21.66,low,demand_surge,1251,80.52,0,76.55,oos_9.fillrate Issue
+sanfe cream,bath body and hair,face cream,21.6,low,demand_surge,939,79.54,0,78.41,oos_9.fillrate Issue
+insight cosmetics,makeup,face makeup,21.45,medium,demand_surge,2111,77.25,0,71.1,oos_9.fillrate Issue
+parachute coconut oil,bath body and hair,hair oil and serum,21.38,medium,supply_constrained,5154,76.14,0,68.37,oos_9.fillrate Issue
+indica hair color,beauty and grooming,hair colour,21.36,low,supply_constrained,624,75.77,0,63.34,oos_9.fillrate Issue
+nua pad,hygiene and wellness,feminine hygiene,21.1,medium,supply_constrained,2820,71.74,0,62.01,oos_9.fillrate Issue
+indus valley hair color,beauty and grooming,hair colour,21.09,low,supply_constrained,506,71.53,0,63.34,oos_9.fillrate Issue
+whisper period panty,hygiene and wellness,feminine hygiene,21.08,low,supply_constrained,1842,87.2,0,62.01,oos_9.fillrate Issue
+cetaphil lotion,bath body and hair,body lotion,20.99,medium,demand_surge,2727,70.01,0,74.08,oos_9.fillrate Issue
+renee lipstick,makeup,lip makeup,20.94,low,demand_surge,954,69.15,0,71.04,oos_9.fillrate Issue
+sweat pad,hygiene and wellness,feminine hygiene,20.93,low,supply_constrained,1026,69.03,0,62.01,oos_9.fillrate Issue
+colgate white,hygiene and wellness,oral care,20.89,low,supply_constrained,557,68.28,0,58.49,oos_9.fillrate Issue
+colgate paste,hygiene and wellness,oral care,20.85,medium,supply_constrained,2562,67.67,0,58.49,oos_9.fillrate Issue
+brush tooth,hygiene and wellness,oral care,20.76,low,supply_constrained,519,66.35,0,58.49,oos_9.fillrate Issue
+vicco turmeric cream,bath body and hair,face cream,20.73,low,demand_surge,504,65.79,0,78.41,oos_9.fillrate Issue
+rexona soap,bath body and hair,soap,20.65,low,demand_surge,1424,64.62,0,73.23,oos_10.Planning Ordering Issue
+insight cosmetics concealer,makeup,face makeup,20.58,low,demand_surge,920,63.41,0,71.1,oos_9.fillrate Issue
+men razor,beauty and grooming,shaving needs,20.53,low,supply_constrained,524,62.73,0,69.88,oos_9.fillrate Issue
+garnier facewash,bath body and hair,face wash and scrub,20.52,low,demand_surge,510,62.42,0,72.43,oos_9.fillrate Issue
+false eye lashes,makeup,eye makeup,20.49,low,supply_constrained,549,61.95,0,64.78,oos_9.fillrate Issue
+deconstruct sunscreen,bath body and hair,face cream,20.41,low,demand_surge,1517,60.7,0,78.41,oos_9.fillrate Issue
+whisper xxl,hygiene and wellness,feminine hygiene,20.37,medium,supply_constrained,3884,60.16,0,62.01,oos_9.fillrate Issue
+gifts for men,bath body and hair,"perfumes, deos and talc",20.36,low,demand_surge,1612,59.92,0,82.3,oos_9.fillrate Issue
+patanjali face wash,bath body and hair,face wash and scrub,20.29,low,demand_surge,669,58.91,0,72.43,oos_9.fillrate Issue
+shampoo pouch,bath body and hair,shampoo and conditioner,20.28,low,demand_surge,1347,58.66,0,72.98,oos_9.fillrate Issue
+medical gloves,hygiene and wellness,wound care and pain relief,20.23,low,supply_constrained,864,57.95,0,59.26,oos_10.Planning Ordering Issue
+crack cream,hygiene and wellness,basic pharma,20.19,low,supply_constrained,821,57.28,0,61.11,oos_9.fillrate Issue
+alta,beauty and grooming,alta,20.18,low,demand_surge,1172,57.1,0,80,Unknown
+natural loofah,beauty and grooming,beauty accessories,20.15,low,supply_constrained,534,56.6,0,68.5,oos_10.Planning Ordering Issue
+maybelline mascara,makeup,eye makeup,20.12,low,supply_constrained,639,56.23,0,64.78,oos_9.fillrate Issue
+mysore sandal soaps,bath body and hair,soap,20.08,medium,demand_surge,6195,65.11,0,73.23,oos_10.Planning Ordering Issue
+shampoo small,bath body and hair,shampoo and conditioner,20.08,low,demand_surge,510,55.49,0,72.98,oos_9.fillrate Issue
+nivea lotion,bath body and hair,body lotion,20.07,medium,demand_surge,4138,55.39,0,74.08,oos_9.fillrate Issue
+acne spot corrector,bath body and hair,face cream,20.06,low,demand_surge,630,55.17,0,78.41,oos_9.fillrate Issue
+face bleach,beauty and grooming,face and lip care,20.04,low,demand_surge,1656,54.91,0,75.56,oos_10.Planning Ordering Issue
+hyphen serum,beauty and grooming,face and lip care,20.0,low,demand_surge,1845,54.26,0,75.56,oos_10.Planning Ordering Issue
+preganews,hygiene and wellness,basic pharma,19.97,low,supply_constrained,1590,174.14,0,61.11,oos_9.fillrate Issue
+lip balm for men,beauty and grooming,face and lip care,19.5,low,demand_surge,1020,78.01,0,75.56,oos_10.Planning Ordering Issue
+whisper wellness,hygiene and wellness,feminine hygiene,19.47,low,supply_constrained,558,102.91,0,62.01,oos_9.fillrate Issue
+vaseline lotion,bath body and hair,body lotion,19.16,medium,demand_surge,3734,75.8,0,74.08,oos_9.fillrate Issue
+indus valley hair colour,beauty and grooming,hair colour,18.99,low,supply_constrained,616,139.69,0,63.34,oos_9.fillrate Issue
+nua xxxl,hygiene and wellness,feminine hygiene,18.88,low,supply_constrained,567,93.52,0,62.01,oos_9.fillrate Issue
+jo soap,bath body and hair,soap,18.41,low,demand_surge,1019,60.73,0,73.23,oos_10.Planning Ordering Issue
+loreal conditioner,bath body and hair,shampoo and conditioner,18.25,low,demand_surge,590,80.43,0,72.98,oos_9.fillrate Issue
+dermatouch face wash,beauty and grooming,face wash and scrub,18.17,low,demand_surge,908,60.14,0,72.43,oos_9.fillrate Issue
+stayfree sanitary pads,hygiene and wellness,feminine hygiene,17.78,low,supply_constrained,574,72.89,0,62.01,oos_9.fillrate Issue
