@@ -1,0 +1,52 @@
+Availability RCA Summary - 2026-01-29
+======================================
+Total L2 Categories: 56
+Average Availability: 70.1%
+Most Impacted: Beauty Accessories (14.29% availability)
+Top OOS Reason: oos_9.fillrate Issue (50.8M sessions lost in Shampoo and Conditioner)
+
+Summary by L1 Category:
+-----------------------
+Bath Body and Hair: 17 L2 categories
+  - Highest Impact: Shampoo and Conditioner (50.8M non-avail sessions)
+  - Lowest Availability: Beauty Accessories (14.29%)
+
+Beauty and Grooming: 19 L2 categories
+  - Highest Impact: Face and Lip Care (38.7M non-avail sessions)
+  - Lowest Availability: Eyewear (29.63%)
+
+Hygiene and Wellness: 11 L2 categories
+  - Highest Impact: Feminine Hygiene (43.8M non-avail sessions)
+  - Lowest Availability: Womens Safety (46.75%)
+
+Makeup: 9 L2 categories
+  - Highest Impact: Lip Makeup (21.1M non-avail sessions)
+  - Lowest Availability: Makeup Brushes and Tools (56.77%)
+
+Top 10 L2 Categories by Non-Availability Sessions:
+--------------------------------------------------
+1. Shampoo and Conditioner (Bath Body and Hair): 50.8M sessions - oos_9.fillrate Issue
+2. Feminine Hygiene (Hygiene and Wellness): 43.8M sessions - oos_9.fillrate Issue
+3. Face and Lip Care (Beauty and Grooming): 38.7M sessions - oos_10.Planning Ordering Issue
+4. Oral Care (Hygiene and Wellness): 35.4M sessions - oos_9.fillrate Issue
+5. Face Wash and Scrub (Bath Body and Hair): 28.1M sessions - oos_9.fillrate Issue
+6. Hair Oil and Serum (Bath Body and Hair): 27.6M sessions - oos_9.fillrate Issue
+7. Basic Pharma (Hygiene and Wellness): 25.5M sessions - oos_9.fillrate Issue
+8. Sexual Wellness (Hygiene and Wellness): 23.4M sessions - oos_10.Planning Ordering Issue
+9. Perfumes Deos and Talc (Bath Body and Hair): 21.6M sessions - oos_9.fillrate Issue
+10. Soap (Bath Body and Hair): 21.2M sessions - oos_9.fillrate Issue
+
+OOS Reason Distribution:
+------------------------
+- oos_9.fillrate Issue: 35 L2 categories (62.5%)
+- oos_10.Planning Ordering Issue: 18 L2 categories (32.1%)
+- oos_8.Long Term Supply Issue: 2 L2 categories (3.6%)
+- instock_10.WH_Cap_Movement_Reduced: 1 L2 category (1.8%)
+
+Critical Observations:
+----------------------
+1. Fillrate issues dominate (62.5% of L2 categories) - indicates supplier delivery problems
+2. Planning/Ordering issues affect 32% of categories - indicates demand forecasting gaps
+3. Total non-availability sessions: ~511M across all categories
+4. Average availability at 70.1% leaves significant room for improvement
+5. Beauty Accessories (14.29%) and Eyewear (29.63%) have critically low availability
