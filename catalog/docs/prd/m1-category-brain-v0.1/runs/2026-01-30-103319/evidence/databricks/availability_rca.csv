@@ -1,0 +1,3 @@
+l1_category,l2_category,availability_pct,top_oos_reason,non_avail_sessions,sku_count
+# BLOCKED: Databricks authentication expired
+# Re-authenticate and re-run query from availability_rca.sql
