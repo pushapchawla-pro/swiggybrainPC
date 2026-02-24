@@ -1,0 +1,4849 @@
+{
+  "metadata": {
+    "total_terms": 200,
+    "passed_gates": 38,
+    "weights": {
+      "mom_search_growth": 0.25,
+      "mom_l2_sales_growth": 0.2,
+      "trend_stability": 0.15,
+      "demand_gap": 0.2,
+      "s2c_events": 0.1,
+      "zero_result_score": 0.1
+    },
+    "thresholds": {
+      "min_weekly_volume": 3000,
+      "min_mom_search_growth_pct": 20,
+      "min_mom_sales_growth_pct": 15,
+      "min_trend_stability_score": 50
+    },
+    "confidence_distribution": {
+      "high": 0,
+      "medium": 200,
+      "low": 0
+    }
+  },
+  "terms": [
+    {
+      "search_string": "mysore soap",
+      "canonical_term": "mysore soap",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 70.49,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 60292.0,
+        "m0_vs_m1_growth_pct": 1644.56,
+        "trend_stability_score": 100.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 7.19,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "body scrubber",
+      "canonical_term": "body scrubber",
+      "l1_category": "beauty and grooming",
+      "l2_category": "beauty accessories",
+      "emerging_score": 66.69,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 10427.0,
+        "m0_vs_m1_growth_pct": 106.56,
+        "trend_stability_score": 75.0,
+        "availability_pct": 14.29,
+        "demand_gap": 33566429.16,
+        "typed_pct": 11.51,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "durex",
+      "canonical_term": "durex",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness",
+      "emerging_score": 65.24,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 27556.0,
+        "m0_vs_m1_growth_pct": 968.48,
+        "trend_stability_score": 75.0,
+        "availability_pct": 79.24,
+        "demand_gap": 9806845.06,
+        "typed_pct": 11.22,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "panty liner",
+      "canonical_term": "panty liner",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 64.51,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 18458.0,
+        "m0_vs_m1_growth_pct": 23.7,
+        "trend_stability_score": 100.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 11.56,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "loofah",
+      "canonical_term": "loofah",
+      "l1_category": "beauty and grooming",
+      "l2_category": "beauty accessories",
+      "emerging_score": 62.57,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 83430.0,
+        "m0_vs_m1_growth_pct": 23.42,
+        "trend_stability_score": 75.0,
+        "availability_pct": 14.29,
+        "demand_gap": 33566429.16,
+        "typed_pct": 12.91,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "mars lip liner",
+      "canonical_term": "mars lip liner",
+      "l1_category": "makeup",
+      "l2_category": "lip makeup",
+      "emerging_score": 61.25,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 10422.0,
+        "m0_vs_m1_growth_pct": 660.18,
+        "trend_stability_score": 75.0,
+        "availability_pct": 88.47,
+        "demand_gap": 8747.92,
+        "typed_pct": 18.78,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "pad",
+      "canonical_term": "pad",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 60.39,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 88172.0,
+        "m0_vs_m1_growth_pct": 15.05,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 23.56,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "nua",
+      "canonical_term": "nua",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 60.17,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 126704.0,
+        "m0_vs_m1_growth_pct": 9.92,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 15.08,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "whisper",
+      "canonical_term": "whisper",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 60.12,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 191309.0,
+        "m0_vs_m1_growth_pct": 8.82,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 10.12,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "stayfree",
+      "canonical_term": "stayfree",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 60.02,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 164044.0,
+        "m0_vs_m1_growth_pct": 6.52,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 9.9,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "period panties",
+      "canonical_term": "period panties",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 60.02,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 137655.0,
+        "m0_vs_m1_growth_pct": 6.42,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 10.26,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "pads",
+      "canonical_term": "pads",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 59.98,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 232880.0,
+        "m0_vs_m1_growth_pct": 5.53,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 18.38,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "sanitary pads",
+      "canonical_term": "sanitary pads",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 59.96,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 280571.0,
+        "m0_vs_m1_growth_pct": 7.45,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 10.12,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "sofy",
+      "canonical_term": "sofy",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene",
+      "emerging_score": 59.79,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 64457.0,
+        "m0_vs_m1_growth_pct": 1.2,
+        "trend_stability_score": 75.0,
+        "availability_pct": 63.03,
+        "demand_gap": 49135656.25,
+        "typed_pct": 13.31,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "sensodyne toothbrush",
+      "canonical_term": "sensodyne toothbrush",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 57.98,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 19600.0,
+        "m0_vs_m1_growth_pct": 16.94,
+        "trend_stability_score": 100.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 8.33,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "brush",
+      "canonical_term": "brush",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 57.51,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 86408.0,
+        "m0_vs_m1_growth_pct": 6.03,
+        "trend_stability_score": 100.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 21.25,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "sexual wellness",
+      "canonical_term": "sexual wellness",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness",
+      "emerging_score": 54.67,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 50683.0,
+        "m0_vs_m1_growth_pct": 254.2,
+        "trend_stability_score": 75.0,
+        "availability_pct": 79.24,
+        "demand_gap": 9806845.06,
+        "typed_pct": 15.45,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "anti dandruff",
+      "canonical_term": "anti dandruff",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 54.39,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 26805.0,
+        "m0_vs_m1_growth_pct": 7.65,
+        "trend_stability_score": 100.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 7.28,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "mehendi",
+      "canonical_term": "mehendi",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair colour",
+      "emerging_score": 54.32,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 16070.0,
+        "m0_vs_m1_growth_pct": 250.8,
+        "trend_stability_score": 100.0,
+        "availability_pct": 76.6,
+        "demand_gap": 94342.32,
+        "typed_pct": 9.54,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "l'oreal paris",
+      "canonical_term": "l'oreal paris",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 53.96,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 17146.0,
+        "m0_vs_m1_growth_pct": 84.92,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 7.79,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "tresemme shampoo",
+      "canonical_term": "tresemme shampoo",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 53.94,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 12912.0,
+        "m0_vs_m1_growth_pct": 84.35,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 7.2,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "nail clipper",
+      "canonical_term": "nail clipper",
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools",
+      "emerging_score": 53.87,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 17396.0,
+        "m0_vs_m1_growth_pct": 287.96,
+        "trend_stability_score": 75.0,
+        "availability_pct": 56.77,
+        "demand_gap": 4271526.83,
+        "typed_pct": 9.51,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "tongue cleaner",
+      "canonical_term": "tongue cleaner",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 53.76,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 117519.0,
+        "m0_vs_m1_growth_pct": 5.93,
+        "trend_stability_score": 75.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 11.6,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "colgate",
+      "canonical_term": "colgate",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 53.69,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 237025.0,
+        "m0_vs_m1_growth_pct": 4.46,
+        "trend_stability_score": 75.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 11.38,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "paste",
+      "canonical_term": "paste",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 53.66,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 104136.0,
+        "m0_vs_m1_growth_pct": 3.67,
+        "trend_stability_score": 75.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 15.54,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "mouthwash",
+      "canonical_term": "mouthwash",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 53.66,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 71940.0,
+        "m0_vs_m1_growth_pct": 3.54,
+        "trend_stability_score": 75.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 11.69,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "toothbrush",
+      "canonical_term": "toothbrush",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 53.59,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 512669.0,
+        "m0_vs_m1_growth_pct": 1.97,
+        "trend_stability_score": 75.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 10.27,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "electric toothbrush",
+      "canonical_term": "electric toothbrush",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 53.55,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 17031.0,
+        "m0_vs_m1_growth_pct": 0.99,
+        "trend_stability_score": 75.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 9.39,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "toothpaste",
+      "canonical_term": "toothpaste",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 53.53,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 510868.0,
+        "m0_vs_m1_growth_pct": 0.61,
+        "trend_stability_score": 75.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 11.81,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "durex condom",
+      "canonical_term": "durex condom",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness",
+      "emerging_score": 51.65,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 57881.0,
+        "m0_vs_m1_growth_pct": 96.92,
+        "trend_stability_score": 100.0,
+        "availability_pct": 79.24,
+        "demand_gap": 9806845.06,
+        "typed_pct": 8.77,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "price drop",
+      "canonical_term": "price drop",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 51.19,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 11765.0,
+        "m0_vs_m1_growth_pct": 33.01,
+        "trend_stability_score": 100.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 24.74,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "hair mask",
+      "canonical_term": "hair mask",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 51.13,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 52691.0,
+        "m0_vs_m1_growth_pct": 19.05,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 15.58,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "conditioner",
+      "canonical_term": "conditioner",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 50.77,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 167512.0,
+        "m0_vs_m1_growth_pct": 10.83,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 11.44,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "bare anatomy",
+      "canonical_term": "bare anatomy",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 50.75,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 93668.0,
+        "m0_vs_m1_growth_pct": 10.24,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 8.99,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "l'oreal shampoo",
+      "canonical_term": "l'oreal shampoo",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 50.67,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 118780.0,
+        "m0_vs_m1_growth_pct": 8.53,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 7.58,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "shampoo",
+      "canonical_term": "shampoo",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 50.63,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 524644.0,
+        "m0_vs_m1_growth_pct": 12.09,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 14.28,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "pilgrim shampoo",
+      "canonical_term": "pilgrim shampoo",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 50.46,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 20614.0,
+        "m0_vs_m1_growth_pct": 3.45,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 8.55,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "dove shampoo",
+      "canonical_term": "dove shampoo",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 50.43,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 91196.0,
+        "m0_vs_m1_growth_pct": 2.88,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 11.0,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "rose water",
+      "canonical_term": "rose water",
+      "l1_category": "beauty and grooming",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 50.31,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 16326.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 15.78,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "lux soap",
+      "canonical_term": "lux soap",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 49.97,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 15739.0,
+        "m0_vs_m1_growth_pct": 22.95,
+        "trend_stability_score": 100.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 12.46,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "sensodyne toothpaste",
+      "canonical_term": "sensodyne toothpaste",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 49.03,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 28804.0,
+        "m0_vs_m1_growth_pct": -16.65,
+        "trend_stability_score": 50.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 7.62,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "cough medicine",
+      "canonical_term": "cough medicine",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 48.57,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 12002.0,
+        "m0_vs_m1_growth_pct": 12.66,
+        "trend_stability_score": 75.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 10.0,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "adult diaper",
+      "canonical_term": "adult diaper",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 48.33,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 122638.0,
+        "m0_vs_m1_growth_pct": 7.13,
+        "trend_stability_score": 75.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 8.35,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "condom",
+      "canonical_term": "condom",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness",
+      "emerging_score": 47.99,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 551578.0,
+        "m0_vs_m1_growth_pct": 14.01,
+        "trend_stability_score": 100.0,
+        "availability_pct": 79.24,
+        "demand_gap": 9806845.06,
+        "typed_pct": 12.65,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "gillette blade",
+      "canonical_term": "gillette blade",
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs",
+      "emerging_score": 47.95,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 44143.0,
+        "m0_vs_m1_growth_pct": 58.65,
+        "trend_stability_score": 100.0,
+        "availability_pct": 70.32,
+        "demand_gap": 4761087.74,
+        "typed_pct": 6.57,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "aloe vera",
+      "canonical_term": "aloe vera",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 47.89,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 25923.0,
+        "m0_vs_m1_growth_pct": 101.81,
+        "trend_stability_score": 100.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 14.72,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "pilgrim serum",
+      "canonical_term": "pilgrim serum",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 47.66,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 40761.0,
+        "m0_vs_m1_growth_pct": 96.42,
+        "trend_stability_score": 100.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 8.23,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "moisturising cream",
+      "canonical_term": "moisturising cream",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 47.65,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 36272.0,
+        "m0_vs_m1_growth_pct": 94.04,
+        "trend_stability_score": 100.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 11.99,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "ghar soaps",
+      "canonical_term": "ghar soaps",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 47.47,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 30577.0,
+        "m0_vs_m1_growth_pct": 51.97,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 9.94,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "simple wash",
+      "canonical_term": "simple wash",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 47.05,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 11769.0,
+        "m0_vs_m1_growth_pct": 82.58,
+        "trend_stability_score": 100.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 5.36,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "ghar soap",
+      "canonical_term": "ghar soaps",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 46.8,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 21923.0,
+        "m0_vs_m1_growth_pct": 36.38,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 13.79,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "handwash",
+      "canonical_term": "handwash",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer",
+      "emerging_score": 46.59,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 412165.0,
+        "m0_vs_m1_growth_pct": 24.82,
+        "trend_stability_score": 100.0,
+        "availability_pct": 78.04,
+        "demand_gap": 4993263.34,
+        "typed_pct": 10.99,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "blade",
+      "canonical_term": "blade",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal",
+      "emerging_score": 46.59,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11485.0,
+        "m0_vs_m1_growth_pct": 15.46,
+        "trend_stability_score": 100.0,
+        "availability_pct": 69.71,
+        "demand_gap": 5983529.01,
+        "typed_pct": 18.25,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "bellavita perfume",
+      "canonical_term": "bellavita perfume",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 46.05,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 12475.0,
+        "m0_vs_m1_growth_pct": 146.74,
+        "trend_stability_score": 75.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 9.63,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "DEMAND_SURGE",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "dove soaps",
+      "canonical_term": "dove soaps",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 45.9,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 88901.0,
+        "m0_vs_m1_growth_pct": 15.5,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 8.8,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "cotton pads",
+      "canonical_term": "cotton pads",
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools",
+      "emerging_score": 45.89,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 15031.0,
+        "m0_vs_m1_growth_pct": 15.26,
+        "trend_stability_score": 100.0,
+        "availability_pct": 56.77,
+        "demand_gap": 4271526.83,
+        "typed_pct": 12.0,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "pears",
+      "canonical_term": "pears",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 45.74,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 116769.0,
+        "m0_vs_m1_growth_pct": 11.8,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 13.4,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "razor for men",
+      "canonical_term": "razor for men",
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs",
+      "emerging_score": 45.74,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 30050.0,
+        "m0_vs_m1_growth_pct": 7.12,
+        "trend_stability_score": 100.0,
+        "availability_pct": 70.32,
+        "demand_gap": 4761087.74,
+        "typed_pct": 11.23,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "dove",
+      "canonical_term": "dove",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 45.61,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 81509.0,
+        "m0_vs_m1_growth_pct": 8.89,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 10.54,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "bandage",
+      "canonical_term": "bandage",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "wound care and pain relief",
+      "emerging_score": 45.58,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 12348.0,
+        "m0_vs_m1_growth_pct": 75.07,
+        "trend_stability_score": 75.0,
+        "availability_pct": 65.97,
+        "demand_gap": 6420294.68,
+        "typed_pct": 9.63,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "soap",
+      "canonical_term": "soap",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 45.51,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 232043.0,
+        "m0_vs_m1_growth_pct": 8.92,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 23.31,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "soaps",
+      "canonical_term": "soaps",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 45.41,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 223986.0,
+        "m0_vs_m1_growth_pct": 8.74,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 12.27,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "pears soap",
+      "canonical_term": "pears soap",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 45.4,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 86788.0,
+        "m0_vs_m1_growth_pct": 4.05,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 12.89,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "mehendi cones",
+      "canonical_term": "mehendi cones",
+      "l1_category": "beauty and grooming",
+      "l2_category": "alta",
+      "emerging_score": 45.22,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 12322.0,
+        "m0_vs_m1_growth_pct": 39.83,
+        "trend_stability_score": 100.0,
+        "availability_pct": 53.45,
+        "demand_gap": 24764.25,
+        "typed_pct": 10.16,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "eyebrow pencils",
+      "canonical_term": "eyebrow pencils",
+      "l1_category": "makeup",
+      "l2_category": "eye makeup",
+      "emerging_score": 45.17,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 11186.0,
+        "m0_vs_m1_growth_pct": 38.87,
+        "trend_stability_score": 100.0,
+        "availability_pct": 74.85,
+        "demand_gap": 14592.04,
+        "typed_pct": 10.95,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "moisturising lotion",
+      "canonical_term": "moisturising lotion",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 45.03,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 36671.0,
+        "m0_vs_m1_growth_pct": 32.39,
+        "trend_stability_score": 100.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 9.65,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "castor oil",
+      "canonical_term": "castor oil",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 44.72,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 52431.0,
+        "m0_vs_m1_growth_pct": 59.56,
+        "trend_stability_score": 75.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 12.47,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "vaseline jelly",
+      "canonical_term": "vaseline jelly",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 44.63,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 45069.0,
+        "m0_vs_m1_growth_pct": 26.08,
+        "trend_stability_score": 100.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 8.32,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "nail",
+      "canonical_term": "nail",
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories",
+      "emerging_score": 44.48,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 15220.0,
+        "m0_vs_m1_growth_pct": 13.28,
+        "trend_stability_score": 100.0,
+        "availability_pct": 71.65,
+        "demand_gap": 1024308.65,
+        "typed_pct": 18.52,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "lip liner",
+      "canonical_term": "lip liner",
+      "l1_category": "makeup",
+      "l2_category": "lip makeup",
+      "emerging_score": 44.44,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 70238.0,
+        "m0_vs_m1_growth_pct": 21.85,
+        "trend_stability_score": 100.0,
+        "availability_pct": 88.47,
+        "demand_gap": 8747.92,
+        "typed_pct": 17.45,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "pregnancy test",
+      "canonical_term": "pregnancy test",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 44.11,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 83823.0,
+        "m0_vs_m1_growth_pct": -3.68,
+        "trend_stability_score": 50.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 9.11,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "pregnancy kit",
+      "canonical_term": "pregnancy kit",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 44.09,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 205630.0,
+        "m0_vs_m1_growth_pct": -1.84,
+        "trend_stability_score": 50.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 8.28,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "medicine",
+      "canonical_term": "medicine",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 44.03,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 115946.0,
+        "m0_vs_m1_growth_pct": -5.73,
+        "trend_stability_score": 50.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 7.19,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "prega news",
+      "canonical_term": "prega news",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 44.0,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 73438.0,
+        "m0_vs_m1_growth_pct": -6.28,
+        "trend_stability_score": 50.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 6.85,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "facial kit",
+      "canonical_term": "facial kit",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 44.0,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 66848.0,
+        "m0_vs_m1_growth_pct": 98.57,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 13.88,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "HIGH_GROWTH",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "nail paint",
+      "canonical_term": "nail paint",
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories",
+      "emerging_score": 43.94,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 63894.0,
+        "m0_vs_m1_growth_pct": 0.75,
+        "trend_stability_score": 100.0,
+        "availability_pct": 71.65,
+        "demand_gap": 1024308.65,
+        "typed_pct": 11.79,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "hand sanitizer",
+      "canonical_term": "hand sanitizer",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer",
+      "emerging_score": 43.84,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 22050.0,
+        "m0_vs_m1_growth_pct": 48.11,
+        "trend_stability_score": 75.0,
+        "availability_pct": 78.04,
+        "demand_gap": 4993263.34,
+        "typed_pct": 10.99,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "mars",
+      "canonical_term": "mars",
+      "l1_category": "makeup",
+      "l2_category": "milk chocolates",
+      "emerging_score": 43.75,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 19491.0,
+        "m0_vs_m1_growth_pct": 6.11,
+        "trend_stability_score": 100.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 14.9,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0,
+        "m0_vs_m1_gmv_growth_pct": 0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "dot & key",
+      "canonical_term": "dot & key",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 43.67,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 24242.0,
+        "m0_vs_m1_growth_pct": 1.47,
+        "trend_stability_score": 100.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 8.18,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "derma co",
+      "canonical_term": "derma co",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 43.59,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 17264.0,
+        "m0_vs_m1_growth_pct": 2.23,
+        "trend_stability_score": 100.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 7.53,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "STABLE_UP"
+      ]
+    },
+    {
+      "search_string": "prega kit",
+      "canonical_term": "prega kit",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 43.55,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 35048.0,
+        "m0_vs_m1_growth_pct": -16.76,
+        "trend_stability_score": 50.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 7.19,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "body scrub",
+      "canonical_term": "body scrub",
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel",
+      "emerging_score": 43.27,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 32225.0,
+        "m0_vs_m1_growth_pct": 9.12,
+        "trend_stability_score": 75.0,
+        "availability_pct": 76.01,
+        "demand_gap": 7704801.8,
+        "typed_pct": 15.24,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "body wash",
+      "canonical_term": "body wash",
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel",
+      "emerging_score": 43.02,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 368588.0,
+        "m0_vs_m1_growth_pct": 3.32,
+        "trend_stability_score": 75.0,
+        "availability_pct": 76.01,
+        "demand_gap": 7704801.8,
+        "typed_pct": 12.2,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "chemist at play",
+      "canonical_term": "chemist at play",
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel",
+      "emerging_score": 43.02,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 69685.0,
+        "m0_vs_m1_growth_pct": 3.26,
+        "trend_stability_score": 75.0,
+        "availability_pct": 76.01,
+        "demand_gap": 7704801.8,
+        "typed_pct": 10.0,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "gillette",
+      "canonical_term": "gillette",
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs",
+      "emerging_score": 42.59,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 19579.0,
+        "m0_vs_m1_growth_pct": 21.22,
+        "trend_stability_score": 75.0,
+        "availability_pct": 70.32,
+        "demand_gap": 4761087.74,
+        "typed_pct": 10.83,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "dettol",
+      "canonical_term": "dettol",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "wound care and pain relief",
+      "emerging_score": 42.5,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 203094.0,
+        "m0_vs_m1_growth_pct": 3.31,
+        "trend_stability_score": 75.0,
+        "availability_pct": 65.97,
+        "demand_gap": 6420294.68,
+        "typed_pct": 11.13,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "rosemary oil",
+      "canonical_term": "rosemary oil",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 42.41,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11225.0,
+        "m0_vs_m1_growth_pct": 5.71,
+        "trend_stability_score": 75.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 13.62,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "hair oil",
+      "canonical_term": "hair oil",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 42.4,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 137968.0,
+        "m0_vs_m1_growth_pct": 5.6,
+        "trend_stability_score": 75.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 13.11,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "hair serum",
+      "canonical_term": "hair serum",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 42.36,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 160500.0,
+        "m0_vs_m1_growth_pct": 4.49,
+        "trend_stability_score": 75.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 12.13,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "cough syrup",
+      "canonical_term": "cough syrup",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 42.27,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 29923.0,
+        "m0_vs_m1_growth_pct": -46.62,
+        "trend_stability_score": 50.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 9.39,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "wax",
+      "canonical_term": "wax",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal",
+      "emerging_score": 42.21,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 12713.0,
+        "m0_vs_m1_growth_pct": 0.86,
+        "trend_stability_score": 75.0,
+        "availability_pct": 69.71,
+        "demand_gap": 5983529.01,
+        "typed_pct": 19.75,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "sensodyne",
+      "canonical_term": "sensodyne",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care",
+      "emerging_score": 42.19,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 126160.0,
+        "m0_vs_m1_growth_pct": -1.42,
+        "trend_stability_score": 0.0,
+        "availability_pct": 59.26,
+        "demand_gap": 33805924.82,
+        "typed_pct": 8.75,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "coconut oil",
+      "canonical_term": "coconut oil",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 42.18,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 493904.0,
+        "m0_vs_m1_growth_pct": 0.36,
+        "trend_stability_score": 75.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 13.14,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "rosemary water",
+      "canonical_term": "rosemary water",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 42.16,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11065.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 11.0,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "dettol handwash",
+      "canonical_term": "dettol handwash",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer",
+      "emerging_score": 42.1,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 89389.0,
+        "m0_vs_m1_growth_pct": 7.64,
+        "trend_stability_score": 75.0,
+        "availability_pct": 78.04,
+        "demand_gap": 4993263.34,
+        "typed_pct": 8.15,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "primer",
+      "canonical_term": "primer",
+      "l1_category": "makeup",
+      "l2_category": "face makeup",
+      "emerging_score": 41.95,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 12236.0,
+        "m0_vs_m1_growth_pct": 41.97,
+        "trend_stability_score": 75.0,
+        "availability_pct": 75.53,
+        "demand_gap": 985183.97,
+        "typed_pct": 16.22,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "toner",
+      "canonical_term": "toner",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face makeup",
+      "emerging_score": 41.58,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 16483.0,
+        "m0_vs_m1_growth_pct": 33.39,
+        "trend_stability_score": 75.0,
+        "availability_pct": 75.53,
+        "demand_gap": 985183.97,
+        "typed_pct": 9.58,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "spray bottles",
+      "canonical_term": "spray bottle",
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools",
+      "emerging_score": 41.48,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 12955.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 56.77,
+        "demand_gap": 4271526.83,
+        "typed_pct": 13.62,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "simple",
+      "canonical_term": "simple",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 41.31,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 13593.0,
+        "m0_vs_m1_growth_pct": 36.5,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 9.59,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "cetaphil soap",
+      "canonical_term": "cetaphil soap",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 40.8,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13391.0,
+        "m0_vs_m1_growth_pct": -15.92,
+        "trend_stability_score": 50.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 8.61,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "aloe vera gel",
+      "canonical_term": "aloe vera gel",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 40.79,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 25127.0,
+        "m0_vs_m1_growth_pct": 23.94,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 11.5,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "serum",
+      "canonical_term": "serum",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 40.67,
+      "confidence": "Medium",
+      "passed_gates": true,
+      "signals": {
+        "m0_volume": 28363.0,
+        "m0_vs_m1_growth_pct": 21.14,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 19.18,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "compact",
+      "canonical_term": "compact",
+      "l1_category": "makeup",
+      "l2_category": "face makeup",
+      "emerging_score": 40.55,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 10890.0,
+        "m0_vs_m1_growth_pct": 9.57,
+        "trend_stability_score": 75.0,
+        "availability_pct": 75.53,
+        "demand_gap": 985183.97,
+        "typed_pct": 10.43,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "the derma co",
+      "canonical_term": "the derma co",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 40.53,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 19217.0,
+        "m0_vs_m1_growth_pct": 18.38,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 9.21,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "sunscreen",
+      "canonical_term": "sunscreen",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 40.5,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 267820.0,
+        "m0_vs_m1_growth_pct": 14.88,
+        "trend_stability_score": 75.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 11.82,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "minoxidil",
+      "canonical_term": "minoxidil",
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming",
+      "emerging_score": 40.5,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 10517.0,
+        "m0_vs_m1_growth_pct": 15.74,
+        "trend_stability_score": 75.0,
+        "availability_pct": 55.13,
+        "demand_gap": 194003.13,
+        "typed_pct": 13.27,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "face scrub",
+      "canonical_term": "face scrub",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 40.39,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 36817.0,
+        "m0_vs_m1_growth_pct": 14.93,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 11.6,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "cetaphil cleanser",
+      "canonical_term": "cetaphil cleanser",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 40.33,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 155800.0,
+        "m0_vs_m1_growth_pct": 13.72,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 7.35,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "powder",
+      "canonical_term": "powder",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 40.29,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 18576.0,
+        "m0_vs_m1_growth_pct": 12.73,
+        "trend_stability_score": 75.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 17.11,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "roll on",
+      "canonical_term": "roll on",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 40.22,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 66828.0,
+        "m0_vs_m1_growth_pct": 11.06,
+        "trend_stability_score": 75.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 15.11,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "foundation",
+      "canonical_term": "foundation",
+      "l1_category": "makeup",
+      "l2_category": "face makeup",
+      "emerging_score": 40.18,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 29704.0,
+        "m0_vs_m1_growth_pct": 0.87,
+        "trend_stability_score": 75.0,
+        "availability_pct": 75.53,
+        "demand_gap": 985183.97,
+        "typed_pct": 13.1,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "face serum",
+      "canonical_term": "face serum",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 40.18,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 27984.0,
+        "m0_vs_m1_growth_pct": 9.58,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 15.33,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "multani mitti",
+      "canonical_term": "multani mitti",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 40.06,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 19082.0,
+        "m0_vs_m1_growth_pct": 6.84,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 8.46,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "facewash",
+      "canonical_term": "facewash",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 40.02,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 89331.0,
+        "m0_vs_m1_growth_pct": 6.5,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 16.09,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "face wash",
+      "canonical_term": "face wash",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 40.01,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 407387.0,
+        "m0_vs_m1_growth_pct": 6.18,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 13.79,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "kajal",
+      "canonical_term": "kajal",
+      "l1_category": "makeup",
+      "l2_category": "eye makeup",
+      "emerging_score": 40.0,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 97764.0,
+        "m0_vs_m1_growth_pct": 5.94,
+        "trend_stability_score": 75.0,
+        "availability_pct": 74.85,
+        "demand_gap": 14592.04,
+        "typed_pct": 15.28,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "shoe polish",
+      "canonical_term": "shoe polish",
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming",
+      "emerging_score": 39.98,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 23362.0,
+        "m0_vs_m1_growth_pct": 3.66,
+        "trend_stability_score": 75.0,
+        "availability_pct": 55.13,
+        "demand_gap": 194003.13,
+        "typed_pct": 16.43,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "sex toys",
+      "canonical_term": "sex toys",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness",
+      "emerging_score": 39.95,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 30111.0,
+        "m0_vs_m1_growth_pct": -0.71,
+        "trend_stability_score": 50.0,
+        "availability_pct": 79.24,
+        "demand_gap": 9806845.06,
+        "typed_pct": 11.68,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "mascara",
+      "canonical_term": "mascara",
+      "l1_category": "makeup",
+      "l2_category": "eye makeup",
+      "emerging_score": 39.9,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 28462.0,
+        "m0_vs_m1_growth_pct": 3.5,
+        "trend_stability_score": 75.0,
+        "availability_pct": 74.85,
+        "demand_gap": 14592.04,
+        "typed_pct": 11.16,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "fair and lovely",
+      "canonical_term": "fair and lovely",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 39.9,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 19659.0,
+        "m0_vs_m1_growth_pct": 1.07,
+        "trend_stability_score": 75.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 11.7,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "face pack",
+      "canonical_term": "face pack",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 39.89,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 16646.0,
+        "m0_vs_m1_growth_pct": 2.96,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 17.63,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "cera ve",
+      "canonical_term": "cera ve",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 39.89,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11435.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 18.72,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "cetaphil",
+      "canonical_term": "cetaphil",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 39.86,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 182070.0,
+        "m0_vs_m1_growth_pct": 2.77,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 8.56,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "plum",
+      "canonical_term": "plum",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 39.86,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 23937.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 17.74,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "cetaphil face wash",
+      "canonical_term": "cetaphil face wash",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 39.86,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 10456.0,
+        "m0_vs_m1_growth_pct": 2.69,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 11.31,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "hair colour",
+      "canonical_term": "hair colour",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair colour",
+      "emerging_score": 39.85,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 165396.0,
+        "m0_vs_m1_growth_pct": 1.52,
+        "trend_stability_score": 75.0,
+        "availability_pct": 76.6,
+        "demand_gap": 94342.32,
+        "typed_pct": 11.66,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "lip gloss",
+      "canonical_term": "lip gloss",
+      "l1_category": "makeup",
+      "l2_category": "lip makeup",
+      "emerging_score": 39.85,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 86369.0,
+        "m0_vs_m1_growth_pct": 2.53,
+        "trend_stability_score": 75.0,
+        "availability_pct": 88.47,
+        "demand_gap": 8747.92,
+        "typed_pct": 14.88,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "vitamin c",
+      "canonical_term": "vitamin c",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 39.82,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 21280.0,
+        "m0_vs_m1_growth_pct": 1.28,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 13.51,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "pimple patch",
+      "canonical_term": "pimple patch",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 39.79,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 111862.0,
+        "m0_vs_m1_growth_pct": 0.52,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 13.82,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "pilgrim",
+      "canonical_term": "pilgrim",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 39.76,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13711.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 9.86,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "foxtale",
+      "canonical_term": "foxtale",
+      "l1_category": "bath body and hair",
+      "l2_category": "face and lip care",
+      "emerging_score": 39.76,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13662.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 9.24,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "himalaya face wash",
+      "canonical_term": "himalaya face wash",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 39.75,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 20414.0,
+        "m0_vs_m1_growth_pct": 0.22,
+        "trend_stability_score": 75.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 13.23,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "kiro",
+      "canonical_term": "kiro",
+      "l1_category": "makeup",
+      "l2_category": "lip makeup",
+      "emerging_score": 39.75,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 10264.0,
+        "m0_vs_m1_growth_pct": 0.0,
+        "trend_stability_score": 75.0,
+        "availability_pct": 88.47,
+        "demand_gap": 8747.92,
+        "typed_pct": 13.55,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    },
+    {
+      "search_string": "mysore sandal",
+      "canonical_term": "mysore sandal",
+      "l1_category": "bath body and hair",
+      "l2_category": "soap",
+      "emerging_score": 39.14,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 72969.0,
+        "m0_vs_m1_growth_pct": -14.86,
+        "trend_stability_score": 50.0,
+        "availability_pct": 70.67,
+        "demand_gap": 13484791.84,
+        "typed_pct": 8.71,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "dandruff shampoo",
+      "canonical_term": "dandruff shampoo",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 38.77,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 10740.0,
+        "m0_vs_m1_growth_pct": -6.66,
+        "trend_stability_score": 0.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 10.11,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "bombay shaving company",
+      "canonical_term": "bombay shaving company",
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs",
+      "emerging_score": 37.76,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 15982.0,
+        "m0_vs_m1_growth_pct": -4.05,
+        "trend_stability_score": 50.0,
+        "availability_pct": 70.32,
+        "demand_gap": 4761087.74,
+        "typed_pct": 9.19,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "lens",
+      "canonical_term": "lens",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 36.31,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11711.0,
+        "m0_vs_m1_growth_pct": -10.78,
+        "trend_stability_score": 0.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 14.2,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "razor for women",
+      "canonical_term": "razor for women",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal",
+      "emerging_score": 36.26,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 15425.0,
+        "m0_vs_m1_growth_pct": -50.5,
+        "trend_stability_score": 50.0,
+        "availability_pct": 69.71,
+        "demand_gap": 5983529.01,
+        "typed_pct": 9.93,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "vicks",
+      "canonical_term": "vicks",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 36.04,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 136019.0,
+        "m0_vs_m1_growth_pct": -16.95,
+        "trend_stability_score": 0.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 14.67,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "mask",
+      "canonical_term": "mask",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 35.98,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 98637.0,
+        "m0_vs_m1_growth_pct": -18.5,
+        "trend_stability_score": 0.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 20.44,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "cotton",
+      "canonical_term": "cotton",
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools",
+      "emerging_score": 35.47,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 29001.0,
+        "m0_vs_m1_growth_pct": -52.55,
+        "trend_stability_score": 50.0,
+        "availability_pct": 56.77,
+        "demand_gap": 4271526.83,
+        "typed_pct": 15.34,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "paradyes",
+      "canonical_term": "paradyes",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair colour",
+      "emerging_score": 35.4,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 19797.0,
+        "m0_vs_m1_growth_pct": -14.57,
+        "trend_stability_score": 50.0,
+        "availability_pct": 76.6,
+        "demand_gap": 94342.32,
+        "typed_pct": 14.79,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "perfume",
+      "canonical_term": "perfumes",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 35.06,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 127260.0,
+        "m0_vs_m1_growth_pct": -21.58,
+        "trend_stability_score": 50.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 16.73,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "perfumes",
+      "canonical_term": "perfumes",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 34.86,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 171633.0,
+        "m0_vs_m1_growth_pct": -26.36,
+        "trend_stability_score": 50.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 11.54,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "nail polish",
+      "canonical_term": "nail polish",
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories",
+      "emerging_score": 34.63,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 45761.0,
+        "m0_vs_m1_growth_pct": -41.37,
+        "trend_stability_score": 50.0,
+        "availability_pct": 71.65,
+        "demand_gap": 1024308.65,
+        "typed_pct": 10.15,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "pilgrim",
+      "canonical_term": "pilgrim",
+      "l1_category": "bath body and hair",
+      "l2_category": "face and lip care",
+      "emerging_score": 34.48,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 17281.0,
+        "m0_vs_m1_growth_pct": -35.53,
+        "trend_stability_score": 50.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 9.86,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "moisturizer",
+      "canonical_term": "moisturizer",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 34.23,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 137526.0,
+        "m0_vs_m1_growth_pct": -44.33,
+        "trend_stability_score": 50.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 9.41,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "nivea moisturizer",
+      "canonical_term": "nivea moisturizer",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 33.66,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 24693.0,
+        "m0_vs_m1_growth_pct": -56.81,
+        "trend_stability_score": 50.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 8.87,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "bella vita",
+      "canonical_term": "bella vita",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 33.41,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 22303.0,
+        "m0_vs_m1_growth_pct": -60.1,
+        "trend_stability_score": 50.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 8.22,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "n95 mask",
+      "canonical_term": "n95 mask",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma",
+      "emerging_score": 33.28,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13866.0,
+        "m0_vs_m1_growth_pct": -81.17,
+        "trend_stability_score": 0.0,
+        "availability_pct": 61.57,
+        "demand_gap": 20346291.32,
+        "typed_pct": 16.98,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "plum",
+      "canonical_term": "plum",
+      "l1_category": "bath body and hair",
+      "l2_category": "fruits",
+      "emerging_score": 33.25,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 33716.0,
+        "m0_vs_m1_growth_pct": -63.67,
+        "trend_stability_score": 50.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 17.74,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0,
+        "m0_vs_m1_gmv_growth_pct": 0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "perfume men",
+      "canonical_term": "perfume men",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 33.2,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 19527.0,
+        "m0_vs_m1_growth_pct": -64.88,
+        "trend_stability_score": 50.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 7.06,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "rose water",
+      "canonical_term": "rose water",
+      "l1_category": "beauty and grooming",
+      "l2_category": "gift packs",
+      "emerging_score": 32.98,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13371.0,
+        "m0_vs_m1_growth_pct": -70.41,
+        "trend_stability_score": 50.0,
+        "availability_pct": 84.86,
+        "demand_gap": 56257.07,
+        "typed_pct": 15.78,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "gift for men",
+      "canonical_term": "gift for men",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 32.66,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 20459.0,
+        "m0_vs_m1_growth_pct": -77.32,
+        "trend_stability_score": 50.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 21.6,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "shower gel",
+      "canonical_term": "shower gel",
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel",
+      "emerging_score": 31.0,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 56241.0,
+        "m0_vs_m1_growth_pct": -14.69,
+        "trend_stability_score": 0.0,
+        "availability_pct": 76.01,
+        "demand_gap": 7704801.8,
+        "typed_pct": 16.05,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "face razor",
+      "canonical_term": "face razor",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal",
+      "emerging_score": 30.9,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 58192.0,
+        "m0_vs_m1_growth_pct": -0.69,
+        "trend_stability_score": 0.0,
+        "availability_pct": 69.71,
+        "demand_gap": 5983529.01,
+        "typed_pct": 16.67,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "parachute",
+      "canonical_term": "parachute",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 30.87,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 95983.0,
+        "m0_vs_m1_growth_pct": -1.11,
+        "trend_stability_score": 0.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 9.22,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "hair removal",
+      "canonical_term": "hair removal",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal",
+      "emerging_score": 30.87,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 20552.0,
+        "m0_vs_m1_growth_pct": -1.44,
+        "trend_stability_score": 0.0,
+        "availability_pct": 69.71,
+        "demand_gap": 5983529.01,
+        "typed_pct": 7.82,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "almond oil",
+      "canonical_term": "almond oil",
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum",
+      "emerging_score": 30.8,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 24200.0,
+        "m0_vs_m1_growth_pct": -2.47,
+        "trend_stability_score": 0.0,
+        "availability_pct": 83.02,
+        "demand_gap": 5945372.95,
+        "typed_pct": 14.02,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "razor",
+      "canonical_term": "razor",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal",
+      "emerging_score": 30.68,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 113500.0,
+        "m0_vs_m1_growth_pct": -5.66,
+        "trend_stability_score": 0.0,
+        "availability_pct": 69.71,
+        "demand_gap": 5983529.01,
+        "typed_pct": 17.54,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "sanitizer",
+      "canonical_term": "sanitizer",
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer",
+      "emerging_score": 30.36,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 74943.0,
+        "m0_vs_m1_growth_pct": -3.71,
+        "trend_stability_score": 0.0,
+        "availability_pct": 78.04,
+        "demand_gap": 4993263.34,
+        "typed_pct": 11.08,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "nail cutter",
+      "canonical_term": "nail cutter",
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools",
+      "emerging_score": 30.17,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 83706.0,
+        "m0_vs_m1_growth_pct": -1.3,
+        "trend_stability_score": 0.0,
+        "availability_pct": 56.77,
+        "demand_gap": 4271526.83,
+        "typed_pct": 11.35,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "hair removal spray",
+      "canonical_term": "hair removal spray",
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal",
+      "emerging_score": 29.36,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 10491.0,
+        "m0_vs_m1_growth_pct": -36.52,
+        "trend_stability_score": 0.0,
+        "availability_pct": 69.71,
+        "demand_gap": 5983529.01,
+        "typed_pct": 14.29,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "blush",
+      "canonical_term": "blush",
+      "l1_category": "makeup",
+      "l2_category": "face makeup",
+      "emerging_score": 28.87,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 20335.0,
+        "m0_vs_m1_growth_pct": -0.42,
+        "trend_stability_score": 0.0,
+        "availability_pct": 75.53,
+        "demand_gap": 985183.97,
+        "typed_pct": 20.38,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "concealer",
+      "canonical_term": "concealer",
+      "l1_category": "makeup",
+      "l2_category": "face makeup",
+      "emerging_score": 28.81,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 26024.0,
+        "m0_vs_m1_growth_pct": -1.9,
+        "trend_stability_score": 0.0,
+        "availability_pct": 75.53,
+        "demand_gap": 985183.97,
+        "typed_pct": 13.57,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "spray bottle",
+      "canonical_term": "spray bottle",
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools",
+      "emerging_score": 28.64,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 14073.0,
+        "m0_vs_m1_growth_pct": -36.9,
+        "trend_stability_score": 0.0,
+        "availability_pct": 56.77,
+        "demand_gap": 4271526.83,
+        "typed_pct": 20.09,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "derma roller",
+      "canonical_term": "derma roller",
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming",
+      "emerging_score": 28.56,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 15156.0,
+        "m0_vs_m1_growth_pct": -0.25,
+        "trend_stability_score": 0.0,
+        "availability_pct": 55.13,
+        "demand_gap": 194003.13,
+        "typed_pct": 11.5,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "pond's",
+      "canonical_term": "pond's",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 28.46,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 14494.0,
+        "m0_vs_m1_growth_pct": -0.6,
+        "trend_stability_score": 0.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 11.71,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "cetaphil moisturiser",
+      "canonical_term": "cetaphil moisturiser",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 28.45,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 27295.0,
+        "m0_vs_m1_growth_pct": -4.33,
+        "trend_stability_score": 0.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 8.94,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "hair wax",
+      "canonical_term": "hair wax",
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming",
+      "emerging_score": 28.45,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 18810.0,
+        "m0_vs_m1_growth_pct": -2.85,
+        "trend_stability_score": 0.0,
+        "availability_pct": 55.13,
+        "demand_gap": 194003.13,
+        "typed_pct": 11.36,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "dot and key",
+      "canonical_term": "dot and key",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 28.41,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 16450.0,
+        "m0_vs_m1_growth_pct": -4.45,
+        "trend_stability_score": 0.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 12.9,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "face cream",
+      "canonical_term": "face cream",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 28.39,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 25006.0,
+        "m0_vs_m1_growth_pct": -5.04,
+        "trend_stability_score": 0.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 13.68,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "lip tint",
+      "canonical_term": "lip tint",
+      "l1_category": "makeup",
+      "l2_category": "lip makeup",
+      "emerging_score": 28.39,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13802.0,
+        "m0_vs_m1_growth_pct": -2.51,
+        "trend_stability_score": 0.0,
+        "availability_pct": 88.47,
+        "demand_gap": 8747.92,
+        "typed_pct": 10.71,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "eyeliner",
+      "canonical_term": "eyeliner",
+      "l1_category": "makeup",
+      "l2_category": "eye makeup",
+      "emerging_score": 28.37,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 73478.0,
+        "m0_vs_m1_growth_pct": -2.87,
+        "trend_stability_score": 0.0,
+        "availability_pct": 74.85,
+        "demand_gap": 14592.04,
+        "typed_pct": 13.51,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "mars lipstick",
+      "canonical_term": "mars lipstick",
+      "l1_category": "makeup",
+      "l2_category": "lip makeup",
+      "emerging_score": 28.32,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 18680.0,
+        "m0_vs_m1_growth_pct": -4.16,
+        "trend_stability_score": 0.0,
+        "availability_pct": 88.47,
+        "demand_gap": 8747.92,
+        "typed_pct": 11.61,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "mirror",
+      "canonical_term": "mirror",
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools",
+      "emerging_score": 28.3,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 32508.0,
+        "m0_vs_m1_growth_pct": -40.12,
+        "trend_stability_score": 0.0,
+        "availability_pct": 56.77,
+        "demand_gap": 4271526.83,
+        "typed_pct": 14.6,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "deos",
+      "canonical_term": "deos",
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc",
+      "emerging_score": 28.28,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11292.0,
+        "m0_vs_m1_growth_pct": -4.96,
+        "trend_stability_score": 0.0,
+        "availability_pct": 100,
+        "demand_gap": 0.0,
+        "typed_pct": 14.38,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "hair spray",
+      "canonical_term": "hair spray",
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming",
+      "emerging_score": 28.17,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 14742.0,
+        "m0_vs_m1_growth_pct": -9.24,
+        "trend_stability_score": 0.0,
+        "availability_pct": 55.13,
+        "demand_gap": 194003.13,
+        "typed_pct": 13.77,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "mamaearth",
+      "canonical_term": "mamaearth",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 28.17,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 14160.0,
+        "m0_vs_m1_growth_pct": -7.54,
+        "trend_stability_score": 0.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 4.14,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "lipstick",
+      "canonical_term": "lipstick",
+      "l1_category": "makeup",
+      "l2_category": "lip makeup",
+      "emerging_score": 28.16,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 173198.0,
+        "m0_vs_m1_growth_pct": -7.88,
+        "trend_stability_score": 0.0,
+        "availability_pct": 88.47,
+        "demand_gap": 8747.92,
+        "typed_pct": 13.17,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "renee",
+      "canonical_term": "renee",
+      "l1_category": "makeup",
+      "l2_category": "eye makeup",
+      "emerging_score": 28.13,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 12970.0,
+        "m0_vs_m1_growth_pct": -8.54,
+        "trend_stability_score": 0.0,
+        "availability_pct": 74.85,
+        "demand_gap": 14592.04,
+        "typed_pct": 16.32,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "lipbalm",
+      "canonical_term": "lipbalm",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 28.07,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 12581.0,
+        "m0_vs_m1_growth_pct": -10.38,
+        "trend_stability_score": 0.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 12.37,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "press on nails",
+      "canonical_term": "press on nails",
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories",
+      "emerging_score": 27.98,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 14485.0,
+        "m0_vs_m1_growth_pct": -21.68,
+        "trend_stability_score": 0.0,
+        "availability_pct": 71.65,
+        "demand_gap": 1024308.65,
+        "typed_pct": 14.05,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "face mask",
+      "canonical_term": "face mask",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 27.96,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 138886.0,
+        "m0_vs_m1_growth_pct": -12.75,
+        "trend_stability_score": 0.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 17.37,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "nose strip",
+      "canonical_term": "nose strip",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 27.81,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13557.0,
+        "m0_vs_m1_growth_pct": -16.24,
+        "trend_stability_score": 0.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 12.07,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "nails",
+      "canonical_term": "nails",
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories",
+      "emerging_score": 27.79,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 14492.0,
+        "m0_vs_m1_growth_pct": -25.88,
+        "trend_stability_score": 0.0,
+        "availability_pct": 71.65,
+        "demand_gap": 1024308.65,
+        "typed_pct": 22.15,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "minimalist",
+      "canonical_term": "minimalist",
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub",
+      "emerging_score": 27.73,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 43263.0,
+        "m0_vs_m1_growth_pct": -17.77,
+        "trend_stability_score": 0.0,
+        "availability_pct": 87.25,
+        "demand_gap": 6203.3,
+        "typed_pct": 11.26,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "hand cream",
+      "canonical_term": "hand cream",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 27.7,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 12150.0,
+        "m0_vs_m1_growth_pct": -21.14,
+        "trend_stability_score": 0.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 26.63,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "bb cream",
+      "canonical_term": "bb cream",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 27.67,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11333.0,
+        "m0_vs_m1_growth_pct": -21.86,
+        "trend_stability_score": 0.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 20.96,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "nivea",
+      "canonical_term": "nivea",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 27.58,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 69293.0,
+        "m0_vs_m1_growth_pct": -24.64,
+        "trend_stability_score": 0.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 11.15,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "body lotion",
+      "canonical_term": "body lotion",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 27.49,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 274799.0,
+        "m0_vs_m1_growth_pct": -26.76,
+        "trend_stability_score": 0.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 12.25,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "glycerine",
+      "canonical_term": "glycerine",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 27.48,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 16917.0,
+        "m0_vs_m1_growth_pct": -24.07,
+        "trend_stability_score": 0.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 13.06,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "lip balm",
+      "canonical_term": "lip balm",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 27.47,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 308826.0,
+        "m0_vs_m1_growth_pct": -24.18,
+        "trend_stability_score": 0.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 13.85,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "vaseline",
+      "canonical_term": "vaseline",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 27.41,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 141291.0,
+        "m0_vs_m1_growth_pct": -28.61,
+        "trend_stability_score": 0.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 11.34,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "body oil",
+      "canonical_term": "body oil",
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion",
+      "emerging_score": 26.93,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 22108.0,
+        "m0_vs_m1_growth_pct": -39.68,
+        "trend_stability_score": 0.0,
+        "availability_pct": 84.79,
+        "demand_gap": 359436.93,
+        "typed_pct": 16.24,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "foxtale",
+      "canonical_term": "foxtale",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 26.82,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 13175.0,
+        "m0_vs_m1_growth_pct": -39.44,
+        "trend_stability_score": 0.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 9.24,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "face moisturizer",
+      "canonical_term": "face moisturizer",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 26.73,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 30958.0,
+        "m0_vs_m1_growth_pct": -43.52,
+        "trend_stability_score": 0.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 10.44,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "vaseline lip",
+      "canonical_term": "vaseline lip",
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care",
+      "emerging_score": 25.59,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 11450.0,
+        "m0_vs_m1_growth_pct": -68.02,
+        "trend_stability_score": 0.0,
+        "availability_pct": 66.05,
+        "demand_gap": 54260.38,
+        "typed_pct": 12.2,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "SUPPLY_CONSTRAINED",
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "boroline",
+      "canonical_term": "boroline",
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream",
+      "emerging_score": 25.44,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 65188.0,
+        "m0_vs_m1_growth_pct": -43.41,
+        "trend_stability_score": 0.0,
+        "availability_pct": 78.65,
+        "demand_gap": 282142.76,
+        "typed_pct": 12.24,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN"
+      ]
+    },
+    {
+      "search_string": "sebamed",
+      "canonical_term": "sebamed",
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner",
+      "emerging_score": 8.86,
+      "confidence": "Medium",
+      "passed_gates": false,
+      "signals": {
+        "m0_volume": 17975.0,
+        "m0_vs_m1_growth_pct": 5.8,
+        "trend_stability_score": 75.0,
+        "availability_pct": 73.18,
+        "demand_gap": 25957139.62,
+        "typed_pct": 13.92,
+        "seasonality_flag": "SEASONAL_NORMAL",
+        "avg_daily_s2c": 0.0,
+        "m0_vs_m1_gmv_growth_pct": 0.0
+      },
+      "tags": [
+        "AUTOSUGGEST_DRIVEN",
+        "ACCELERATING"
+      ]
+    }
+  ]
+}
