@@ -1,0 +1,5778 @@
+[
+  {
+    "search_string": "pantyliners",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 5626,
+    "prev_volume": 2641,
+    "mom_growth_pct": 113.03,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 99.87,
+    "confidence": "Medium",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 100,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "cera ve",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 4243,
+    "prev_volume": 9238,
+    "mom_growth_pct": -54.07,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 54.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 18.2,
+      "zero_result_norm": 99.62,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "close up",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 4343,
+    "prev_volume": 9629,
+    "mom_growth_pct": -54.9,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 54.79,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 17.79,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "ghar soaps",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 11591,
+    "prev_volume": 26212,
+    "mom_growth_pct": -55.78,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 54.44,
+    "confidence": "Medium",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 17.36,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "vibrator",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 3859,
+    "prev_volume": 9437,
+    "mom_growth_pct": -59.11,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 53.65,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 15.73,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pond's moisture",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 5237,
+    "prev_volume": 13344,
+    "mom_growth_pct": -60.75,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 53.02,
+    "confidence": "Medium",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 14.93,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "whisper pad",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 5685,
+    "prev_volume": 14427,
+    "mom_growth_pct": -60.59,
+    "zero_result_rate": 0.08,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 52.94,
+    "confidence": "Medium",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 15.01,
+      "zero_result_norm": 98.5,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "stayfree pad",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3131,
+    "prev_volume": 8200,
+    "mom_growth_pct": -61.82,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 52.8,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 14.41,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "mehendi",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair colour",
+    "current_volume": 4889,
+    "prev_volume": 14252,
+    "mom_growth_pct": -65.7,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 51.88,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 12.51,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "mysore sandal soaps",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 6127,
+    "prev_volume": 17756,
+    "mom_growth_pct": -65.49,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 51.75,
+    "confidence": "Medium",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 12.61,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sanfe",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 4394,
+    "prev_volume": 12932,
+    "mom_growth_pct": -66.02,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 51.72,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 12.35,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "whisper xxl",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3947,
+    "prev_volume": 12179,
+    "mom_growth_pct": -67.59,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 51.36,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 11.58,
+      "zero_result_norm": 100,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "listerine",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 3633,
+    "prev_volume": 11977,
+    "mom_growth_pct": -69.67,
+    "zero_result_rate": 0.08,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 50.51,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 10.56,
+      "zero_result_norm": 98.5,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "cetaphil soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 4271,
+    "prev_volume": 15235,
+    "mom_growth_pct": -71.97,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 50.19,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.44,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sofy pad",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 4972,
+    "prev_volume": 17863,
+    "mom_growth_pct": -72.17,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 49.97,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.34,
+      "zero_result_norm": 99.25,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "stayfree pads",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 5448,
+    "prev_volume": 19548,
+    "mom_growth_pct": -72.13,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 49.95,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.36,
+      "zero_result_norm": 99.06,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "nua pads",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 5122,
+    "prev_volume": 18795,
+    "mom_growth_pct": -72.75,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 49.89,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.06,
+      "zero_result_norm": 99.62,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "santoor soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 4817,
+    "prev_volume": 17809,
+    "mom_growth_pct": -72.95,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.78,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.96,
+      "zero_result_norm": 99.25,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "gillette",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shaving needs",
+    "current_volume": 4646,
+    "prev_volume": 17666,
+    "mom_growth_pct": -73.7,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.73,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.59,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "colgate toothpaste",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 4999,
+    "prev_volume": 19077,
+    "mom_growth_pct": -73.8,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.7,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.54,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "dove soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 7510,
+    "prev_volume": 28289,
+    "mom_growth_pct": -73.45,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.64,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.71,
+      "zero_result_norm": 99.25,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "hair dye",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair colour",
+    "current_volume": 4235,
+    "prev_volume": 16335,
+    "mom_growth_pct": -74.07,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.63,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.41,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sensodyne toothpaste",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 9177,
+    "prev_volume": 35487,
+    "mom_growth_pct": -74.14,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.61,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.38,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "dettol soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 6087,
+    "prev_volume": 23603,
+    "mom_growth_pct": -74.21,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.59,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.34,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "dabur red toothpaste",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 4132,
+    "prev_volume": 16125,
+    "mom_growth_pct": -74.38,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.54,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.26,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "fiama soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 3422,
+    "prev_volume": 13535,
+    "mom_growth_pct": -74.72,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.45,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.09,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "shoe polish",
+    "l1_category": "beauty and grooming",
+    "l2_category": "mens grooming",
+    "current_volume": 6384,
+    "prev_volume": 24901,
+    "mom_growth_pct": -74.36,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.11,
+    "emerging_score": 49.41,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.27,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.89
+    }
+  },
+  {
+    "search_string": "hair spray",
+    "l1_category": "beauty and grooming",
+    "l2_category": "mens grooming",
+    "current_volume": 4212,
+    "prev_volume": 16539,
+    "mom_growth_pct": -74.53,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.11,
+    "emerging_score": 49.4,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.18,
+      "zero_result_norm": 99.62,
+      "availability_norm": 99.89
+    }
+  },
+  {
+    "search_string": "primer",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "current_volume": 3738,
+    "prev_volume": 14970,
+    "mom_growth_pct": -75.03,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.37,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.94,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "dove body wash",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "current_volume": 6755,
+    "prev_volume": 27239,
+    "mom_growth_pct": -75.2,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.32,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.86,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "whisper ultra",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 6626,
+    "prev_volume": 26103,
+    "mom_growth_pct": -74.62,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 49.31,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.14,
+      "zero_result_norm": 99.25,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "foundation",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "current_volume": 5975,
+    "prev_volume": 24150,
+    "mom_growth_pct": -75.26,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.31,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.83,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "colgate toothbrush",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 3547,
+    "prev_volume": 14346,
+    "mom_growth_pct": -75.28,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.3,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.82,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "ghar soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 5546,
+    "prev_volume": 22304,
+    "mom_growth_pct": -75.13,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.27,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.89,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "whisper",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 24136,
+    "prev_volume": 97138,
+    "mom_growth_pct": -75.15,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 49.25,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.88,
+      "zero_result_norm": 99.62,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "tooth brush",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 4709,
+    "prev_volume": 19015,
+    "mom_growth_pct": -75.24,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.24,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.84,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "minimalist sunscreen",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 4102,
+    "prev_volume": 16640,
+    "mom_growth_pct": -75.35,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.21,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.78,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "bathing soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 3591,
+    "prev_volume": 14737,
+    "mom_growth_pct": -75.63,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.21,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.65,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "concealer",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "current_volume": 6997,
+    "prev_volume": 28793,
+    "mom_growth_pct": -75.7,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.19,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.61,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "lux soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 5134,
+    "prev_volume": 20954,
+    "mom_growth_pct": -75.5,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.17,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.71,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "himalaya soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 3328,
+    "prev_volume": 13290,
+    "mom_growth_pct": -74.96,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.16,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.97,
+      "zero_result_norm": 98.87,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "cinthol soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 5533,
+    "prev_volume": 22947,
+    "mom_growth_pct": -75.89,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.14,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.52,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "wax",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 3849,
+    "prev_volume": 15686,
+    "mom_growth_pct": -75.46,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.14,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.73,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "razor",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 16022,
+    "prev_volume": 66625,
+    "mom_growth_pct": -75.95,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.12,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.49,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "veet",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 6302,
+    "prev_volume": 25888,
+    "mom_growth_pct": -75.66,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.12,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.63,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "cinthol",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 4014,
+    "prev_volume": 16325,
+    "mom_growth_pct": -75.41,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.08,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.75,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "moisturizer",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 15968,
+    "prev_volume": 65775,
+    "mom_growth_pct": -75.72,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 49.06,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.6,
+      "zero_result_norm": 100,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "body scrub",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "current_volume": 7156,
+    "prev_volume": 30225,
+    "mom_growth_pct": -76.32,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.02,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.31,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "period panty",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3609,
+    "prev_volume": 14989,
+    "mom_growth_pct": -75.92,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 49.0,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.5,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "bath soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 3234,
+    "prev_volume": 13704,
+    "mom_growth_pct": -76.4,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 49.0,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.27,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "prega news",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 11414,
+    "prev_volume": 46363,
+    "mom_growth_pct": -75.38,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 48.96,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.77,
+      "zero_result_norm": 98.69,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "dot & key sunscreen",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 4500,
+    "prev_volume": 19385,
+    "mom_growth_pct": -76.79,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.89,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.08,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "price drop",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 3187,
+    "prev_volume": 13641,
+    "mom_growth_pct": -76.64,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 48.89,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.15,
+      "zero_result_norm": 100,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "mars lip liner",
+    "l1_category": "makeup",
+    "l2_category": "lip makeup",
+    "current_volume": 3075,
+    "prev_volume": 12599,
+    "mom_growth_pct": -75.59,
+    "zero_result_rate": 0.09,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.88,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.67,
+      "zero_result_norm": 98.31,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "cough syrup",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 7967,
+    "prev_volume": 34002,
+    "mom_growth_pct": -76.57,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 48.87,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.19,
+      "zero_result_norm": 99.81,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "dot and key moisturizer",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 3015,
+    "prev_volume": 13119,
+    "mom_growth_pct": -77.02,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.83,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.97,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "fair and lovely",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 5178,
+    "prev_volume": 22326,
+    "mom_growth_pct": -76.81,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.07,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "vaseline lotion",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 3808,
+    "prev_volume": 15395,
+    "mom_growth_pct": -75.26,
+    "zero_result_rate": 0.1,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 48.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.83,
+      "zero_result_norm": 98.12,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "facial razor",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 3259,
+    "prev_volume": 14228,
+    "mom_growth_pct": -77.09,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.93,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "makeup remover",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face makeup",
+    "current_volume": 3168,
+    "prev_volume": 13899,
+    "mom_growth_pct": -77.21,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.78,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.87,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sunscreen",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 29968,
+    "prev_volume": 130413,
+    "mom_growth_pct": -77.02,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.76,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.97,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "soaps",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 32027,
+    "prev_volume": 131958,
+    "mom_growth_pct": -75.73,
+    "zero_result_rate": 0.12,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.73,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.6,
+      "zero_result_norm": 97.75,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "hair removal cream",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 3981,
+    "prev_volume": 17601,
+    "mom_growth_pct": -77.38,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.73,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.79,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pears soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 11545,
+    "prev_volume": 50668,
+    "mom_growth_pct": -77.21,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.71,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.87,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "body scrubber",
+    "l1_category": "beauty and grooming",
+    "l2_category": "beauty accessories",
+    "current_volume": 3619,
+    "prev_volume": 16115,
+    "mom_growth_pct": -77.54,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.71,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "whisper xxxl",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3295,
+    "prev_volume": 14370,
+    "mom_growth_pct": -77.07,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.94,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "bb cream",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 4245,
+    "prev_volume": 18380,
+    "mom_growth_pct": -76.9,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.68,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.02,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pads",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 30786,
+    "prev_volume": 136383,
+    "mom_growth_pct": -77.43,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.67,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.77,
+      "zero_result_norm": 99.81,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "stayfree xl",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 4558,
+    "prev_volume": 20489,
+    "mom_growth_pct": -77.75,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.62,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.61,
+      "zero_result_norm": 100,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "stayfree",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 20871,
+    "prev_volume": 92449,
+    "mom_growth_pct": -77.42,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.6,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.77,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "pad",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 11037,
+    "prev_volume": 50073,
+    "mom_growth_pct": -77.96,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.56,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.51,
+      "zero_result_norm": 100,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "face razor",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 9553,
+    "prev_volume": 43274,
+    "mom_growth_pct": -77.92,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.55,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.53,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "lip liner",
+    "l1_category": "makeup",
+    "l2_category": "lip makeup",
+    "current_volume": 9069,
+    "prev_volume": 41318,
+    "mom_growth_pct": -78.05,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.55,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.46,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "hair colour",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair colour",
+    "current_volume": 19760,
+    "prev_volume": 89749,
+    "mom_growth_pct": -77.98,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.54,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.5,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "hair wax",
+    "l1_category": "beauty and grooming",
+    "l2_category": "mens grooming",
+    "current_volume": 4961,
+    "prev_volume": 22161,
+    "mom_growth_pct": -77.61,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 0.11,
+    "emerging_score": 48.5,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.68,
+      "zero_result_norm": 99.25,
+      "availability_norm": 99.89
+    }
+  },
+  {
+    "search_string": "santoor",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 5873,
+    "prev_volume": 26254,
+    "mom_growth_pct": -77.63,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.48,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.67,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "colgate",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 26761,
+    "prev_volume": 122965,
+    "mom_growth_pct": -78.24,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.47,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.37,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sofy",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 9458,
+    "prev_volume": 43455,
+    "mom_growth_pct": -78.23,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.45,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.37,
+      "zero_result_norm": 99.81,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "durex",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 6896,
+    "prev_volume": 31903,
+    "mom_growth_pct": -78.38,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.43,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.3,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sensodyne toothbrush",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 5041,
+    "prev_volume": 23453,
+    "mom_growth_pct": -78.51,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.43,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.24,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "compact",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "current_volume": 3794,
+    "prev_volume": 17102,
+    "mom_growth_pct": -77.82,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.43,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.57,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "toothbrush",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 64670,
+    "prev_volume": 302682,
+    "mom_growth_pct": -78.63,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.36,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.18,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sensodyne",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 16045,
+    "prev_volume": 75066,
+    "mom_growth_pct": -78.63,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.36,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.18,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "shaving foam",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shaving needs",
+    "current_volume": 4122,
+    "prev_volume": 19406,
+    "mom_growth_pct": -78.76,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.36,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.11,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "kajal",
+    "l1_category": "makeup",
+    "l2_category": "eye makeup",
+    "current_volume": 12427,
+    "prev_volume": 57468,
+    "mom_growth_pct": -78.38,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.35,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.3,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 29278,
+    "prev_volume": 130150,
+    "mom_growth_pct": -77.5,
+    "zero_result_rate": 0.1,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.33,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.73,
+      "zero_result_norm": 98.12,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "eyeliner",
+    "l1_category": "makeup",
+    "l2_category": "eye makeup",
+    "current_volume": 9094,
+    "prev_volume": 42812,
+    "mom_growth_pct": -78.76,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.33,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.11,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "lens",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 3369,
+    "prev_volume": 15256,
+    "mom_growth_pct": -77.92,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 48.32,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.53,
+      "zero_result_norm": 98.87,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "pears body wash",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "current_volume": 3233,
+    "prev_volume": 15347,
+    "mom_growth_pct": -78.93,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.32,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.03,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "wax strips",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 5409,
+    "prev_volume": 24896,
+    "mom_growth_pct": -78.27,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.31,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.35,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "hair removal spray",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 3919,
+    "prev_volume": 18605,
+    "mom_growth_pct": -78.94,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.31,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.03,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "mascara",
+    "l1_category": "makeup",
+    "l2_category": "eye makeup",
+    "current_volume": 7166,
+    "prev_volume": 34125,
+    "mom_growth_pct": -79.0,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.3,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.0,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pepsodent",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 3188,
+    "prev_volume": 15201,
+    "mom_growth_pct": -79.03,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.29,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.98,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "mars lipstick",
+    "l1_category": "makeup",
+    "l2_category": "lip makeup",
+    "current_volume": 4157,
+    "prev_volume": 19859,
+    "mom_growth_pct": -79.07,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.28,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.96,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "condom",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 70033,
+    "prev_volume": 328803,
+    "mom_growth_pct": -78.7,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.27,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.14,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "adult diaper",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 15112,
+    "prev_volume": 69208,
+    "mom_growth_pct": -78.16,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 48.25,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.41,
+      "zero_result_norm": 98.87,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "hair removal",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 4898,
+    "prev_volume": 23572,
+    "mom_growth_pct": -79.22,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.24,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.89,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "medimix soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 4402,
+    "prev_volume": 21232,
+    "mom_growth_pct": -79.27,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.23,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.86,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "toner",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face makeup",
+    "current_volume": 3961,
+    "prev_volume": 18831,
+    "mom_growth_pct": -78.97,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.23,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.01,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "paste",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 12990,
+    "prev_volume": 62786,
+    "mom_growth_pct": -79.31,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.21,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.84,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "lubricant",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 3875,
+    "prev_volume": 18747,
+    "mom_growth_pct": -79.33,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.21,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.84,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "period panties",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 17417,
+    "prev_volume": 81942,
+    "mom_growth_pct": -78.74,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.2,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.12,
+      "zero_result_norm": 99.25,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "dant kanti",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 4844,
+    "prev_volume": 23153,
+    "mom_growth_pct": -79.08,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.2,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.96,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "body wash",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "current_volume": 43615,
+    "prev_volume": 210630,
+    "mom_growth_pct": -79.29,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.18,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.85,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "loofah",
+    "l1_category": "beauty and grooming",
+    "l2_category": "beauty accessories",
+    "current_volume": 10109,
+    "prev_volume": 49196,
+    "mom_growth_pct": -79.45,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.18,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.78,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "whisper panties",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 4403,
+    "prev_volume": 21370,
+    "mom_growth_pct": -79.4,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.18,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.8,
+      "zero_result_norm": 100,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "dove",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 9743,
+    "prev_volume": 46690,
+    "mom_growth_pct": -79.13,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.15,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.93,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "garnier",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair colour",
+    "current_volume": 3263,
+    "prev_volume": 15628,
+    "mom_growth_pct": -79.12,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.15,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.94,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "blush",
+    "l1_category": "makeup",
+    "l2_category": "face makeup",
+    "current_volume": 4850,
+    "prev_volume": 23787,
+    "mom_growth_pct": -79.61,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.13,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.7,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "mouthwash",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 9322,
+    "prev_volume": 46029,
+    "mom_growth_pct": -79.75,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.1,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.63,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "toothpaste",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 58871,
+    "prev_volume": 291317,
+    "mom_growth_pct": -79.79,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.09,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.61,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "lux",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 3886,
+    "prev_volume": 19200,
+    "mom_growth_pct": -79.76,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.09,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.62,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "tongue cleaner",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 14323,
+    "prev_volume": 70043,
+    "mom_growth_pct": -79.55,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.08,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.73,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "dot & key",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 6234,
+    "prev_volume": 29133,
+    "mom_growth_pct": -78.6,
+    "zero_result_rate": 0.09,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.07,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.19,
+      "zero_result_norm": 98.31,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "tampons",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3152,
+    "prev_volume": 15012,
+    "mom_growth_pct": -79.0,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 48.06,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.0,
+      "zero_result_norm": 98.87,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "lip tint",
+    "l1_category": "makeup",
+    "l2_category": "lip makeup",
+    "current_volume": 3208,
+    "prev_volume": 16026,
+    "mom_growth_pct": -79.98,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.03,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.52,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "eyebrow pencils",
+    "l1_category": "makeup",
+    "l2_category": "eye makeup",
+    "current_volume": 3433,
+    "prev_volume": 17224,
+    "mom_growth_pct": -80.07,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.01,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.47,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "wooden comb",
+    "l1_category": "beauty and grooming",
+    "l2_category": "beauty accessories",
+    "current_volume": 3135,
+    "prev_volume": 14824,
+    "mom_growth_pct": -78.85,
+    "zero_result_rate": 0.09,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 48.0,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.07,
+      "zero_result_norm": 98.31,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "lip gloss",
+    "l1_category": "makeup",
+    "l2_category": "lip makeup",
+    "current_volume": 9974,
+    "prev_volume": 49909,
+    "mom_growth_pct": -80.02,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.99,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.5,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "shower gel",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "current_volume": 8867,
+    "prev_volume": 44868,
+    "mom_growth_pct": -80.24,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.96,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.39,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "shaving cream",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shaving needs",
+    "current_volume": 5070,
+    "prev_volume": 25800,
+    "mom_growth_pct": -80.35,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.93,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.34,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pregnancy",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 3268,
+    "prev_volume": 16169,
+    "mom_growth_pct": -79.79,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.93,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.61,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "dove soaps",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 11002,
+    "prev_volume": 55320,
+    "mom_growth_pct": -80.11,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.92,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.45,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "chemist at play",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "current_volume": 9008,
+    "prev_volume": 46130,
+    "mom_growth_pct": -80.47,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.9,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.28,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "brush",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 9918,
+    "prev_volume": 50574,
+    "mom_growth_pct": -80.39,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.89,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.32,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pears",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 13795,
+    "prev_volume": 68440,
+    "mom_growth_pct": -79.84,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.88,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.59,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "veet cream",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 3987,
+    "prev_volume": 19834,
+    "mom_growth_pct": -79.9,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.87,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.56,
+      "zero_result_norm": 99.06,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "bodywash",
+    "l1_category": "bath body and hair",
+    "l2_category": "shower gel",
+    "current_volume": 4222,
+    "prev_volume": 21840,
+    "mom_growth_pct": -80.67,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.85,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.18,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "prega kit",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 8067,
+    "prev_volume": 41541,
+    "mom_growth_pct": -80.58,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.83,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.22,
+      "zero_result_norm": 100,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "lipstick",
+    "l1_category": "makeup",
+    "l2_category": "lip makeup",
+    "current_volume": 15870,
+    "prev_volume": 81365,
+    "mom_growth_pct": -80.5,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.82,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.26,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pregnancy kit",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 25066,
+    "prev_volume": 123314,
+    "mom_growth_pct": -79.67,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.67,
+      "zero_result_norm": 98.69,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "pee safe",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 4425,
+    "prev_volume": 21605,
+    "mom_growth_pct": -79.52,
+    "zero_result_rate": 0.09,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 47.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.74,
+      "zero_result_norm": 98.31,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "face cream",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 5252,
+    "prev_volume": 27489,
+    "mom_growth_pct": -80.89,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.79,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.07,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "plush",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3823,
+    "prev_volume": 19513,
+    "mom_growth_pct": -80.41,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 47.79,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.31,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "lube",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 5921,
+    "prev_volume": 31046,
+    "mom_growth_pct": -80.93,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.78,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.05,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "razor for men",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shaving needs",
+    "current_volume": 6567,
+    "prev_volume": 34292,
+    "mom_growth_pct": -80.85,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.76,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.09,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "medicine",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 14249,
+    "prev_volume": 72077,
+    "mom_growth_pct": -80.23,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.73,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.39,
+      "zero_result_norm": 99.06,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "face moisturizer",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 6248,
+    "prev_volume": 33147,
+    "mom_growth_pct": -81.15,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.72,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.94,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "dot and key",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 3334,
+    "prev_volume": 17669,
+    "mom_growth_pct": -81.13,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.72,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.95,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sanitary pads",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 32552,
+    "prev_volume": 164042,
+    "mom_growth_pct": -80.16,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 47.71,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.43,
+      "zero_result_norm": 98.69,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "sex toys",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 7145,
+    "prev_volume": 37222,
+    "mom_growth_pct": -80.8,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.7,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.12,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "paradyes",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair colour",
+    "current_volume": 4916,
+    "prev_volume": 25785,
+    "mom_growth_pct": -80.93,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.7,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.05,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "mysore soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 8255,
+    "prev_volume": 43397,
+    "mom_growth_pct": -80.98,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.03,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "whisper xl",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 4680,
+    "prev_volume": 24513,
+    "mom_growth_pct": -80.91,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 47.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.06,
+      "zero_result_norm": 99.62,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "electric toothbrush",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 3876,
+    "prev_volume": 20390,
+    "mom_growth_pct": -80.99,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.02,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "nivea body lotion",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 3236,
+    "prev_volume": 16163,
+    "mom_growth_pct": -79.98,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 47.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.52,
+      "zero_result_norm": 98.87,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "bombay shaving company",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shaving needs",
+    "current_volume": 3997,
+    "prev_volume": 21168,
+    "mom_growth_pct": -81.12,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.65,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.96,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "pregnancy test",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 10484,
+    "prev_volume": 53523,
+    "mom_growth_pct": -80.41,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.61,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.31,
+      "zero_result_norm": 98.69,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "derma roller",
+    "l1_category": "beauty and grooming",
+    "l2_category": "mens grooming",
+    "current_volume": 3394,
+    "prev_volume": 17889,
+    "mom_growth_pct": -81.03,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.11,
+    "emerging_score": 47.61,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.0,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.89
+    }
+  },
+  {
+    "search_string": "nua",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 14083,
+    "prev_volume": 74715,
+    "mom_growth_pct": -81.15,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 47.59,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.94,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "razor for women",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 7899,
+    "prev_volume": 44070,
+    "mom_growth_pct": -82.08,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.47,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.49,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "durex condoms",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 4139,
+    "prev_volume": 22008,
+    "mom_growth_pct": -81.19,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.45,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.92,
+      "zero_result_norm": 98.69,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "cough",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 3126,
+    "prev_volume": 17507,
+    "mom_growth_pct": -82.14,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.41,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.46,
+      "zero_result_norm": 100,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "renee",
+    "l1_category": "makeup",
+    "l2_category": "eye makeup",
+    "current_volume": 3008,
+    "prev_volume": 16342,
+    "mom_growth_pct": -81.59,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.38,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.73,
+      "zero_result_norm": 98.87,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "mysore sandal",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 11576,
+    "prev_volume": 48943,
+    "mom_growth_pct": -76.35,
+    "zero_result_rate": 0.44,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.36,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.29,
+      "zero_result_norm": 91.74,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "nivea moisturizer",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 6635,
+    "prev_volume": 37853,
+    "mom_growth_pct": -82.47,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.33,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.3,
+      "zero_result_norm": 99.81,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "vicks inhaler",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 3636,
+    "prev_volume": 19994,
+    "mom_growth_pct": -81.81,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.31,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.62,
+      "zero_result_norm": 99.06,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "vicks",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 15824,
+    "prev_volume": 90134,
+    "mom_growth_pct": -82.44,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 47.29,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.31,
+      "zero_result_norm": 99.81,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "vaseline",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 15210,
+    "prev_volume": 84558,
+    "mom_growth_pct": -82.01,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 47.25,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.52,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "razor women",
+    "l1_category": "beauty and grooming",
+    "l2_category": "hair removal",
+    "current_volume": 3437,
+    "prev_volume": 20111,
+    "mom_growth_pct": -82.91,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.25,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.08,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "durex condom",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 8102,
+    "prev_volume": 45303,
+    "mom_growth_pct": -82.12,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.2,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.47,
+      "zero_result_norm": 98.69,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "nivea lotion",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 3742,
+    "prev_volume": 21992,
+    "mom_growth_pct": -82.98,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 47.1,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.05,
+      "zero_result_norm": 100,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "plum",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 8540,
+    "prev_volume": 51322,
+    "mom_growth_pct": -83.36,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 47.05,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.86,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "lotion",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 3006,
+    "prev_volume": 17202,
+    "mom_growth_pct": -82.53,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 47.0,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.27,
+      "zero_result_norm": 98.87,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "stayfree secure",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 4105,
+    "prev_volume": 24111,
+    "mom_growth_pct": -82.97,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 46.95,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.05,
+      "zero_result_norm": 98.69,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "pears bar",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 3560,
+    "prev_volume": 22379,
+    "mom_growth_pct": -84.09,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 46.93,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.5,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "stayfree nights",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3079,
+    "prev_volume": 18799,
+    "mom_growth_pct": -83.62,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 46.93,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.74,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "sofy antibacteria",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3372,
+    "prev_volume": 20108,
+    "mom_growth_pct": -83.23,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 46.92,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.93,
+      "zero_result_norm": 98.87,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "colgate strong",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 3481,
+    "prev_volume": 22161,
+    "mom_growth_pct": -84.29,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 46.87,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.41,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "condoms",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 4598,
+    "prev_volume": 27543,
+    "mom_growth_pct": -83.31,
+    "zero_result_rate": 0.08,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 46.84,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.89,
+      "zero_result_norm": 98.5,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "colgate total",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "oral care",
+    "current_volume": 4993,
+    "prev_volume": 32404,
+    "mom_growth_pct": -84.59,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 46.79,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.26,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sandal soap",
+    "l1_category": "bath body and hair",
+    "l2_category": "soap",
+    "current_volume": 3502,
+    "prev_volume": 22152,
+    "mom_growth_pct": -84.19,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 46.79,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.46,
+      "zero_result_norm": 99.44,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "boroplus",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 4289,
+    "prev_volume": 27965,
+    "mom_growth_pct": -84.66,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 46.7,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.23,
+      "zero_result_norm": 99.62,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "mask",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 10610,
+    "prev_volume": 69423,
+    "mom_growth_pct": -84.72,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 46.67,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.2,
+      "zero_result_norm": 99.81,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "inhaler",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 4413,
+    "prev_volume": 28796,
+    "mom_growth_pct": -84.67,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 46.65,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.22,
+      "zero_result_norm": 99.62,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "cetaphil moisturiser",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 5060,
+    "prev_volume": 33140,
+    "mom_growth_pct": -84.73,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 46.63,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.19,
+      "zero_result_norm": 100,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "nivea",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 7730,
+    "prev_volume": 50439,
+    "mom_growth_pct": -84.67,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 46.54,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.22,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "body oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 4289,
+    "prev_volume": 29193,
+    "mom_growth_pct": -85.31,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 46.48,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 2.91,
+      "zero_result_norm": 100,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "body lotion",
+    "l1_category": "bath body and hair",
+    "l2_category": "body lotion",
+    "current_volume": 25439,
+    "prev_volume": 168201,
+    "mom_growth_pct": -84.88,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 0.49,
+    "emerging_score": 46.33,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.12,
+      "zero_result_norm": 98.69,
+      "availability_norm": 99.51
+    }
+  },
+  {
+    "search_string": "whisper choice",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "feminine hygiene",
+    "current_volume": 3137,
+    "prev_volume": 25105,
+    "mom_growth_pct": -87.5,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 0.06,
+    "emerging_score": 45.88,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 1.84,
+      "zero_result_norm": 99.44,
+      "availability_norm": 99.94
+    }
+  },
+  {
+    "search_string": "gillette blade",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shaving needs",
+    "current_volume": 3786,
+    "prev_volume": 33211,
+    "mom_growth_pct": -88.6,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 45.71,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 1.3,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "moisturising cream",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 3572,
+    "prev_volume": 34167,
+    "mom_growth_pct": -89.55,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 45.46,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 0.83,
+      "zero_result_norm": 100,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "n95 mask",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "basic pharma",
+    "current_volume": 3362,
+    "prev_volume": 36558,
+    "mom_growth_pct": -90.8,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 0.19,
+    "emerging_score": 45.07,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 0.22,
+      "zero_result_norm": 100,
+      "availability_norm": 99.81
+    }
+  },
+  {
+    "search_string": "boroline",
+    "l1_category": "bath body and hair",
+    "l2_category": "face cream",
+    "current_volume": 8209,
+    "prev_volume": 50036,
+    "mom_growth_pct": -83.59,
+    "zero_result_rate": 0.62,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 44.74,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.75,
+      "zero_result_norm": 88.37,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "sexual wellness",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "sexual wellness",
+    "current_volume": 3076,
+    "prev_volume": 35166,
+    "mom_growth_pct": -91.25,
+    "zero_result_rate": 0.12,
+    "l2_availability_pct": 0.0,
+    "emerging_score": 44.55,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 0,
+      "zero_result_norm": 97.75,
+      "availability_norm": 100.0
+    }
+  },
+  {
+    "search_string": "bellavita perfume",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 5013,
+    "prev_volume": 7461,
+    "mom_growth_pct": -32.81,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 35.73,
+    "confidence": "Medium",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 28.61,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "spray bottles",
+    "l1_category": "makeup",
+    "l2_category": "makeup brushes and tools",
+    "current_volume": 4613,
+    "prev_volume": 8029,
+    "mom_growth_pct": -42.55,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 33.11,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 23.84,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "parachute coconut oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 5137,
+    "prev_volume": 14335,
+    "mom_growth_pct": -64.16,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 27.29,
+    "confidence": "Medium",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 13.26,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "aloe vera",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 7716,
+    "prev_volume": 26827,
+    "mom_growth_pct": -71.24,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 25.35,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.8,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "facial kit",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 10191,
+    "prev_volume": 35805,
+    "mom_growth_pct": -71.54,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 25.31,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.65,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "aloe vera gel",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 8139,
+    "prev_volume": 28701,
+    "mom_growth_pct": -71.64,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 25.13,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.6,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "himalayas",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 3914,
+    "prev_volume": 14010,
+    "mom_growth_pct": -72.06,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.98,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 9.39,
+      "zero_result_norm": 99.06,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "deodorant",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 3413,
+    "prev_volume": 12980,
+    "mom_growth_pct": -73.71,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.61,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.59,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "meera shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3532,
+    "prev_volume": 13735,
+    "mom_growth_pct": -74.28,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.57,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.31,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "pilgrim shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 5654,
+    "prev_volume": 21861,
+    "mom_growth_pct": -74.14,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.49,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.38,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "moov",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 4366,
+    "prev_volume": 17346,
+    "mom_growth_pct": -74.83,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.42,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.04,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "himalaya shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3550,
+    "prev_volume": 14127,
+    "mom_growth_pct": -74.87,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.41,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.02,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "underarm roll on",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 4022,
+    "prev_volume": 16095,
+    "mom_growth_pct": -75.01,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.37,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.95,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "multani mitti",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 5331,
+    "prev_volume": 20971,
+    "mom_growth_pct": -74.58,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.34,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.16,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "hand wash",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "hand wash and sanitizer",
+    "current_volume": 7173,
+    "prev_volume": 28895,
+    "mom_growth_pct": -75.18,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.33,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.87,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "crepe bandage",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 3679,
+    "prev_volume": 14632,
+    "mom_growth_pct": -74.86,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.3,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 8.02,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nail cutter",
+    "l1_category": "makeup",
+    "l2_category": "makeup brushes and tools",
+    "current_volume": 12076,
+    "prev_volume": 48709,
+    "mom_growth_pct": -75.21,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.24,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.85,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "castor oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 9098,
+    "prev_volume": 37022,
+    "mom_growth_pct": -75.43,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.22,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.74,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "handwash refill",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "hand wash and sanitizer",
+    "current_volume": 4672,
+    "prev_volume": 19246,
+    "mom_growth_pct": -75.72,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.18,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.6,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "mamaearth",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 3964,
+    "prev_volume": 16347,
+    "mom_growth_pct": -75.75,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.17,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.59,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "clinic plus shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3095,
+    "prev_volume": 12604,
+    "mom_growth_pct": -75.44,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.14,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.74,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "sunsilk shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 4297,
+    "prev_volume": 17837,
+    "mom_growth_pct": -75.91,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.13,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.51,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "dove shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 11761,
+    "prev_volume": 48630,
+    "mom_growth_pct": -75.82,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 24.12,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.55,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "simple face wash",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 3252,
+    "prev_volume": 13819,
+    "mom_growth_pct": -76.47,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.98,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.24,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "hair conditioner",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3152,
+    "prev_volume": 13403,
+    "mom_growth_pct": -76.48,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.98,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.23,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "parachute hair oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 3290,
+    "prev_volume": 14002,
+    "mom_growth_pct": -76.5,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.97,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.22,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "zandu balm",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 4746,
+    "prev_volume": 20117,
+    "mom_growth_pct": -76.41,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.92,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.26,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "vitamin c serum",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 3776,
+    "prev_volume": 15529,
+    "mom_growth_pct": -75.68,
+    "zero_result_rate": 0.08,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.89,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.62,
+      "zero_result_norm": 98.5,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "himalaya face wash",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 5518,
+    "prev_volume": 23251,
+    "mom_growth_pct": -76.27,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.88,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.33,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nail glue",
+    "l1_category": "makeup",
+    "l2_category": "nail paints and accessories",
+    "current_volume": 3005,
+    "prev_volume": 12971,
+    "mom_growth_pct": -76.83,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.88,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.06,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "face pack",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 4298,
+    "prev_volume": 18622,
+    "mom_growth_pct": -76.92,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.86,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 7.01,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "l'oreal shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 16013,
+    "prev_volume": 69539,
+    "mom_growth_pct": -76.97,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.99,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nail polish remover",
+    "l1_category": "makeup",
+    "l2_category": "nail makeup",
+    "current_volume": 6655,
+    "prev_volume": 29305,
+    "mom_growth_pct": -77.29,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.76,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.83,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "savlon",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 3409,
+    "prev_volume": 15078,
+    "mom_growth_pct": -77.39,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.73,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.78,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "bandage",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 5583,
+    "prev_volume": 24760,
+    "mom_growth_pct": -77.45,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.72,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.76,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "scalp massager",
+    "l1_category": "makeup",
+    "l2_category": "makeup brushes and tools",
+    "current_volume": 3305,
+    "prev_volume": 14660,
+    "mom_growth_pct": -77.46,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.71,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.75,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "mehendi cones",
+    "l1_category": "makeup",
+    "l2_category": "makeup brushes and tools",
+    "current_volume": 4990,
+    "prev_volume": 22443,
+    "mom_growth_pct": -77.77,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.63,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.6,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "dove conditioner",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 4397,
+    "prev_volume": 19291,
+    "mom_growth_pct": -77.21,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.63,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.87,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "pimple patch",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 14631,
+    "prev_volume": 65617,
+    "mom_growth_pct": -77.7,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.61,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.63,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "dettol",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 25970,
+    "prev_volume": 117915,
+    "mom_growth_pct": -77.98,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.57,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.5,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "simple wash",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 4435,
+    "prev_volume": 19906,
+    "mom_growth_pct": -77.72,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.57,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.62,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "volini spray",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 3146,
+    "prev_volume": 14322,
+    "mom_growth_pct": -78.03,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.56,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.47,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "rosemary water",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 5342,
+    "prev_volume": 24451,
+    "mom_growth_pct": -78.15,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.53,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.41,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "anti-dandruff shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3440,
+    "prev_volume": 15760,
+    "mom_growth_pct": -78.17,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.52,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.4,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "dettol handwash",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "hand wash and sanitizer",
+    "current_volume": 11446,
+    "prev_volume": 52637,
+    "mom_growth_pct": -78.25,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.5,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.36,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "powder",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 4423,
+    "prev_volume": 20076,
+    "mom_growth_pct": -77.97,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.5,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.5,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "parachute hair",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 5185,
+    "prev_volume": 23586,
+    "mom_growth_pct": -78.02,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.49,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.48,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nat habit",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 4593,
+    "prev_volume": 21353,
+    "mom_growth_pct": -78.49,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.44,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.25,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "coconut oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 58411,
+    "prev_volume": 271175,
+    "mom_growth_pct": -78.46,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.41,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.26,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "tresemme shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 5635,
+    "prev_volume": 25970,
+    "mom_growth_pct": -78.3,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.41,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.34,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "face scrub",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 7252,
+    "prev_volume": 33344,
+    "mom_growth_pct": -78.25,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.35,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.36,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "sanitizer",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "hand wash and sanitizer",
+    "current_volume": 9727,
+    "prev_volume": 45939,
+    "mom_growth_pct": -78.83,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.34,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.08,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "rose water",
+    "l1_category": "beauty and grooming",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 7129,
+    "prev_volume": 33726,
+    "mom_growth_pct": -78.86,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.34,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.07,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "band aid",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 5392,
+    "prev_volume": 25497,
+    "mom_growth_pct": -78.85,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.34,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.07,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "face wash",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 47776,
+    "prev_volume": 222205,
+    "mom_growth_pct": -78.5,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.32,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.24,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "minimalist",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 7238,
+    "prev_volume": 33580,
+    "mom_growth_pct": -78.45,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.3,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.27,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "almond oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 5772,
+    "prev_volume": 27464,
+    "mom_growth_pct": -78.98,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.3,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.01,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "hair oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 16535,
+    "prev_volume": 78071,
+    "mom_growth_pct": -78.82,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.27,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.08,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "sheet mask",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 5974,
+    "prev_volume": 28203,
+    "mom_growth_pct": -78.82,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.27,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.08,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "rosemary oil",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 3813,
+    "prev_volume": 18314,
+    "mom_growth_pct": -79.18,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.25,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.91,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "handwash",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "hand wash and sanitizer",
+    "current_volume": 48810,
+    "prev_volume": 235460,
+    "mom_growth_pct": -79.27,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.23,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.86,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "bare anatomy shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3100,
+    "prev_volume": 14967,
+    "mom_growth_pct": -79.29,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.22,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.85,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "head and shoulders shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3479,
+    "prev_volume": 16865,
+    "mom_growth_pct": -79.37,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.2,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.82,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "hair mask",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 8163,
+    "prev_volume": 38861,
+    "mom_growth_pct": -78.99,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.19,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.0,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "the derma co",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 4845,
+    "prev_volume": 22927,
+    "mom_growth_pct": -78.87,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.18,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.06,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "face serum",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 6115,
+    "prev_volume": 29781,
+    "mom_growth_pct": -79.47,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.17,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.77,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "l'oreal conditioner",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 4872,
+    "prev_volume": 22825,
+    "mom_growth_pct": -78.65,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.17,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.17,
+      "zero_result_norm": 98.87,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "l'oreal paris",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 4766,
+    "prev_volume": 22304,
+    "mom_growth_pct": -78.63,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.17,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.18,
+      "zero_result_norm": 98.87,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 59042,
+    "prev_volume": 278609,
+    "mom_growth_pct": -78.81,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.16,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.09,
+      "zero_result_norm": 99.06,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "hair serum",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 18712,
+    "prev_volume": 90123,
+    "mom_growth_pct": -79.24,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.12,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.88,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "conditioner",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 18517,
+    "prev_volume": 89880,
+    "mom_growth_pct": -79.4,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.12,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.8,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "salicylic acid",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 3093,
+    "prev_volume": 14646,
+    "mom_growth_pct": -78.88,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.11,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.06,
+      "zero_result_norm": 98.87,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "be bodywise",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 3079,
+    "prev_volume": 15158,
+    "mom_growth_pct": -79.69,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.11,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.66,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "deo",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 3069,
+    "prev_volume": 15150,
+    "mom_growth_pct": -79.74,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.1,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.63,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "pilgrim",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 6046,
+    "prev_volume": 29267,
+    "mom_growth_pct": -79.34,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.09,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.83,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nail polish",
+    "l1_category": "makeup",
+    "l2_category": "nail paints and accessories",
+    "current_volume": 8145,
+    "prev_volume": 40091,
+    "mom_growth_pct": -79.68,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.08,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.66,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "facewash",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 8529,
+    "prev_volume": 42050,
+    "mom_growth_pct": -79.72,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.07,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.64,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "cotton pads",
+    "l1_category": "makeup",
+    "l2_category": "makeup brushes and tools",
+    "current_volume": 4591,
+    "prev_volume": 22278,
+    "mom_growth_pct": -79.39,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.04,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.81,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "parachute",
+    "l1_category": "bath body and hair",
+    "l2_category": "hair oil and serum",
+    "current_volume": 11263,
+    "prev_volume": 55678,
+    "mom_growth_pct": -79.77,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.02,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.62,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "hand sanitizer",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "hand wash and sanitizer",
+    "current_volume": 6106,
+    "prev_volume": 29956,
+    "mom_growth_pct": -79.62,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 23.02,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.69,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "vaseline lip",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 4488,
+    "prev_volume": 22752,
+    "mom_growth_pct": -80.27,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.96,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.37,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "face mask",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 17111,
+    "prev_volume": 85100,
+    "mom_growth_pct": -79.89,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.95,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.56,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "roll on",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 8400,
+    "prev_volume": 42591,
+    "mom_growth_pct": -80.28,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.92,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.37,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "serum",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 6087,
+    "prev_volume": 30796,
+    "mom_growth_pct": -80.23,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.89,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.39,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "scalpe pro",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 4329,
+    "prev_volume": 22000,
+    "mom_growth_pct": -80.32,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.87,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.35,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nails",
+    "l1_category": "makeup",
+    "l2_category": "nail paints and accessories",
+    "current_volume": 3882,
+    "prev_volume": 19402,
+    "mom_growth_pct": -79.99,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.84,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.51,
+      "zero_result_norm": 99.06,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "simple",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 3714,
+    "prev_volume": 19350,
+    "mom_growth_pct": -80.81,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.81,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.11,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "bare anatomy",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 10754,
+    "prev_volume": 55735,
+    "mom_growth_pct": -80.71,
+    "zero_result_rate": 0.01,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.8,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.16,
+      "zero_result_norm": 99.81,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "press on nails",
+    "l1_category": "makeup",
+    "l2_category": "nail paints and accessories",
+    "current_volume": 4113,
+    "prev_volume": 20209,
+    "mom_growth_pct": -79.65,
+    "zero_result_rate": 0.09,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.79,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.68,
+      "zero_result_norm": 98.31,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nose strip",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 6686,
+    "prev_volume": 34610,
+    "mom_growth_pct": -80.68,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.73,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.17,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "mars",
+    "l1_category": "makeup",
+    "l2_category": "milk chocolates",
+    "current_volume": 4514,
+    "prev_volume": 23051,
+    "mom_growth_pct": -80.42,
+    "zero_result_rate": 0.06,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.3,
+      "zero_result_norm": 98.87,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "derma co",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 4157,
+    "prev_volume": 21867,
+    "mom_growth_pct": -80.99,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.69,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.02,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nail paint remover",
+    "l1_category": "makeup",
+    "l2_category": "nail paints and accessories",
+    "current_volume": 3592,
+    "prev_volume": 19193,
+    "mom_growth_pct": -81.28,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.68,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.88,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "pond's",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 4080,
+    "prev_volume": 21286,
+    "mom_growth_pct": -80.83,
+    "zero_result_rate": 0.05,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.62,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.1,
+      "zero_result_norm": 99.06,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "foxtale",
+    "l1_category": "bath body and hair",
+    "l2_category": "face and lip care",
+    "current_volume": 5477,
+    "prev_volume": 27982,
+    "mom_growth_pct": -80.43,
+    "zero_result_rate": 0.09,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.58,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.3,
+      "zero_result_norm": 98.31,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "perfume women",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 3238,
+    "prev_volume": 17302,
+    "mom_growth_pct": -81.29,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.57,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.88,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "volini",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "wound care and pain relief",
+    "current_volume": 5308,
+    "prev_volume": 23856,
+    "mom_growth_pct": -77.75,
+    "zero_result_rate": 0.29,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.55,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 6.61,
+      "zero_result_norm": 94.56,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "cetaphil",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 19299,
+    "prev_volume": 105274,
+    "mom_growth_pct": -81.67,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.47,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.69,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "wishcare",
+    "l1_category": "bath body and hair",
+    "l2_category": "face and lip care",
+    "current_volume": 4046,
+    "prev_volume": 21507,
+    "mom_growth_pct": -81.19,
+    "zero_result_rate": 0.07,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.45,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.92,
+      "zero_result_norm": 98.69,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "hyphen",
+    "l1_category": "bath body and hair",
+    "l2_category": "face and lip care",
+    "current_volume": 3887,
+    "prev_volume": 21868,
+    "mom_growth_pct": -82.23,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.43,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.42,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "vitamin c",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 4440,
+    "prev_volume": 25084,
+    "mom_growth_pct": -82.3,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.41,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.38,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nail paint",
+    "l1_category": "makeup",
+    "l2_category": "nail paints and accessories",
+    "current_volume": 8384,
+    "prev_volume": 46848,
+    "mom_growth_pct": -82.1,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.39,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.48,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "dry shampoo",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 3124,
+    "prev_volume": 17347,
+    "mom_growth_pct": -81.99,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.38,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.53,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "deos",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 3680,
+    "prev_volume": 21279,
+    "mom_growth_pct": -82.71,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.3,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.18,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "anti dandruff",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 5423,
+    "prev_volume": 31075,
+    "mom_growth_pct": -82.55,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.27,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.26,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "cotton",
+    "l1_category": "makeup",
+    "l2_category": "makeup brushes and tools",
+    "current_volume": 6447,
+    "prev_volume": 38356,
+    "mom_growth_pct": -83.19,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.17,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.95,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "liquid handwash",
+    "l1_category": "hygiene and wellness",
+    "l2_category": "hand wash and sanitizer",
+    "current_volume": 3287,
+    "prev_volume": 19837,
+    "mom_growth_pct": -83.43,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.11,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.83,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "perfume",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 11706,
+    "prev_volume": 67263,
+    "mom_growth_pct": -82.6,
+    "zero_result_rate": 0.08,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.03,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.23,
+      "zero_result_norm": 98.5,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "glycerine",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 3679,
+    "prev_volume": 20358,
+    "mom_growth_pct": -81.93,
+    "zero_result_rate": 0.13,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.02,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.56,
+      "zero_result_norm": 97.56,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "nail",
+    "l1_category": "makeup",
+    "l2_category": "nail paints and accessories",
+    "current_volume": 3662,
+    "prev_volume": 20688,
+    "mom_growth_pct": -82.3,
+    "zero_result_rate": 0.11,
+    "l2_availability_pct": 100,
+    "emerging_score": 22.0,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 4.38,
+      "zero_result_norm": 97.94,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "lip balm",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 32378,
+    "prev_volume": 199795,
+    "mom_growth_pct": -83.79,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 21.86,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.65,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "cetaphil cleanser",
+    "l1_category": "bath body and hair",
+    "l2_category": "face wash and scrub",
+    "current_volume": 15228,
+    "prev_volume": 96500,
+    "mom_growth_pct": -84.22,
+    "zero_result_rate": 0.03,
+    "l2_availability_pct": 100,
+    "emerging_score": 21.78,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.44,
+      "zero_result_norm": 99.44,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "vaseline jelly",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 6301,
+    "prev_volume": 41867,
+    "mom_growth_pct": -84.95,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 21.7,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.08,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "perfumes",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 20151,
+    "prev_volume": 131469,
+    "mom_growth_pct": -84.67,
+    "zero_result_rate": 0.04,
+    "l2_availability_pct": 100,
+    "emerging_score": 21.62,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 3.22,
+      "zero_result_norm": 99.25,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "bella vita",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 5558,
+    "prev_volume": 38525,
+    "mom_growth_pct": -85.57,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 21.53,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 2.78,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "pilgrim serum",
+    "l1_category": "beauty and grooming",
+    "l2_category": "face and lip care",
+    "current_volume": 5287,
+    "prev_volume": 36698,
+    "mom_growth_pct": -85.59,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 21.52,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 2.77,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "gift for men",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 5829,
+    "prev_volume": 44901,
+    "mom_growth_pct": -87.02,
+    "zero_result_rate": 0.02,
+    "l2_availability_pct": 100,
+    "emerging_score": 21.06,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 2.07,
+      "zero_result_norm": 99.62,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "perfume men",
+    "l1_category": "bath body and hair",
+    "l2_category": "perfumes, deos and talc",
+    "current_volume": 4508,
+    "prev_volume": 36549,
+    "mom_growth_pct": -87.67,
+    "zero_result_rate": 0.0,
+    "l2_availability_pct": 100,
+    "emerging_score": 20.96,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 1.75,
+      "zero_result_norm": 100,
+      "availability_norm": 0
+    }
+  },
+  {
+    "search_string": "sebamed",
+    "l1_category": "bath body and hair",
+    "l2_category": "shampoo and conditioner",
+    "current_volume": 4338,
+    "prev_volume": 20683,
+    "mom_growth_pct": -79.03,
+    "zero_result_rate": 5.33,
+    "l2_availability_pct": 100,
+    "emerging_score": 3.29,
+    "confidence": "Low",
+    "signal_alignment": "internal_only",
+    "passed_gates": true,
+    "signals": {
+      "mom_search_growth_norm": 5.98,
+      "zero_result_norm": 0,
+      "availability_norm": 0
+    }
+  }
+]
