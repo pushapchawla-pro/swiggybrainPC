@@ -1,0 +1,49 @@
+# Search 3M MoM Data Extraction - Execution Log
+# Task ID: CB-1
+# Timestamp: 2026-01-30T18:12:20+05:30
+
+## Configuration
+- L1 Categories: bath body and hair, beauty and grooming, hygiene and wellness, makeup
+- Min Volume: 500
+- Top Terms: 200
+- Data Source: ANALYTICS.PUBLIC.IM_SEARCH_DB_SS
+
+## Date Ranges
+- Month 0 (M0): 2026-01-02 to 2026-01-29 (28 days)
+- Month 1 (M1): 2025-12-05 to 2026-01-01 (28 days)
+- Month 2 (M2): 2025-11-07 to 2025-12-04 (28 days)
+
+## Execution Details
+- Connection: swiggy (ENGG_WH_01 warehouse)
+- Query File: search_metrics.sql
+- Output Format: CSV
+
+## Results Summary
+- Total Rows: 200
+- Status: SUCCESS
+
+## Schema Notes
+- Original query referenced IM_SEARCH_FACT which lacked L1_CATEGORY column
+- Corrected to use IM_SEARCH_DB_SS which has:
+  - SEARCH_STRING, L1_CATEGORY, L2_CATEGORY
+  - IMPRESSIONS (used as volume metric)
+  - TYPE column where 'NULL_SS' indicates zero-result searches
+
+## Output Columns
+1. SEARCH_STRING - Search term
+2. L1_CATEGORY - Level 1 category
+3. L2_CATEGORY - Level 2 category
+4. M0_VOLUME - Current month search volume (impressions)
+5. ZERO_RESULT_RATE - Percentage of zero-result searches
+6. M1_VOLUME - Previous month search volume
+7. M2_VOLUME - Two months ago search volume
+8. M0_VS_M1_GROWTH_PCT - MoM growth (M0 vs M1)
+9. M1_VS_M2_GROWTH_PCT - MoM growth (M1 vs M2)
+10. TWO_PERIOD_CAGR_PCT - 2-period compound growth rate
+11. TREND_DIRECTION - stable_up, accelerating, decelerating, stable_down, volatile
+12. TREND_STABILITY_SCORE - 0, 25, 50, 75, 100
+
+## Sample Insights
+- Top search term: "condom" (551K impressions, +14% MoM, stable_up)
+- High growth: "sexual wellness" (+254% MoM), "facial kit" (+99%)
+- Declining: "lip balm" (-24%), "vaseline" (-29%), "boroline" (-43%)
