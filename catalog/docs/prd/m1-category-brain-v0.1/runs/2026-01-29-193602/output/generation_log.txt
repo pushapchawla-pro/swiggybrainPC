@@ -1,0 +1,158 @@
+================================================================================
+CB-7: INSIGHT GENERATION LOG
+Run ID: 2026-01-29-193602
+Generated: 2026-01-29T19:45:00Z
+================================================================================
+
+INPUT FILE VALIDATION
+--------------------------------------------------------------------------------
+[OK] evidence/fusion/ranked_terms.csv
+     - Records: 58 qualified terms
+     - Columns: rank, search_string, l1_category, l2_category, current_month_volume,
+                mom_search_growth_pct, mom_sales_growth_pct, google_interest,
+                zero_result_rate, availability_pct, top_oos_reason, emerging_score
+     - Date Range: Dec 2025 - Jan 2026
+
+[OK] evidence/snowflake/sku_master.csv
+     - Records: ~10,000+ SKUs (sampled for brand context)
+     - Columns: ITEM_ID, ITEM_NAME, BRAND, L1_CATEGORY, L2_CATEGORY, L3_CATEGORY,
+                COMPANY, SUPPLY_TYPE, SEGMENT, TAX_RATE
+
+[OK] evidence/databricks/sku_tags.csv
+     - Records: ~10,000+ SKUs (sampled for product attributes)
+     - Columns: item_id, item_name, brand, l1_category, l2_category, l3_category,
+                pack_type, combo_size, storage_requirement_type, mrp
+
+PROCESSING SUMMARY
+--------------------------------------------------------------------------------
+Total Qualified Terms:     58
+Insights Generated:        50 (top 50 by emerging_score)
+Terms Not Included:        8 (ranks 51-58)
+
+SIGNAL CLASSIFICATION BREAKDOWN
+--------------------------------------------------------------------------------
+Search Surge (>100% MoM):      15 insights
+Emerging Trend (50-100%):      33 insights
+Availability Gap (<80%, 0%):    2 insights
+Cross-Signal:                   0 insights
+
+CONFIDENCE DISTRIBUTION
+--------------------------------------------------------------------------------
+High Confidence:    14 insights (emerging_score >45 OR growth >200%)
+Medium Confidence:  36 insights (emerging_score 30-45 OR growth 75-200%)
+Low Confidence:      0 insights
+
+CATEGORY DISTRIBUTION (L1)
+--------------------------------------------------------------------------------
+Hygiene and Wellness:   29 insights (58%)
+Bath Body and Hair:     14 insights (28%)
+Beauty and Grooming:     6 insights (12%)
+Makeup:                  1 insight  (2%)
+
+CATEGORY DISTRIBUTION (L2 - Top 10)
+--------------------------------------------------------------------------------
+1. Feminine Hygiene:           13 insights
+2. Oral Care:                   4 insights
+3. Sexual Wellness:             4 insights
+4. Basic Pharma:                4 insights
+5. Soap:                        3 insights
+6. Shampoo and Conditioner:     4 insights
+7. Body Lotion:                 3 insights
+8. Face and Lip Care:           4 insights
+9. Face Cream:                  3 insights
+10. Hand Wash and Sanitizer:    2 insights
+
+DATA QUALITY ISSUES
+--------------------------------------------------------------------------------
+[WARN] 2 terms with 0% availability (assortment gaps):
+       - wottagirl (Perfumes, Deos and Talc)
+       - perfume pack (Perfumes, Deos and Talc)
+       Action: Flagged for urgent investigation
+
+[WARN] 1 term with >20% zero-result rate:
+       - preganews (21% ZRR) - misspelling of "Prega News"
+       Action: Flagged for search mapping fix
+
+[WARN] 2 terms with 7% zero-result rate:
+       - whisper pad (7% ZRR)
+       - ultra pads (7% ZRR)
+       - period box (7% ZRR)
+       Action: Flagged for search optimization
+
+[INFO] Negative sales growth across all terms (-4.31% to -18.23%)
+       Note: This may indicate supply constraint impact on conversions,
+       not actual demand decline. All terms show positive search growth.
+
+[INFO] Google Trends data limited (only 1 term with interest >0):
+       - soap paper: 45 interest score
+       Note: Many Personal Care terms may be too niche for Google Trends
+
+AVAILABILITY ANALYSIS
+--------------------------------------------------------------------------------
+Critical (<60%):
+  - Makeup Brushes and Tools: 56.64%
+  - Oral Care: 58.49%
+
+Constrained (60-70%):
+  - Feminine Hygiene: 62.01%
+  - Hand Wash and Sanitizer: 62.44%
+  - Basic Pharma: 61.11%
+  - Hair Colour: 63.34%
+  - Hair Oil and Serum: 68.37%
+  - Beauty Accessories: 68.50%
+
+Moderate (70-80%):
+  - Soap: 73.23%
+  - Shampoo and Conditioner: 72.98%
+  - Face Wash and Scrub: 72.43%
+  - Body Lotion: 74.08%
+  - Face and Lip Care: 75.56%
+  - Face Cream: 78.41%
+  - Sexual Wellness: 79.08%
+
+Assortment Gaps (0%):
+  - Perfumes, Deos and Talc: 0% (2 terms affected)
+
+TOP OOS REASON DISTRIBUTION
+--------------------------------------------------------------------------------
+Fillrate Issue:           38 terms (76%)
+Planning Ordering Issue:  10 terms (20%)
+Not Available (0%):        2 terms (4%)
+
+INSIGHT TAG DISTRIBUTION
+--------------------------------------------------------------------------------
+[SUPPLY_CONSTRAINED]:  28 instances
+[HIGH_GROWTH]:         26 instances
+[DEMAND_SURGE]:        15 instances
+[PREMIUM]:             10 instances
+[TOP_100]:              8 instances
+[VALUE_PACK]:           5 instances
+[SEASONAL]:             4 instances
+[NEW_CATEGORY]:         1 instance
+
+OUTPUT FILES GENERATED
+--------------------------------------------------------------------------------
+[OK] output/digest.md
+     - Size: ~48 KB
+     - Contains: Executive summary, 50 InsightCards, availability summary,
+                 methodology notes, evidence file index
+
+[OK] output/insights.json
+     - Size: ~65 KB
+     - Format: Structured JSON for programmatic access
+     - Contains: All 50 insights with full metadata
+
+[OK] output/generation_log.txt
+     - This file
+
+RECOMMENDATIONS FOR NEXT RUN
+--------------------------------------------------------------------------------
+1. Add more Google Trends API calls for niche terms (currently limited)
+2. Investigate 0% availability terms before next run
+3. Fix "preganews" search mapping (21% ZRR critical)
+4. Consider adding review/rating data from SKU master
+5. Validate fillrate issues with Supply Chain team
+
+================================================================================
+END OF LOG
+================================================================================
