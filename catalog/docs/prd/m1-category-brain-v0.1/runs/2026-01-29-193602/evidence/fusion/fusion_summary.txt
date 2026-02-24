@@ -1,0 +1,86 @@
+============================================================
+CB-6: Signal Fusion Summary
+============================================================
+
+PROCESSING STATISTICS
+----------------------------------------
+Total terms processed: 300
+Terms passing qualification gates: 58
+Qualification rate: 19.3%
+
+QUALIFICATION GATE DETAILS
+----------------------------------------
+Volume threshold: >= 3000
+Growth threshold: search growth >= 20% OR sales growth >= 15%
+
+SCORE DISTRIBUTION (Qualified Terms)
+----------------------------------------
+Min emerging_score: 11.26
+Max emerging_score: 59.31
+Mean emerging_score: 32.73
+Median emerging_score: 32.95
+Std Dev: 9.18
+
+CATEGORY BREAKDOWN (Qualified Terms)
+----------------------------------------
+
+By L1 Category:
+  hygiene and wellness: 25 terms
+  bath body and hair: 18 terms
+  beauty and grooming: 10 terms
+  makeup: 5 terms
+
+Top 10 L2 Categories:
+  feminine hygiene: 10 terms
+  basic pharma: 5 terms
+  sexual wellness: 4 terms
+  oral care: 4 terms
+  face and lip care: 4 terms
+  shampoo and conditioner: 4 terms
+  face cream: 4 terms
+  soap: 3 terms
+  body lotion: 3 terms
+  hand wash and sanitizer: 2 terms
+
+SIGNAL WEIGHTS
+----------------------------------------
+MoM Search Growth: 30%
+MoM Sales Growth: 25%
+Google Interest: 20%
+Search Volume: 15%
+Zero Result Score: 10%
+
+TOP 10 EMERGING TERMS
+----------------------------------------
+  #1: pantyliners (score: 59.31)
+      L1: hygiene and wellness, Volume: 8453
+  #2: soap paper (score: 50.33)
+      L1: hygiene and wellness, Volume: 3453
+  #3: vicks lozenges (score: 49.11)
+      L1: hygiene and wellness, Volume: 5021
+  #4: sexual wellness (score: 45.48)
+      L1: hygiene and wellness, Volume: 31997
+  #5: spray bottles (score: 44.10)
+      L1: makeup, Volume: 12837
+  #6: alife (score: 41.24)
+      L1: bath body and hair, Volume: 45677
+  #7: whisper period panty (score: 40.70)
+      L1: hygiene and wellness, Volume: 3518
+  #8: close up (score: 40.58)
+      L1: hygiene and wellness, Volume: 12680
+  #9: sensodyne repair (score: 40.49)
+      L1: hygiene and wellness, Volume: 15994
+  #10: dabur red toothpaste (score: 40.48)
+      L1: hygiene and wellness, Volume: 15904
+
+DATA QUALITY NOTES
+----------------------------------------
+Terms with Google Trends data: 1 / 58
+Terms with availability data: 56 / 58
+Terms with sales data: 58 / 58
+
+NOTE: All L1 categories show negative sales growth (-4% to -18%), which
+indicates category-level decline. Search growth signals are the primary
+differentiator for emerging opportunities.
+
+============================================================
