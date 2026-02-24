@@ -1,0 +1,44 @@
+YoY Seasonality Summary
+=======================
+Run Date: 2026-01-30
+OPD Growth Factor: 1.25
+Total Terms Analyzed: 200
+
+DATA LIMITATION NOTICE
+======================
+The IM_SEARCH_DB_SS table only contains data from 2025-11-01 to 2026-01-29 (~3 months).
+YoY comparison requires 12+ months of historical data, which is NOT available.
+
+Per task instructions, all terms have been defaulted to:
+- SEASONALITY_FLAG: SEASONAL_NORMAL
+- SEASONALITY_SCORE: 50
+
+This means the YoY seasonality signal is UNAVAILABLE for this run.
+
+Seasonality Distribution (Defaulted):
+- NEW_TREND: 0 (not determinable without YoY data)
+- ABOVE_SEASONAL: 0 (not determinable without YoY data)
+- SEASONAL_NORMAL: 200 (defaulted due to missing historical data)
+- BELOW_SEASONAL: 0 (not determinable without YoY data)
+
+Top 5 Search Terms by Volume (No YoY Classification Available):
+1. "condom" (58,652 volume, hygiene and wellness)
+2. "face wash" (51,484 volume, bath body and hair)
+3. "shampoo" (50,113 volume, bath body and hair)
+4. "coconut oil" (48,614 volume, bath body and hair)
+5. "toothbrush" (46,888 volume, hygiene and wellness)
+
+RECOMMENDATION
+==============
+To enable YoY seasonality analysis in future runs:
+1. Verify if historical data exists in another table or data warehouse
+2. Request data backfill for IM_SEARCH_DB_SS if retention policy allows
+3. Consider using alternative seasonality detection methods (e.g., MoM trends, Google Trends comparison)
+
+ALTERNATIVE SIGNALS AVAILABLE
+=============================
+- CB-1 (MoM): Week-over-week velocity available from current data
+- CB-2 (Google Trends): External seasonality proxy can supplement
+- CB-3 (Signal Fusion): Will rely more heavily on MoM and GTrends signals
+
+Query executed successfully, but YoY data was not available.
