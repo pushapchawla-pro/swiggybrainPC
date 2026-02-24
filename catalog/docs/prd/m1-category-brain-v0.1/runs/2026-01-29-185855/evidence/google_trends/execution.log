@@ -1,0 +1,6 @@
+[2026-01-29 19:01:22] Starting Google Trends extraction for CB-4
+[2026-01-29 19:01:22] Terms to query: 10
+[2026-01-29 19:01:22] Attempting to connect to Google Trends...
+[2026-01-29 19:01:23] Google Trends connection failed: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/explore/?geo=US (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certif
+[2026-01-29 19:01:23] Google Trends unavailable due to SSL/certificate error, using mock data
+[2026-01-29 19:01:23] Wrote 10 terms to docs/prd/m1-category-brain-v0.1/runs/2026-01-29-185855/evidence/google_trends/terms_queried.csv
