@@ -1,0 +1,101 @@
+BRAND_NAME,L1_CATEGORY,L2_CATEGORY,CURRENT_GMV,PREV_GMV,GMV_GROWTH_PCT,CURRENT_UNITS,CITY_REACH,BRAND_STATUS
+clayco,bath body and hair,face wash and scrub,441847.0,0.0,,553.0,16,NEW_BRAND
+schwarzkopf,bath body and hair,shampoo and conditioner,114840.0,0.0,,174.0,17,NEW_BRAND
+vaseline,bath body and hair,body lotion,12003513.0,5399529.0,122.31,22128.0,132,BREAKOUT
+parachute,bath body and hair,body lotion,4031744.0,1749589.0,130.44,10585.0,131,BREAKOUT
+evereve,hygiene and wellness,feminine hygiene,2500899.0,1231515.0,103.07,12181.0,129,BREAKOUT
+vaseline,beauty and grooming,face and lip care,1952385.0,348045.0,460.96,12682.0,129,BREAKOUT
+volini,hygiene and wellness,wound care and pain relief,764568.0,62604.0,1121.28,4087.0,99,BREAKOUT
+bioderma,beauty and grooming,face cream,602006.0,168040.0,258.25,616.0,68,BREAKOUT
+vaseline,makeup,lip makeup,527869.0,1820.0,28903.79,2057.0,101,NEW_BRAND
+be bodywise,hygiene and wellness,basic pharma,497952.0,183141.0,171.9,1248.0,83,BREAKOUT
+simple,bath body and hair,face cream,376408.0,174293.0,115.96,756.0,60,BREAKOUT
+bioderma,beauty and grooming,face wash and scrub,353285.0,119164.0,196.47,515.0,66,BREAKOUT
+tonymoly,beauty and grooming,face makeup,263220.0,131310.0,100.46,276.0,30,BREAKOUT
+beauty of joseon,bath body and hair,face cream,247500.0,7500.0,3200.0,165.0,38,NEW_BRAND
+mannlich,beauty and grooming,face and lip care,242592.0,59052.0,310.81,608.0,66,BREAKOUT
+insight cosmetics,makeup,face makeup,236360.0,1880.0,12472.34,1044.0,21,NEW_BRAND
+beauty of joseon,beauty and grooming,face and lip care,184860.0,40049.0,361.58,119.0,34,BREAKOUT
+mannlich,beauty and grooming,mens grooming,179640.0,87784.0,104.64,360.0,49,BREAKOUT
+muuchstac,bath body and hair,face wash and scrub,150995.0,4485.0,3266.67,505.0,58,NEW_BRAND
+r for rabbit,hygiene and wellness,feminine hygiene,145854.0,55944.0,160.71,73.0,18,BREAKOUT
+wow skin science,bath body and hair,perfumes deos & talc,136108.0,55552.0,145.01,122.0,40,BREAKOUT
+braun,beauty and grooming,hair removal,101154.0,46179.0,119.05,46.0,13,BREAKOUT
+stayfree,hygiene and wellness,feminine hygiene,14262025.0,13535135.0,5.37,71528.0,132,EXISTING
+plush,hygiene and wellness,feminine hygiene,6009681.0,5159708.0,16.47,20368.0,131,EXISTING
+mysore sandal,bath body and hair,soap,4098856.0,3086385.0,32.8,46598.0,104,EXISTING
+karein,hygiene and wellness,basic pharma,3757696.0,2492800.0,50.74,7339.0,119,HIGH_GROWTH
+ponds,bath body and hair,face cream,3343482.0,2213950.0,51.02,7740.0,129,HIGH_GROWTH
+nivea,bath body and hair,face cream,3332061.0,2892240.0,15.21,6942.0,130,EXISTING
+plush,hygiene and wellness,basic pharma,3187663.0,2289414.0,39.23,31314.0,132,EXISTING
+cetaphil,bath body and hair,body lotion,3031383.0,2550917.0,18.84,5110.0,128,EXISTING
+minimalist,bath body and hair,face cream,2915547.0,2572506.0,13.33,8644.0,130,EXISTING
+lakme,bath body and hair,face cream,2757634.0,2024627.0,36.2,6942.0,129,EXISTING
+closeup,hygiene and wellness,oral care,2190519.0,1816262.0,20.61,13180.0,132,EXISTING
+neutrogena,bath body and hair,face cream,1890109.0,1860701.0,1.58,2417.0,109,EXISTING
+lux,bath body and hair,shower gel,1814338.0,1731766.0,4.77,13828.0,130,EXISTING
+scalpe pro,bath body and hair,shampoo and conditioner,1735197.0,1393657.0,24.51,6935.0,129,EXISTING
+nua,beauty and grooming,face and lip care,1516891.0,1365279.0,11.1,10051.0,127,EXISTING
+foxtale,bath body and hair,face cream,1507619.0,1266888.0,19.0,4535.0,126,EXISTING
+santoor,hygiene and wellness,hand wash and sanitizer,1426548.0,1336603.0,6.73,12303.0,130,EXISTING
+pilgrim,bath body and hair,shampoo and conditioner,1341020.0,1070399.0,25.28,3551.0,106,EXISTING
+plush,hygiene and wellness,sexual wellness,1340930.0,1025002.0,30.82,3094.0,122,EXISTING
+wishcare,beauty and grooming,face and lip care,1269609.0,1237786.0,2.57,3920.0,119,EXISTING
+plum,bath body and hair,body lotion,1242877.0,992071.0,25.28,2848.0,122,EXISTING
+ponds,beauty and grooming,face and lip care,1212759.0,1020704.0,18.82,5222.0,129,EXISTING
+plum,bath body and hair,face cream,1185138.0,1082333.0,9.5,2721.0,123,EXISTING
+everyuth,bath body and hair,face wash and scrub,1172594.0,1034216.0,13.38,5420.0,130,EXISTING
+himalaya,hygiene and wellness,basic pharma,1053786.0,705364.0,49.4,10903.0,131,EXISTING
+wishcare,bath body and hair,face cream,958535.0,833763.0,14.96,2042.0,109,EXISTING
+deconstruct,bath body and hair,face cream,931085.0,842033.0,10.58,2615.0,115,EXISTING
+nivea,makeup,lip makeup,924430.0,885808.0,4.36,4528.0,124,EXISTING
+baby sebamed,bath body and hair,shampoo and conditioner,887928.0,885449.0,0.28,1385.0,91,EXISTING
+deconstruct,beauty and grooming,face and lip care,869644.0,601028.0,44.69,3006.0,107,EXISTING
+plush,beauty and grooming,hair removal,843625.0,611031.0,38.07,2663.0,121,EXISTING
+rexona,bath body and hair,soap,831651.0,449077.0,85.19,5336.0,127,HIGH_GROWTH
+nat habit,beauty and grooming,hair colour,821740.0,633810.0,29.65,2221.0,64,EXISTING
+sanfe,bath body and hair,face cream,815589.0,590337.0,38.16,1981.0,116,EXISTING
+joy,bath body and hair,body lotion,805810.0,635729.0,26.75,1900.0,101,EXISTING
+carmesi,hygiene and wellness,feminine hygiene,778962.0,688057.0,13.21,1867.0,84,EXISTING
+aqualens,hygiene and wellness,basic pharma,733628.0,408244.0,79.7,1453.0,26,HIGH_GROWTH
+dot & key,makeup,lip makeup,695706.0,397683.0,74.94,2794.0,122,HIGH_GROWTH
+mamaearth,bath body and hair,body lotion,688766.0,530721.0,29.78,1386.0,111,EXISTING
+pilgrim,beauty and grooming,face and lip care,652277.0,651900.0,0.06,1450.0,97,EXISTING
+urban gabru,beauty and grooming,mens grooming,645239.0,621012.0,3.9,1558.0,100,EXISTING
+mamaearth,makeup,lip makeup,641447.0,415578.0,54.35,1689.0,112,HIGH_GROWTH
+pilgrim,bath body and hair,hair oil and serum,624368.0,549330.0,13.66,1052.0,100,EXISTING
+glow & lovely,bath body and hair,face cream,564271.0,558292.0,1.07,3531.0,130,EXISTING
+vilvah,beauty and grooming,face and lip care,543940.0,401829.0,35.37,1085.0,29,EXISTING
+cherry blossom,beauty and grooming,mens grooming,525183.0,464224.0,13.13,4474.0,128,EXISTING
+reequil,beauty and grooming,beauty accessories,500320.0,403406.0,24.02,1696.0,35,EXISTING
+venusia,bath body and hair,face cream,494556.0,355140.0,39.26,625.0,45,EXISTING
+biolage,bath body and hair,shampoo and conditioner,477550.0,305664.0,56.23,883.0,93,HIGH_GROWTH
+boldedge,hygiene and wellness,sexual wellness,463822.0,353616.0,31.17,278.0,67,EXISTING
+biotique,bath body and hair,body lotion,440172.0,286063.0,53.87,1301.0,109,HIGH_GROWTH
+jaguar,bath body and hair,perfumes deos & talc,434343.0,232535.0,86.79,112.0,33,HIGH_GROWTH
+sunscoop,bath body and hair,face cream,432093.0,322511.0,33.98,853.0,83,EXISTING
+conscious chemist,bath body and hair,face cream,431873.0,347850.0,24.15,788.0,88,EXISTING
+dr. sheths,bath body and hair,face cream,401270.0,275005.0,45.91,830.0,96,EXISTING
+unfold,hygiene and wellness,sexual wellness,397619.0,372850.0,6.64,6619.0,114,EXISTING
+sanfe,hygiene and wellness,basic pharma,391395.0,353284.0,10.79,1305.0,98,EXISTING
+hoop,bath body and hair,body lotion,383460.0,226190.0,69.53,564.0,48,HIGH_GROWTH
+bare essentials,makeup,makeup brushes and tools,381175.0,251195.0,51.74,2432.0,118,HIGH_GROWTH
+neude skin,bath body and hair,shower gel,369503.0,254221.0,45.35,941.0,60,EXISTING
+bigen,bath body and hair,shampoo and conditioner,366650.0,292950.0,25.16,744.0,34,EXISTING
+the face shop,bath body and hair,body lotion,355355.0,304725.0,16.61,423.0,60,EXISTING
+midazzle,beauty and grooming,beauty accessories,317804.0,282817.0,12.37,2531.0,26,EXISTING
+clayco,beauty and grooming,face and lip care,317507.0,296625.0,7.04,293.0,40,EXISTING
+dr. sheths,bath body and hair,body lotion,310163.0,231856.0,33.77,954.0,89,EXISTING
+sebamed,bath body and hair,face cream,308080.0,223205.0,38.03,577.0,66,EXISTING
+kapiva,beauty and grooming,face and lip care,305299.0,219798.0,38.9,681.0,82,EXISTING
+pilgrim,bath body and hair,face cream,299927.0,270527.0,10.87,593.0,87,EXISTING
+gubb,beauty and grooming,beauty accessories,286800.0,256604.0,11.77,1495.0,81,EXISTING
+episoft,bath body and hair,face cream,282999.0,226128.0,25.15,419.0,63,EXISTING
+himalaya,bath body and hair,body lotion,257372.0,165913.0,55.12,687.0,57,HIGH_GROWTH
+mannlich,bath body and hair,shower gel,257232.0,228273.0,12.69,368.0,35,EXISTING
+midazzle,hygiene and wellness,oral care,253990.0,142743.0,77.94,1886.0,38,HIGH_GROWTH
+lotus herbals,beauty and grooming,face and lip care,252503.0,226030.0,11.71,534.0,62,EXISTING
+dermatouch,beauty and grooming,face wash and scrub,247616.0,237404.0,4.3,1085.0,65,EXISTING
+foxtale,beauty and grooming,body lotion,247505.0,204935.0,20.77,485.0,39,EXISTING
+majestique,makeup,makeup brushes and tools,247267.0,184067.0,34.34,925.0,18,EXISTING
+reequil,beauty and grooming,body lotion,244455.0,169635.0,44.11,379.0,22,EXISTING
