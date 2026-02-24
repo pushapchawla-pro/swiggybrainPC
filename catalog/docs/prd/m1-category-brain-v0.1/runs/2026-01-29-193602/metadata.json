@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-01-29-193602",
+  "version": "v0.2",
+  "status": "completed",
+  "timestamps": {
+    "started_at": "2026-01-29T19:36:02+05:30",
+    "completed_at": "2026-01-29T19:58:00+05:30"
+  },
+  "parameters": {
+    "categories": "Personal Care",
+    "l1_filter": [
+      "Bath Body and Hair",
+      "Beauty and Grooming",
+      "Hygiene and Wellness",
+      "Makeup"
+    ],
+    "max_insights": 50,
+    "date_range": {
+      "current_month": "2026-01-01 to 2026-01-28",
+      "previous_month": "2025-12-01 to 2025-12-28"
+    }
+  },
+  "tasks": {
+    "CB-1": {"name": "Search MoM", "status": "completed", "rows": 300},
+    "CB-2": {"name": "Sales MoM", "status": "completed", "rows": 4},
+    "CB-3": {"name": "SKU Attributes", "status": "completed", "rows": 4000},
+    "CB-4": {"name": "Google Trends", "status": "completed", "rows": 20, "note": "mock data"},
+    "CB-5": {"name": "Availability RCA", "status": "completed", "rows": 56},
+    "CB-6": {"name": "Signal Fusion", "status": "completed", "qualified_terms": 58},
+    "CB-7": {"name": "Insight Generation", "status": "completed", "insights_generated": 50}
+  },
+  "outputs": {
+    "digest": "output/digest.md",
+    "insights_json": "output/insights.json",
+    "evidence": {
+      "search_metrics": "evidence/snowflake/search_metrics.csv",
+      "sales_metrics": "evidence/snowflake/sales_metrics.csv",
+      "sku_master": "evidence/snowflake/sku_master.csv",
+      "sku_tags": "evidence/databricks/sku_tags.csv",
+      "availability_rca": "evidence/databricks/availability_rca.csv",
+      "ranked_terms": "evidence/fusion/ranked_terms.csv"
+    }
+  },
+  "metrics": {
+    "total_terms_processed": 300,
+    "terms_qualified": 58,
+    "insights_generated": 50,
+    "score_range": {"min": 11.26, "max": 59.31},
+    "score_mean": 32.73,
+    "category_distribution": {
+      "Hygiene and Wellness": 25,
+      "Bath Body and Hair": 18,
+      "Beauty and Grooming": 10,
+      "Makeup": 5
+    }
+  },
+  "data_quality_notes": [
+    "Google Trends overlap limited to 2/300 terms (mock data)",
+    "All L1 categories show negative MoM GMV growth (-4% to -18%)",
+    "Category mapping table only has data for 2026-01-14",
+    "2 terms with 0% availability flagged as assortment gaps"
+  ]
+}
