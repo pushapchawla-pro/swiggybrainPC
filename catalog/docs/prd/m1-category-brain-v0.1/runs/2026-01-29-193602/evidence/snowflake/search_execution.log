@@ -1,0 +1,90 @@
+================================================================================
+SNOWFLAKE QUERY EXECUTION LOG
+Task: CB-1 Search MoM Data Extraction
+================================================================================
+
+Execution Timestamp: 2026-01-29T19:40:00+05:30
+Connection: swiggy (Snowflake CLI)
+Status: SUCCESS
+
+--------------------------------------------------------------------------------
+QUERY PARAMETERS
+--------------------------------------------------------------------------------
+L1 Categories:
+  - bath body and hair
+  - beauty and grooming
+  - hygiene and wellness
+  - makeup
+
+Date Ranges:
+  - Current Month: 2026-01-01 to 2026-01-28
+  - Previous Month: 2025-12-01 to 2025-12-28
+  - Category Mapping Date: 2026-01-14 (latest available in IM_SEARCH_DB_STRING_TO_CATEGORY)
+
+Volume Thresholds:
+  - Current Month Minimum: 500
+  - Previous Month Minimum: 250
+
+--------------------------------------------------------------------------------
+DATA DISCOVERY NOTES
+--------------------------------------------------------------------------------
+1. Original query specified c.DT = '2026-01-28' for category mapping, but table only
+   contains data for 2026-01-14. Query adjusted to use available date.
+
+2. Original category names used Title Case (e.g., "Bath Body and Hair"), but actual
+   table values are lowercase (e.g., "bath body and hair"). Query corrected.
+
+3. Table statistics:
+   - IM_SEARCH_FACT: 285,222,070 records for January 2026
+   - IM_SEARCH_DB_STRING_TO_CATEGORY: Data available only for 2026-01-14
+
+--------------------------------------------------------------------------------
+EXECUTION RESULTS
+--------------------------------------------------------------------------------
+Rows Returned: 300
+Output Format: CSV
+Output File: search_metrics.csv
+
+Columns:
+  1. search_string - Search term entered by users
+  2. l1_category - Level 1 category classification
+  3. l2_category - Level 2 category classification
+  4. current_month_volume - Search count for Jan 2026
+  5. prev_month_volume - Search count for Dec 2025
+  6. mom_growth_pct - Month-over-month growth percentage
+  7. zero_result_rate - Percentage of searches returning no results
+
+--------------------------------------------------------------------------------
+TOP 10 BY MOM GROWTH
+--------------------------------------------------------------------------------
+1. spray bottles          | makeup                 | +4404.21% | 12,837 searches
+2. pantyliners           | hygiene and wellness   | +3214.90% |  8,453 searches
+3. vicks lozenges        | hygiene and wellness   | +1884.58% |  5,021 searches
+4. l'oreal paris moisture| bath body and hair     |  +789.15% |  4,917 searches
+5. whisper period panty  | hygiene and wellness   |  +766.50% |  3,518 searches
+6. hair coloring brush   | makeup                 |  +532.20% |  2,415 searches
+7. paranda               | beauty and grooming    |  +420.32% |  6,452 searches
+8. garnier colours       | beauty and grooming    |  +393.92% |  1,951 searches
+9. bblunt colours        | beauty and grooming    |  +366.59% |  1,955 searches
+10. parandi              | beauty and grooming    |  +352.11% |  1,180 searches
+
+--------------------------------------------------------------------------------
+CATEGORY DISTRIBUTION (in results)
+--------------------------------------------------------------------------------
+hygiene and wellness: ~100 terms (feminine hygiene, oral care, sexual wellness)
+bath body and hair:   ~95 terms (face care, hair care, soap, perfumes)
+beauty and grooming:  ~65 terms (face care, hair colour, shaving)
+makeup:               ~40 terms (lip makeup, eye makeup, face makeup)
+
+--------------------------------------------------------------------------------
+HIGH ZERO-RESULT RATE SEARCHES (>0.5%)
+--------------------------------------------------------------------------------
+- pain relif (1.59%) - typo for "pain relief"
+- phd serum (1.51%) - possible brand awareness gap
+- bla bli blu (1.21%) - brand/product discovery issue
+- whistle blower (0.52%) - women's safety product
+- epic condom (0.39%) - brand availability issue
+
+================================================================================
+END OF LOG
+================================================================================
