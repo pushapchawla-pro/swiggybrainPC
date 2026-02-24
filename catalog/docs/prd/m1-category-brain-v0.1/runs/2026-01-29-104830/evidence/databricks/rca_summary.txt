@@ -1,0 +1,28 @@
+
+(25 rows)
+FINAL_REASON	category_count	sku_count	avg_availability_pct	total_non_avail_sessions
+oos_9.fillrate Issue	54	331535	70.16	5.0016075781624395E8
+oos_10.Planning Ordering Issue	56	394532	77.52	4.26917591869052E8
+instock_17.Others	55	1516572	97.75	1.6602571600208697E8
+oos_8.Long Term Supply Issue	55	132666	75.84	1.5111393553375193E8
+instock_13.Forecasting_error	54	68631	64.51	1.2430778707728003E8
+oos_9a.last po fillrate Issue	53	109886	80.6	1.1596724030702198E8
+instock_8.POD Cap Missed	49	77462	77.59	1.0732710027947499E8
+oos_9h.Case_Size_Constraint	56	131573	88.42	7.360000813101E7
+instock_7.movement_rr_blocked	50	43340	79.69	3.4301956253296E7
+oos_9g.MOVMOQTonnageConstraint	34	23507	74.55	2.9305233679988E7
+instock_18.qpl_issue	43	6389	1.46	2.840477521791099E7
+instock_10.WH_Cap_Movement_Reduced	52	70272	91.24	2.6256853240353994E7
+oos_9b.OTIF Issue	37	13277	69.53	2.0326405333289005E7
+instock_14.Putway_delay	47	15869	80.16	1.5049647322856E7
+instock_12.wh_ob_Fillrate Issue	43	4078	68.46	6638138.750569001
+oos_3.temp_disable	44	24178	96.26	4801779.597151001
+instock_15.wh_putaway_delay	30	4657	84.8	3470209.7509229993
+instock_9.WH Cap Missed	46	6936	91.35	3017789.1009760005
+oos_7.movement_rr_blocked	42	3794	82.27	2768032.9005549997
+instock_12a.wh_ob_mp_delay_issue	40	1507	68.01	2477309.432178001
+instock_2.movement_pod_closure	45	1899	83.92	1133538.41653
+oos_5.Fresh_Items	8	208	17.78	858274.0
+instock_16.Movement Design issue	51	15072	98.93	804889.7189130003
+instock_3.temp diable	37	7918	99.31	238407.481939
+oos_6.movement_rr_not_generated	15	42	13.83	21494.583155
