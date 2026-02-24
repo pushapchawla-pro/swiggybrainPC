@@ -1,0 +1,57 @@
+l1_category,l2_category,availability_pct,top_oos_reason,non_avail_sessions,sku_count
+Bath Body and Hair,Shampoo and Conditioner,73.18,oos_9.fillrate Issue,50810054.397978984,36379
+Hygiene and Wellness,Feminine Hygiene,63.03,oos_9.fillrate Issue,43802065.42157502,22745
+Beauty and Grooming,Face and Lip Care,75.58,oos_10.Planning Ordering Issue,38694005.048590995,33575
+Hygiene and Wellness,Oral Care,59.26,oos_9.fillrate Issue,35381972.351519,17507
+Bath Body and Hair,Face Wash and Scrub,72.78,oos_9.fillrate Issue,28127796.386134002,20033
+Bath Body and Hair,Hair Oil and Serum,68.94,oos_9.fillrate Issue,27614580.052121006,17013
+Hygiene and Wellness,Basic Pharma,61.57,oos_9.fillrate Issue,25529532.349237002,13274
+Hygiene and Wellness,Sexual Wellness,79.24,oos_10.Planning Ordering Issue,23366667.458746,21831
+Bath Body and Hair,Perfumes Deos and Talc,82.59,oos_9.fillrate Issue,21601114.435730003,24081
+Bath Body and Hair,Soap,70.67,oos_9.fillrate Issue,21181712.901225995,14182
+Makeup,Lip Makeup,69.44,oos_9.fillrate Issue,21097521.30251799,13970
+Makeup,Eye Makeup,64.08,oos_9.fillrate Issue,19761159.934235997,11008
+Makeup,Makeup Brushes and Tools,56.77,oos_9.fillrate Issue,19104838.426331,8840
+Beauty and Grooming,Hair Colour,62.25,oos_9.fillrate Issue,18279055.133547004,9603
+Bath Body and Hair,Shower Gel,76.01,oos_9.fillrate Issue,15578563.586788002,13429
+Makeup,Face Makeup,70.95,oos_9.fillrate Issue,15394568.503004998,10319
+Bath Body and Hair,Face Cream,79.12,oos_9.fillrate Issue,14090287.786672998,13312
+Beauty and Grooming,Hair Removal,69.71,oos_10.Planning Ordering Issue,14042851.569622003,9216
+Beauty and Grooming,Beauty Accessories,69.31,oos_10.Planning Ordering Issue,13220006.233852997,9037
+Makeup,Nail Paints and Accessories,71.65,oos_9.fillrate Issue,11530562.033646,7900
+Hygiene and Wellness,Hand Wash and Sanitizer,62.83,oos_9.fillrate Issue,11256345.568223001,5769
+Bath Body and Hair,Body Lotion,74.25,oos_9.fillrate Issue,10289634.116407003,8072
+Hygiene and Wellness,Wound Care and Pain Relief,58.87,oos_10.Planning Ordering Issue,10059823.683683999,5121
+Beauty and Grooming,Mens Grooming,69.29,oos_9.fillrate Issue,9835688.282238,6278
+Beauty and Grooming,Shaving Needs,70.32,oos_9.fillrate Issue,6775458.067771,4426
+Beauty and Grooming,Gift Packs,79.56,oos_9.fillrate Issue,3674287.666878,3453
+Beauty and Grooming,Face Makeup,75.53,oos_9.fillrate Issue,3309903.3670220003,2590
+Beauty and Grooming,Face Cream,78.65,oos_10.Planning Ordering Issue,1879171.8496820002,1871
+Beauty and Grooming,Body Lotion,84.79,oos_10.Planning Ordering Issue,1752393.900035,2457
+Beauty and Grooming,Nail Makeup,81.84,oos_10.Planning Ordering Issue,1677949.4999809999,1901
+Beauty and Grooming,Eye Care,70.6,oos_9.fillrate Issue,1599416.6495730001,1061
+Beauty and Grooming,Face Wash and Scrub,70.18,oos_10.Planning Ordering Issue,1561707.450204,1068
+Makeup,Hair Brushes and Styling Tools,77.58,oos_10.Planning Ordering Issue,1409877.4995580001,1390
+Bath Body and Hair,Scrubs and Sponges,76.49,oos_10.Planning Ordering Issue,950355.250517,812
+Bath Body and Hair,Gift Packs,84.17,oos_10.Planning Ordering Issue,741275.433343,911
+Bath Body and Hair,Face and Lip Care,66.05,oos_10.Planning Ordering Issue,720394.499919,456
+Hygiene and Wellness,Hand wash and Sanitizer,78.04,oos_9.fillrate Issue,701579.2337239999,650
+Hygiene and Wellness,Vitamins and Digestives,81.91,oos_10.Planning Ordering Issue,563967.466483,565
+Makeup,Gift Set,80.26,oos_8.Long Term Supply Issue,527384.3999610001,607
+Beauty and Grooming,Eye Makeup,74.85,oos_10.Planning Ordering Issue,456615.600108,370
+Hygiene and Wellness,Wound care and Pain Relief,65.97,oos_10.Planning Ordering Issue,428827.63349599997,312
+Beauty and Grooming,Lip Makeup,88.47,oos_10.Planning Ordering Issue,372906.9,644
+Beauty and Grooming,Hair Oil and Serum,83.02,oos_10.Planning Ordering Issue,323175.516825,417
+Bath Body and Hair,Mens Grooming,55.13,oos_10.Planning Ordering Issue,279930.45,142
+Bath Body and Hair,Serums,90.09,oos_9.fillrate Issue,225715.783449,473
+Bath Body and Hair,Hair Colour,76.6,oos_10.Planning Ordering Issue,210831.150031,174
+Hygiene and Wellness,Face Wash and Scrub,87.25,oos_10.Planning Ordering Issue,204826.216961,307
+Hygiene and Wellness,Womens Safety,46.75,oos_10.Planning Ordering Issue,160703.366764,79
+Bath Body and Hair,Grooming Accessories,50.79,oos_10.Planning Ordering Issue,137435.0,63
+Beauty and Grooming,Eyewear,29.63,instock_10.WH_Cap_Movement_Reduced,129840.433403,56
+Beauty and Grooming,Grooming Accessories,81.94,oos_9.fillrate Issue,129001.0,155
+Beauty and Grooming,Alta,53.45,oos_9.fillrate Issue,124886.0,58
+Makeup,Gift Packs,84.86,oos_9.fillrate Issue,120856.0,152
+Beauty and Grooming,Perfumes Deos and Talc,84.16,oos_10.Planning Ordering Issue,95357.233274,130
+Bath Body and Hair,Beauty Accessories,14.29,oos_8.Long Term Supply Issue,32814.0,7
+Bath Body and Hair,Eye Care,76.0,oos_10.Planning Ordering Issue,26915.0,25
