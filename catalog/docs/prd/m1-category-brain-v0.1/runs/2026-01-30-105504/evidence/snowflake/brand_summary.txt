@@ -1,0 +1,96 @@
+===============================================================================
+CB-8: Brand Emergence Detection Summary
+Generated: 2026-01-30
+===============================================================================
+
+EXECUTION DETAILS
+-----------------
+Current Period: 2026-01-01 to 2026-01-28
+Previous Period: 2025-11-01 to 2025-11-28 (Note: Dec 2025 data unavailable)
+L1 Categories: bath body and hair, beauty and grooming, hygiene and wellness, makeup
+Min GMV Threshold: INR 100,000
+
+DATA NOTE
+---------
+December 2025 data was missing for Personal Care categories in the source table.
+Analysis uses November 2025 as the baseline comparison period instead.
+
+SUMMARY METRICS
+---------------
+Total Brands Analyzed: 50
+- NEW_BRAND:   4 brands (appeared in Jan 2026, minimal/no Nov 2025 presence)
+- BREAKOUT:   11 brands (>=2x GMV growth MoM)
+- HIGH_GROWTH: 5 brands (1.5x-2x GMV growth MoM)
+- EXISTING:   30 brands (positive growth, <1.5x)
+
+BRAND CLASSIFICATION CRITERIA
+-----------------------------
+- NEW_BRAND: prev_gmv is NULL or < INR 10,000
+- BREAKOUT: current_gmv / prev_gmv >= 2.0 (100%+ growth)
+- HIGH_GROWTH: current_gmv / prev_gmv >= 1.5 (50-100% growth)
+- EXISTING: Growing but < 50% growth rate
+
+TOP NEW BRANDS (Jan 2026 Entrants)
+----------------------------------
+1. clayco (bath body and hair > face wash and scrub) - INR 4.1L GMV
+2. unknown (bath body and hair > perfumes deos & talc) - INR 12.2L GMV
+3. insight cosmetics (makeup > face makeup) - INR 2.2L GMV
+4. muuchstac (bath body and hair > face wash and scrub) - INR 1.4L GMV
+5. schwarzkopf (bath body and hair > shampoo and conditioner) - INR 1.1L GMV
+
+TOP BREAKOUT BRANDS (>=2x Growth)
+---------------------------------
+1. unknown (perfumes deos & talc) - 4410% growth, INR 12.2L -> driven by untagged SKUs
+2. volini (wound care & pain relief) - 242% growth, INR 6.9L
+3. bioderma (face cream) - 256% growth, INR 5.5L
+4. vaseline (lip makeup) - 1832% growth, INR 4.9L (category expansion)
+5. beauty of joseon (face cream) - 276% growth, INR 2.1L
+6. jaguar (perfumes deos & talc) - 120% growth, INR 4.2L
+7. bioderma (face wash & scrub) - 133% growth, INR 3.2L
+8. mannlich (mens grooming) - 106% growth, INR 1.7L
+9. beauty of joseon (face and lip care) - 129% growth, INR 1.6L
+10. wow skin science (perfumes deos & talc) - 220% growth, INR 1.2L
+11. nautica (perfumes deos & talc) - 243% growth, INR 1.1L
+
+TOP HIGH_GROWTH BRANDS (1.5x-2x Growth)
+---------------------------------------
+1. vaseline (face and lip care) - 92% growth, INR 18.1L
+2. aqualens (basic pharma) - 71% growth, INR 6.7L
+3. r for rabbit (feminine hygiene) - 87% growth, INR 1.4L
+4. midazzle (oral care) - 67% growth, INR 2.4L
+5. moxie beauty (makeup brushes and tools) - 87% growth, INR 1.1L
+
+KEY INSIGHTS
+------------
+1. Korean beauty trend: "beauty of joseon" shows strong breakout in both face cream (276%)
+   and face/lip care (129%), indicating K-beauty demand surge
+
+2. Men's grooming emergence: "mannlich" (106% growth) and "muuchstac" (new brand) signal
+   growing male personal care market
+
+3. Brand category expansion: "vaseline" showing breakout in lip makeup (1832%) while
+   maintaining high growth in face/lip care (92%) - brand leveraging trust into new categories
+
+4. Professional haircare: "schwarzkopf" entering shampoo/conditioner space suggests
+   premium haircare demand
+
+5. Wellness trend: "volini" (pain relief) breakout (242%) may indicate health-conscious
+   consumer behavior
+
+RECOMMENDATIONS FOR CATEGORY MANAGERS
+-------------------------------------
+1. Double-down on K-beauty (beauty of joseon): Expand SKU assortment, consider similar
+   Korean brands
+
+2. Strengthen men's grooming depth: Build out mannlich, muuchstac portfolio
+
+3. Monitor unbranded SKU growth: "unknown" brand perfumes at INR 12.2L suggests tagging
+   gaps or private label opportunity
+
+4. Support Vaseline category expansion: Cross-sell lip/face care with existing body care
+   customers
+
+5. Premium haircare opportunity: Schwarzkopf traction suggests room for more professional
+   haircare brands
+
+===============================================================================
