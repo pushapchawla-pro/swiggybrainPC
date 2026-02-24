@@ -1,0 +1,92 @@
+================================================================================
+CB-5: Availability RCA Extraction Summary
+================================================================================
+Execution Date: 2026-01-30
+Data Date: 2026-01-28
+L1 Categories: Bath Body and Hair, Beauty and Grooming, Hygiene and Wellness, Makeup
+
+--------------------------------------------------------------------------------
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total L2 Categories: 56
+Total SKU Count: 396,140
+
+By L1 Category:
+  - Bath Body and Hair: 18 L2 categories
+  - Beauty and Grooming: 22 L2 categories
+  - Hygiene and Wellness: 12 L2 categories
+  - Makeup: 8 L2 categories
+
+--------------------------------------------------------------------------------
+TOP OOS REASON DISTRIBUTION
+--------------------------------------------------------------------------------
+  oos_9.fillrate Issue:         32 L2 categories (57.1%)
+  oos_10.Planning Ordering Issue: 21 L2 categories (37.5%)
+  oos_8.Long Term Supply Issue:   2 L2 categories (3.6%)
+  instock_7.movement_rr_blocked:  1 L2 category (1.8%)
+
+--------------------------------------------------------------------------------
+CRITICAL CATEGORIES (Availability < 60%)
+--------------------------------------------------------------------------------
+1. Hygiene and Wellness > Oral Care: 58.49% (34.3M non-avail sessions)
+   Top Issue: oos_9.fillrate Issue
+
+2. Hygiene and Wellness > Wound Care and Pain Relief: 59.26% (10.1M non-avail sessions)
+   Top Issue: oos_10.Planning Ordering Issue
+
+3. Makeup > Makeup Brushes and Tools: 56.64% (19.1M non-avail sessions)
+   Top Issue: oos_9.fillrate Issue
+
+4. Bath Body and Hair > Mens Grooming: 56.23% (277K non-avail sessions)
+   Top Issue: oos_10.Planning Ordering Issue
+
+5. Beauty and Grooming > Alta: 51.39% (127K non-avail sessions)
+   Top Issue: oos_9.fillrate Issue
+
+6. Bath Body and Hair > Grooming Accessories: 48.39% (138K non-avail sessions)
+   Top Issue: oos_10.Planning Ordering Issue
+
+7. Hygiene and Wellness > Women's Safety: 39.24% (195K non-avail sessions)
+   Top Issue: oos_10.Planning Ordering Issue
+
+8. Beauty and Grooming > Eyewear: 32.79% (146K non-avail sessions)
+   Top Issue: instock_7.movement_rr_blocked
+
+9. Bath Body and Hair > Beauty Accessories: 14.29% (32K non-avail sessions)
+   Top Issue: oos_8.Long Term Supply Issue
+
+--------------------------------------------------------------------------------
+TOP 10 BY NON-AVAILABILITY SESSIONS
+--------------------------------------------------------------------------------
+Rank  L2 Category                              Avail%   Non-Avail Sessions   Issue
+----  ---------------------------------------- ------   ------------------   -----
+1     Shampoo and Conditioner                  72.98%   49.9M               fillrate Issue
+2     Feminine Hygiene                         62.01%   42.1M               fillrate Issue
+3     Face and Lip Care                        75.56%   37.2M               Planning Ordering
+4     Oral Care                                58.49%   34.3M               fillrate Issue
+5     Face Wash and Scrub                      72.43%   27.7M               fillrate Issue
+6     Hair Oil and Serum                       68.37%   26.9M               fillrate Issue
+7     Basic Pharma                             61.11%   24.9M               fillrate Issue
+8     Sexual Wellness                          79.08%   23.4M               Planning Ordering
+9     Perfumes, Deos and Talc                  82.30%   21.1M               fillrate Issue
+10    Lip Makeup                               71.04%   20.1M               fillrate Issue
+
+--------------------------------------------------------------------------------
+KEY INSIGHTS
+--------------------------------------------------------------------------------
+1. Fillrate Issues dominate: 57% of L2 categories have fillrate as their top OOS reason,
+   accounting for the majority of non-availability sessions.
+
+2. Planning/Ordering gaps: 37.5% of categories suffer from PO/planning issues,
+   indicating forecasting or procurement process gaps.
+
+3. High-impact categories: Shampoo and Conditioner alone accounts for ~50M non-avail
+   sessions, making it the highest priority for intervention.
+
+4. Critically low availability: 9 L2 categories have availability below 60%,
+   with Beauty Accessories at just 14.29%.
+
+5. Long-term supply issues: Limited to 2 categories (Gift Set, Beauty Accessories),
+   suggesting systemic vendor/supply chain constraints.
+
+================================================================================
