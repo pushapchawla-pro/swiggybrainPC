@@ -1,0 +1,618 @@
+{
+  "metadata": {
+    "run_id": "2026-01-30-105504",
+    "generated_at": "2026-01-30T11:00:00Z",
+    "period_start": "2026-01-01",
+    "period_end": "2026-01-28",
+    "week_label": "Week 5, January 2026",
+    "category": "Personal Care",
+    "total_insights": 20,
+    "version": "v0.1"
+  },
+  "insights": [
+    {
+      "id": "INS-001",
+      "title": "Pantyliners Demand Explosion",
+      "growth_pct": 3214.9,
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Feminine Hygiene",
+      "search_term": "pantyliners",
+      "consumer_insight": "Pantyliners searches surged from ~250 to 8,453/week - a 32x increase indicating rapid category adoption. This appears to be driven by increased awareness of daily hygiene products and potentially successful brand marketing campaigns. The 91% search-to-cart rate suggests high purchase intent when products are found.",
+      "strategy": [
+        "Prioritize fill rate improvement for top pantyliner SKUs (Whisper, Stayfree)",
+        "Expand assortment to include organic/cotton variants for premium segment",
+        "Create discovery merchandising for first-time buyers"
+      ],
+      "evidence": {
+        "weekly_searches": 8453,
+        "mom_growth_pct": 3214.9,
+        "l2_gmv": 434218754,
+        "gmv_growth_pct": 2.72,
+        "s2c_rate": 91.42,
+        "availability_pct": 62.01,
+        "zero_result_rate": 0.02,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Extraordinary growth rate warrants validation; high S2C confirms intent",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 68.48
+    },
+    {
+      "id": "INS-002",
+      "title": "Spray Bottles Category Creation",
+      "growth_pct": 4404.21,
+      "l1_category": "Makeup",
+      "l2_category": "Makeup Brushes and Tools",
+      "search_term": "spray bottles",
+      "consumer_insight": "Spray bottles searches exploded from ~280 to 12,837/week. This is likely driven by DIY beauty routines (facial mists, setting sprays, hair sprays) and home organization trends. The low 12% S2C rate indicates customers aren't finding what they need - potential assortment gap.",
+      "strategy": [
+        "Audit spray bottle assortment - add cosmetic-grade options (fine mist, travel size)",
+        "Cross-merchandise with DIY skincare ingredients",
+        "Address 57% availability through fill rate optimization"
+      ],
+      "evidence": {
+        "weekly_searches": 12837,
+        "mom_growth_pct": 4404.21,
+        "l2_gmv": 28475890,
+        "gmv_growth_pct": -9.26,
+        "s2c_rate": 12.06,
+        "availability_pct": 56.64,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "High search volume confirmed but low S2C suggests catalog gaps",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 47.81
+    },
+    {
+      "id": "INS-003",
+      "title": "V-Wash Intimate Hygiene Growth",
+      "growth_pct": 228.46,
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Feminine Hygiene",
+      "search_term": "vwash wash",
+      "consumer_insight": "V-Wash searches at 11,956/week with 228% MoM growth reflects mainstream adoption of intimate hygiene products. The 91% S2C rate is exceptional - customers know what they want and convert when available. This is a brand-led category with high loyalty.",
+      "strategy": [
+        "Ensure 100% availability on V-Wash core SKUs (100ml, 200ml, 350ml)",
+        "Expand to V-Wash adjacent products (wipes, plus variants)",
+        "Target first-time buyers with smaller trial sizes"
+      ],
+      "evidence": {
+        "weekly_searches": 11956,
+        "mom_growth_pct": 228.46,
+        "l2_gmv": 434218754,
+        "gmv_growth_pct": 2.72,
+        "s2c_rate": 91.42,
+        "availability_pct": 62.01,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "High",
+      "confidence_reason": "Strong volume, growth, and conversion metrics",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 47.80
+    },
+    {
+      "id": "INS-004",
+      "title": "Premium Shampoo Discovery - L'Oreal Paris Moisture",
+      "growth_pct": 789.15,
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Shampoo and Conditioner",
+      "search_term": "l'oreal paris moisture",
+      "consumer_insight": "L'Oreal Paris moisture-specific searches grew 8x to 4,917/week, indicating premiumization in hair care. The 124% S2C rate (>100% due to basket additions) shows strong category browsing behavior. Customers searching for specific moisture solutions are high-value.",
+      "strategy": [
+        "Create 'Dry Hair Solutions' curated collection featuring L'Oreal, Herbal Essences, Sebamed",
+        "Improve fill rate for premium shampoo variants",
+        "Cross-sell with conditioners and hair masks"
+      ],
+      "evidence": {
+        "weekly_searches": 4917,
+        "mom_growth_pct": 789.15,
+        "l2_gmv": 412129528,
+        "gmv_growth_pct": -0.38,
+        "s2c_rate": 124.26,
+        "availability_pct": 72.98,
+        "zero_result_rate": 0.02,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong growth but narrower search term",
+      "tags": ["DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 46.87
+    },
+    {
+      "id": "INS-005",
+      "title": "Close Up Toothpaste Resurgence",
+      "growth_pct": 281.12,
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Oral Care",
+      "search_term": "close up",
+      "consumer_insight": "Close Up searches surged to 12,680/week - a nostalgia-driven or value-seeking behavior as consumers trade down from premium oral care. The 103% S2C rate indicates high conversion, but 58% availability means significant lost sales. Oral Care has the lowest availability among top L2s.",
+      "strategy": [
+        "Address fill rate issues for Close Up core SKUs immediately",
+        "Bundle Close Up with mouthwash for basket building",
+        "Monitor premium-to-value trade-down across oral care"
+      ],
+      "evidence": {
+        "weekly_searches": 12680,
+        "mom_growth_pct": 281.12,
+        "l2_gmv": 264291188,
+        "gmv_growth_pct": -0.46,
+        "s2c_rate": 103.31,
+        "availability_pct": 58.49,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "High volume and growth; availability is critical bottleneck",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 43.45
+    },
+    {
+      "id": "INS-006",
+      "title": "Sensodyne Sensitivity Care",
+      "growth_pct": 126.54,
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Oral Care",
+      "search_term": "sensodyne repair",
+      "consumer_insight": "Sensodyne repair searches at 15,994/week indicate growing awareness of sensitivity issues. This is a premium, high-margin segment with loyal customers. The 103% S2C shows category browsing - customers often add related products.",
+      "strategy": [
+        "Ensure Sensodyne Repair & Protect, Rapid Relief variants always available",
+        "Create 'Sensitivity Care' bundle with sensitivity toothbrush",
+        "Target new customers with sample/travel sizes"
+      ],
+      "evidence": {
+        "weekly_searches": 15994,
+        "mom_growth_pct": 126.54,
+        "l2_gmv": 264291188,
+        "gmv_growth_pct": -0.46,
+        "s2c_rate": 103.31,
+        "availability_pct": 58.49,
+        "zero_result_rate": 0.02,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong premium indicator with high volume",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 42.37
+    },
+    {
+      "id": "INS-007",
+      "title": "Dabur Red Ayurvedic Oral Care",
+      "growth_pct": 111.52,
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Oral Care",
+      "search_term": "dabur red toothpaste",
+      "consumer_insight": "Dabur Red searches at 15,904/week with 112% growth reflects the ayurvedic/natural personal care trend. Combined with Close Up and Sensodyne, oral care shows multi-segment growth (value, premium, natural). Fill rate issues are category-wide.",
+      "strategy": [
+        "Create 'Ayurvedic Oral Care' collection (Dabur Red, Patanjali, Vicco)",
+        "Prioritize fill rate for Dabur Red 150g, 300g family packs",
+        "Cross-sell with Dabur mouthwash and tongue cleaners"
+      ],
+      "evidence": {
+        "weekly_searches": 15904,
+        "mom_growth_pct": 111.52,
+        "l2_gmv": 264291188,
+        "gmv_growth_pct": -0.46,
+        "s2c_rate": 103.31,
+        "availability_pct": 58.49,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Part of broader oral care surge",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 42.27
+    },
+    {
+      "id": "INS-008",
+      "title": "Vicks Lozenges Seasonal Surge",
+      "growth_pct": 1884.58,
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Basic Pharma",
+      "search_term": "vicks lozenges",
+      "consumer_insight": "Vicks lozenges searches exploded to 5,021/week - a 19x increase driven by seasonal cold/flu and throat care needs. The 51% S2C rate is moderate but expected for pharma products where customers compare options.",
+      "strategy": [
+        "Stock up on Vicks variants ahead of remaining winter season",
+        "Create 'Cold & Cough' bundles with related OTC products",
+        "Address 61% availability through better demand forecasting"
+      ],
+      "evidence": {
+        "weekly_searches": 5021,
+        "mom_growth_pct": 1884.58,
+        "l2_gmv": 169902360,
+        "gmv_growth_pct": -2.45,
+        "s2c_rate": 50.91,
+        "availability_pct": 61.11,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Clear seasonal pattern; plan for next season",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 42.09
+    },
+    {
+      "id": "INS-009",
+      "title": "Paranda Hair Accessories Trend",
+      "growth_pct": 420.32,
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Beauty Accessories",
+      "search_term": "paranda",
+      "consumer_insight": "Paranda (traditional hair extensions) searches grew 4x to 6,452/week, likely driven by wedding season and traditional fashion trends. The 18% S2C and 14% availability indicate severe supply constraints and assortment gaps.",
+      "strategy": [
+        "Urgently address long-term supply issues (current top OOS reason)",
+        "Expand paranda assortment - colors, lengths, materials",
+        "Partner with ethnic/traditional accessories brands"
+      ],
+      "evidence": {
+        "weekly_searches": 6452,
+        "mom_growth_pct": 420.32,
+        "l2_gmv": 33904254,
+        "gmv_growth_pct": 2.02,
+        "s2c_rate": 18.04,
+        "availability_pct": 14.29,
+        "zero_result_rate": 0.03,
+        "top_oos_reason": "oos_8.Long Term Supply Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong trend but critical availability issue",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 40.83
+    },
+    {
+      "id": "INS-010",
+      "title": "Aroma Magic Facial Kits",
+      "growth_pct": 324.8,
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Face and Lip Care",
+      "search_term": "aroma magic facial kit",
+      "consumer_insight": "Aroma Magic facial kit searches grew 3x to 3,700/week, reflecting at-home spa/facial trend. The 117% S2C rate shows high conversion and basket building. Planning/ordering issues are causing 64% availability.",
+      "strategy": [
+        "Fix planning/ordering pipeline for Aroma Magic kits",
+        "Create 'At-Home Facial' collection with tools and masks",
+        "Target with weekend delivery promotions"
+      ],
+      "evidence": {
+        "weekly_searches": 3700,
+        "mom_growth_pct": 324.8,
+        "l2_gmv": 226291898,
+        "gmv_growth_pct": -5.84,
+        "s2c_rate": 117.04,
+        "availability_pct": 63.75,
+        "zero_result_rate": 0.03,
+        "top_oos_reason": "oos_10.Planning Ordering Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong growth in premium self-care segment",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 40.54
+    },
+    {
+      "id": "INS-011",
+      "title": "Aloe Vera Universal Demand",
+      "growth_pct": 101.22,
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Face and Lip Care",
+      "search_term": "aloe vera",
+      "consumer_insight": "Aloe vera searches at 27,897/week (2nd highest volume) with 101% growth. This is a multi-use ingredient (skincare, haircare, sunburn) driving search. The 117% S2C indicates customers add multiple aloe products to cart.",
+      "strategy": [
+        "Create 'Aloe Vera Hub' featuring gels, face washes, hair masks",
+        "Stock pure aloe vera gel from multiple brands (Patanjali, WOW, Nature Republic)",
+        "Position as summer/sun care essential"
+      ],
+      "evidence": {
+        "weekly_searches": 27897,
+        "mom_growth_pct": 101.22,
+        "l2_gmv": 226291898,
+        "gmv_growth_pct": -5.84,
+        "s2c_rate": 117.04,
+        "availability_pct": 63.75,
+        "zero_result_rate": 0.01,
+        "top_oos_reason": "oos_10.Planning Ordering Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Very high volume with steady growth",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 38.99
+    },
+    {
+      "id": "INS-012",
+      "title": "Livon Hair Serums Premium Segment",
+      "growth_pct": 79.31,
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Hair Oil and Serum",
+      "search_term": "livon serums",
+      "consumer_insight": "Livon serum searches at 4,965/week with 79% growth and exceptional 241% GMV growth in hair oil/serum category indicates strong premiumization. Customers are willing to pay for salon-quality hair finish products.",
+      "strategy": [
+        "Ensure Livon Serum (50ml, 100ml) consistently available",
+        "Expand premium serum range (Moroccan oil, argan serums)",
+        "Create 'Salon Finish at Home' bundles"
+      ],
+      "evidence": {
+        "weekly_searches": 4965,
+        "mom_growth_pct": 79.31,
+        "l2_gmv": 308788,
+        "gmv_growth_pct": 241.22,
+        "s2c_rate": 3.14,
+        "availability_pct": 68.37,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong premium indicator with GMV outpacing search",
+      "tags": ["SUPPLY_CONSTRAINED", "HIGH_GROWTH"],
+      "priority_score": 35.44
+    },
+    {
+      "id": "INS-013",
+      "title": "Nooky Chocolate - Sexual Wellness Innovation",
+      "growth_pct": 255.83,
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Sexual Wellness",
+      "search_term": "nooky chocolate",
+      "consumer_insight": "Nooky chocolate searches at 5,430/week indicate demand for discreet, novel sexual wellness products. The 61% S2C shows good conversion. This represents category maturation - customers seeking variety beyond traditional products.",
+      "strategy": [
+        "Expand aphrodisiac/novelty product range",
+        "Improve discreet packaging messaging",
+        "Address planning/ordering gaps affecting 79% availability"
+      ],
+      "evidence": {
+        "weekly_searches": 5430,
+        "mom_growth_pct": 255.83,
+        "l2_gmv": 207450644,
+        "gmv_growth_pct": -1.9,
+        "s2c_rate": 61.51,
+        "availability_pct": 79.08,
+        "zero_result_rate": 0.02,
+        "top_oos_reason": "oos_10.Planning Ordering Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Emerging niche with strong growth",
+      "tags": ["DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 28.13
+    },
+    {
+      "id": "INS-014",
+      "title": "CeraVe Dermatologist-Recommended Skincare",
+      "growth_pct": 225.63,
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Body Lotion",
+      "search_term": "cera ve",
+      "consumer_insight": "CeraVe searches at 12,309/week with 226% growth reflects the 'dermatologist recommended' trend driven by social media (TikTok/Instagram). Despite low 48% S2C, customers who find products convert - availability at 74% is leaving demand unmet.",
+      "strategy": [
+        "Prioritize CeraVe core range availability (Moisturizing Cream, Foaming Cleanser, SA Cleanser)",
+        "Target with 'Dermatologist Approved' collection",
+        "Monitor competitor premium skincare (La Roche-Posay, The Ordinary)"
+      ],
+      "evidence": {
+        "weekly_searches": 12309,
+        "mom_growth_pct": 225.63,
+        "l2_gmv": 245683354,
+        "gmv_growth_pct": -12.35,
+        "s2c_rate": 48.16,
+        "availability_pct": 74.08,
+        "zero_result_rate": 0.02,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "High",
+      "confidence_reason": "Strong social-driven demand with clear brand intent",
+      "tags": ["DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 27.80
+    },
+    {
+      "id": "INS-015",
+      "title": "Vaseline Moisturiser Traditional Trust",
+      "growth_pct": 165.0,
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Body Lotion",
+      "search_term": "vaseline moisturiser",
+      "consumer_insight": "Vaseline moisturiser searches at 7,987/week with 165% growth shows customers seeking trusted, value moisturization. This contrasts with CeraVe premium trend - indicates segment bifurcation in body lotion.",
+      "strategy": [
+        "Ensure Vaseline range fully stocked (Original, Cocoa Butter, Aloe)",
+        "Position as value-for-money body care staple",
+        "Bundle with Vaseline lip care for basket building"
+      ],
+      "evidence": {
+        "weekly_searches": 7987,
+        "mom_growth_pct": 165.0,
+        "l2_gmv": 245683354,
+        "gmv_growth_pct": -12.35,
+        "s2c_rate": 48.16,
+        "availability_pct": 74.08,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong brand search with segment validation",
+      "tags": ["DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 27.38
+    },
+    {
+      "id": "INS-016",
+      "title": "Mysore Soap Heritage Brand",
+      "growth_pct": 113.97,
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Soap",
+      "search_term": "mysore soap",
+      "consumer_insight": "Mysore Sandal soap searches at 40,303/week (highest volume signal) with 114% growth indicates strong demand for traditional/heritage products. The 50% S2C is solid for soap category. GMV growing at 9% shows healthy category.",
+      "strategy": [
+        "Ensure Mysore Sandal core variants (regular, gold) always available",
+        "Create 'Heritage Personal Care' collection",
+        "Address planning/ordering issues affecting 73% availability"
+      ],
+      "evidence": {
+        "weekly_searches": 40303,
+        "mom_growth_pct": 113.97,
+        "l2_gmv": 163598442,
+        "gmv_growth_pct": 9.04,
+        "s2c_rate": 49.88,
+        "availability_pct": 73.23,
+        "zero_result_rate": 0.01,
+        "top_oos_reason": "oos_10.Planning Ordering Issue"
+      },
+      "confidence": "High",
+      "confidence_reason": "Highest volume signal with consistent growth",
+      "tags": ["DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 27.00
+    },
+    {
+      "id": "INS-017",
+      "title": "Garnier Hair Colour Mass Premium",
+      "growth_pct": 119.04,
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Hair Colour",
+      "search_term": "garnier colour",
+      "consumer_insight": "Garnier colour searches at 8,525/week with 119% growth indicates strong at-home hair coloring trend. The 34% S2C suggests customers comparing shades - need better shade discovery. Fill rate issues at 63% availability hurt conversions.",
+      "strategy": [
+        "Improve shade range completeness for Garnier Color Naturals",
+        "Create shade finder/guide for hair colour category",
+        "Address fill rate issues for top-selling shades"
+      ],
+      "evidence": {
+        "weekly_searches": 8525,
+        "mom_growth_pct": 119.04,
+        "l2_gmv": 80968566,
+        "gmv_growth_pct": -4.72,
+        "s2c_rate": 33.58,
+        "availability_pct": 63.34,
+        "zero_result_rate": 0.01,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong volume with clear category opportunity",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 22.98
+    },
+    {
+      "id": "INS-018",
+      "title": "Mehendi Natural Hair Color",
+      "growth_pct": 96.91,
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Hair Colour",
+      "search_term": "mehendi",
+      "consumer_insight": "Mehendi searches at 15,280/week with 97% growth (7% zero-result rate) indicates demand for natural hair coloring. Combined with Garnier, hair colour is a dual-opportunity category (chemical + natural). Zero-result rate suggests catalog gaps.",
+      "strategy": [
+        "Expand mehendi brand range (Godrej, VLCC, Khadi)",
+        "Address 7% zero-result rate with catalog expansion",
+        "Position as 'Natural Hair Color' collection"
+      ],
+      "evidence": {
+        "weekly_searches": 15280,
+        "mom_growth_pct": 96.91,
+        "l2_gmv": 80968566,
+        "gmv_growth_pct": -4.72,
+        "s2c_rate": 33.58,
+        "availability_pct": 63.34,
+        "zero_result_rate": 0.05,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "High",
+      "confidence_reason": "High volume with zero-result signal indicating gaps",
+      "tags": ["SUPPLY_CONSTRAINED", "HIGH_GROWTH"],
+      "priority_score": 22.82
+    },
+    {
+      "id": "INS-019",
+      "title": "Kiro Clean Beauty Makeup",
+      "growth_pct": 292.08,
+      "l1_category": "Makeup",
+      "l2_category": "Lip Makeup",
+      "search_term": "kiro",
+      "consumer_insight": "Kiro lip makeup searches at 7,277/week with 292% growth signals clean beauty/D2C brand adoption. The 29% S2C is typical for makeup discovery. Lip makeup category at 71% availability with fill rate issues.",
+      "strategy": [
+        "Prioritize Kiro bestsellers (lipsticks, lip crayons) availability",
+        "Create 'Clean Beauty' brand collection (Kiro, Sugar, Kay Beauty)",
+        "Address fill rate for makeup category broadly"
+      ],
+      "evidence": {
+        "weekly_searches": 7277,
+        "mom_growth_pct": 292.08,
+        "l2_gmv": 48282706,
+        "gmv_growth_pct": -17.27,
+        "s2c_rate": 28.87,
+        "availability_pct": 71.04,
+        "zero_result_rate": 0.01,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong D2C brand signal with growth",
+      "tags": ["DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 20.55
+    },
+    {
+      "id": "INS-020",
+      "title": "Cotton Ear Buds Utility Demand",
+      "growth_pct": 224.13,
+      "l1_category": "Makeup",
+      "l2_category": "Makeup Brushes and Tools",
+      "search_term": "cotton ear bud",
+      "consumer_insight": "Cotton ear bud searches at 3,183/week with 224% growth in makeup tools category. This basic utility product showing surge may indicate customers using Instamart for personal care restocking. The 12% S2C and 57% availability suggest significant unmet demand.",
+      "strategy": [
+        "Stock cotton ear buds from multiple brands at competitive prices",
+        "Position in 'Daily Essentials' quick-add collection",
+        "Address 57% availability - low-cost, high-frequency item"
+      ],
+      "evidence": {
+        "weekly_searches": 3183,
+        "mom_growth_pct": 224.13,
+        "l2_gmv": 28475890,
+        "gmv_growth_pct": -9.26,
+        "s2c_rate": 12.06,
+        "availability_pct": 56.64,
+        "zero_result_rate": 0.0,
+        "top_oos_reason": "oos_9.fillrate Issue"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Clear demand signal for utility category",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "HIGH_GROWTH"],
+      "priority_score": 18.86
+    }
+  ],
+  "summary": {
+    "total_insights": 20,
+    "by_confidence": {
+      "High": 5,
+      "Medium": 15,
+      "Low": 0
+    },
+    "by_tag": {
+      "SUPPLY_CONSTRAINED": 13,
+      "DEMAND_SURGE": 18,
+      "HIGH_GROWTH": 20
+    },
+    "top_l2_categories": [
+      "Feminine Hygiene",
+      "Oral Care",
+      "Makeup Brushes and Tools",
+      "Face and Lip Care",
+      "Body Lotion"
+    ],
+    "key_themes": [
+      "Feminine Hygiene surge (pantyliners, period products, V-Wash)",
+      "Premium Oral Care demand (Close Up, Sensodyne, Dabur Red)",
+      "Sexual Wellness normalization (Nooky chocolate, category growth)",
+      "K-Beauty & Premium Skincare (CeraVe, Vaseline)",
+      "Makeup Tools & Accessories (spray bottles, cotton ear buds)"
+    ],
+    "critical_availability_issues": [
+      {
+        "l2_category": "Oral Care",
+        "availability_pct": 58.49,
+        "issue": "Fill Rate Issue"
+      },
+      {
+        "l2_category": "Makeup Brushes and Tools",
+        "availability_pct": 56.64,
+        "issue": "Fill Rate Issue"
+      },
+      {
+        "l2_category": "Feminine Hygiene",
+        "availability_pct": 62.01,
+        "issue": "Fill Rate Issue"
+      }
+    ]
+  }
+}
