@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Availability Monitoring Dashboard | Supply Chain Brain</title>
+  <meta name="description" content="Availability Monitoring & RCA Copilot - Supply Chain Brain MVP">
+
+  <!-- Favicon (brain emoji as data URI) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧠</text></svg>">
+
+  <!-- Google Fonts - Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/dashboard.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <style>
+    /* Critical CSS for initial load */
+    body {
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+    body.loaded {
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <!-- Mobile Menu Toggle (visible on mobile only) -->
+    <button id="mobile-menu-toggle" class="mobile-menu-toggle" style="display: none; position: fixed; top: 12px; left: 12px; z-index: 300;">
+      ☰
+    </button>
+
+    <!-- Mobile Overlay -->
+    <div id="mobile-overlay" class="mobile-menu-overlay"></div>
+
+    <!-- Sidebar Navigation -->
+    <aside id="sidebar" class="sidebar">
+      <!-- Populated by app.js -->
+    </aside>
+
+    <!-- Main Content Area -->
+    <main id="main-content" class="main-content">
+      <!-- Loading state while app initializes -->
+      <div class="loading" style="min-height: 100vh;">
+        <div class="loading__spinner"></div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Application Script (ES Module) -->
+  <script type="module" src="js/app.js"></script>
+
+  <!-- Show body after load -->
+  <script>
+    document.body.classList.add('loaded');
+
+    // Show mobile menu toggle on small screens
+    function updateMobileToggle() {
+      const toggle = document.getElementById('mobile-menu-toggle');
+      if (toggle) {
+        toggle.style.display = window.innerWidth < 768 ? 'flex' : 'none';
+      }
+    }
+    updateMobileToggle();
+    window.addEventListener('resize', updateMobileToggle);
+  </script>
+
+  <!-- Inline critical styles for mobile -->
+  <style>
+    @media screen and (max-width: 768px) {
+      .mobile-menu-toggle {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        background: var(--color-white);
+        border: 1px solid var(--color-gray-200);
+        border-radius: var(--radius-md);
+        font-size: 20px;
+        cursor: pointer;
+        box-shadow: var(--shadow-sm);
+      }
+    }
+  </style>
+</body>
+</html>
