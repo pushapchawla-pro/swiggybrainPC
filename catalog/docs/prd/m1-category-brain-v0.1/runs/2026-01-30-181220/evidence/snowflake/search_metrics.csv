@@ -1,0 +1,201 @@
+SEARCH_STRING,L1_CATEGORY,L2_CATEGORY,M0_VOLUME,ZERO_RESULT_RATE,M1_VOLUME,M2_VOLUME,M0_VS_M1_GROWTH_PCT,M1_VS_M2_GROWTH_PCT,TWO_PERIOD_CAGR_PCT,TREND_DIRECTION,TREND_STABILITY_SCORE
+condom,hygiene and wellness,sexual wellness,551578,0.01,483803,110738,14.01,336.89,123.18,stable_up,100
+shampoo,bath body and hair,shampoo and conditioner,524644,0.02,468059,556548,12.09,-15.90,-2.91,accelerating,75
+toothbrush,hygiene and wellness,oral care,512669,0.00,502755,511489,1.97,-1.71,0.12,accelerating,75
+toothpaste,hygiene and wellness,oral care,510868,0.00,507776,550307,0.61,-7.73,-3.65,accelerating,75
+coconut oil,bath body and hair,hair oil and serum,493904,0.00,492141,602474,0.36,-18.31,-9.46,accelerating,75
+handwash,hygiene and wellness,hand wash and sanitizer,412165,0.00,330214,127298,24.82,159.40,79.94,stable_up,100
+face wash,bath body and hair,face wash and scrub,407387,0.00,383665,468659,6.18,-18.14,-6.77,accelerating,75
+body wash,bath body and hair,shower gel,368588,0.00,356746,413486,3.32,-13.72,-5.59,accelerating,75
+lip balm,beauty and grooming,face and lip care,308826,0.00,407323,586636,-24.18,-30.57,-27.44,stable_down,0
+sanitary pads,hygiene and wellness,feminine hygiene,280571,0.01,261122,296904,7.45,-12.05,-2.79,accelerating,75
+body lotion,bath body and hair,body lotion,274799,0.00,375217,625250,-26.76,-39.99,-33.71,stable_down,0
+sunscreen,bath body and hair,face cream,267820,0.00,233136,287047,14.88,-18.78,-3.41,accelerating,75
+colgate,hygiene and wellness,oral care,237025,0.00,226895,250741,4.46,-9.51,-2.77,accelerating,75
+pads,hygiene and wellness,feminine hygiene,232880,0.00,220682,238988,5.53,-7.66,-1.29,accelerating,75
+soap,bath body and hair,soap,232043,0.01,213033,240452,8.92,-11.40,-1.76,accelerating,75
+soaps,bath body and hair,soap,223986,0.02,205992,266690,8.74,-22.76,-8.36,accelerating,75
+pregnancy kit,hygiene and wellness,basic pharma,205630,0.01,209494,164191,-1.84,27.59,11.91,decelerating,50
+dettol,hygiene and wellness,wound care and pain relief,203094,0.00,196594,241164,3.31,-18.48,-8.23,accelerating,75
+whisper,hygiene and wellness,feminine hygiene,191309,0.00,175810,195942,8.82,-10.27,-1.19,accelerating,75
+cetaphil,bath body and hair,face wash and scrub,182070,0.00,177162,204482,2.77,-13.36,-5.64,accelerating,75
+lipstick,makeup,lip makeup,173198,0.00,188012,284174,-7.88,-33.84,-21.93,stable_down,0
+perfumes,bath body and hair,"perfumes, deos and talc",171633,0.00,233060,218224,-26.36,6.80,-11.32,decelerating,50
+conditioner,bath body and hair,shampoo and conditioner,167512,0.00,151140,184332,10.83,-18.01,-4.67,accelerating,75
+hair colour,beauty and grooming,hair colour,165396,0.00,162922,178404,1.52,-8.68,-3.71,accelerating,75
+stayfree,hygiene and wellness,feminine hygiene,164044,0.00,154002,175492,6.52,-12.25,-3.32,accelerating,75
+hair serum,bath body and hair,hair oil and serum,160500,0.00,153610,177690,4.49,-13.55,-4.96,accelerating,75
+cetaphil cleanser,bath body and hair,face wash and scrub,155800,0.00,136998,154657,13.72,-11.42,0.37,accelerating,75
+vaseline,bath body and hair,body lotion,141291,0.00,197910,340298,-28.61,-41.84,-35.56,stable_down,0
+face mask,beauty and grooming,face and lip care,138886,0.00,159188,192223,-12.75,-17.19,-15.0,stable_down,0
+hair oil,bath body and hair,hair oil and serum,137968,0.00,130646,155856,5.60,-16.18,-5.91,accelerating,75
+period panties,hygiene and wellness,feminine hygiene,137655,0.00,129353,135812,6.42,-4.76,0.68,accelerating,75
+moisturizer,bath body and hair,body lotion,137526,0.00,247058,109732,-44.33,125.15,11.95,decelerating,50
+vicks,hygiene and wellness,basic pharma,136019,0.00,163780,191654,-16.95,-14.54,-15.76,stable_down,0
+perfume,bath body and hair,"perfumes, deos and talc",127260,0.00,162287,141558,-21.58,14.64,-5.18,decelerating,50
+nua,hygiene and wellness,feminine hygiene,126704,0.00,115271,122569,9.92,-5.95,1.67,accelerating,75
+sensodyne,hygiene and wellness,oral care,126160,0.00,127979,137516,-1.42,-6.94,-4.22,stable_down,0
+adult diaper,hygiene and wellness,basic pharma,122638,0.00,114476,123996,7.13,-7.68,-0.55,accelerating,75
+l'oreal shampoo,bath body and hair,shampoo and conditioner,118780,0.00,109442,168313,8.53,-34.98,-15.99,accelerating,75
+tongue cleaner,hygiene and wellness,oral care,117519,0.00,110942,115050,5.93,-3.57,1.07,accelerating,75
+pears,bath body and hair,soap,116769,0.00,104443,125190,11.80,-16.57,-3.42,accelerating,75
+medicine,hygiene and wellness,basic pharma,115946,0.00,122992,109422,-5.73,12.40,2.94,decelerating,50
+razor,beauty and grooming,hair removal,113500,0.00,120311,126167,-5.66,-4.64,-5.15,stable_down,0
+pimple patch,beauty and grooming,face and lip care,111862,0.00,111278,133386,0.52,-16.57,-8.42,accelerating,75
+paste,hygiene and wellness,oral care,104136,0.00,100446,107832,3.67,-6.85,-1.73,accelerating,75
+mask,hygiene and wellness,basic pharma,98637,0.00,121029,142028,-18.50,-14.79,-16.66,stable_down,0
+kajal,makeup,eye makeup,97764,0.00,92286,111955,5.94,-17.57,-6.55,accelerating,75
+parachute,bath body and hair,hair oil and serum,95983,0.00,97057,139072,-1.11,-30.21,-16.92,stable_down,0
+bare anatomy,bath body and hair,shampoo and conditioner,93668,0.00,84967,101538,10.24,-16.32,-3.95,accelerating,75
+dove shampoo,bath body and hair,shampoo and conditioner,91196,0.00,88640,100242,2.88,-11.57,-4.62,accelerating,75
+dettol handwash,hygiene and wellness,hand wash and sanitizer,89389,0.00,83048,95350,7.64,-12.90,-3.18,accelerating,75
+facewash,bath body and hair,face wash and scrub,89331,0.00,83875,103132,6.50,-18.67,-6.93,accelerating,75
+dove soaps,bath body and hair,soap,88901,0.00,76968,95722,15.50,-19.59,-3.63,accelerating,75
+pad,hygiene and wellness,feminine hygiene,88172,0.00,76639,84224,15.05,-9.01,2.32,accelerating,75
+pears soap,bath body and hair,soap,86788,0.00,83410,107036,4.05,-22.07,-9.95,accelerating,75
+brush,hygiene and wellness,oral care,86408,0.00,81493,72643,6.03,12.18,9.06,stable_up,100
+lip gloss,makeup,lip makeup,86369,0.00,84234,88387,2.53,-4.70,-1.15,accelerating,75
+pregnancy test,hygiene and wellness,basic pharma,83823,0.00,87027,58126,-3.68,49.72,20.09,decelerating,50
+nail cutter,makeup,makeup brushes and tools,83706,0.00,84811,85094,-1.30,-0.33,-0.82,stable_down,0
+loofah,beauty and grooming,beauty accessories,83430,0.00,67596,93204,23.42,-27.48,-5.39,accelerating,75
+dove,bath body and hair,soap,81509,0.00,74857,96914,8.89,-22.76,-8.29,accelerating,75
+sanitizer,hygiene and wellness,hand wash and sanitizer,74943,0.00,77831,89146,-3.71,-12.69,-8.31,stable_down,0
+eyeliner,makeup,eye makeup,73478,0.00,75653,94935,-2.87,-20.31,-12.02,stable_down,0
+prega news,hygiene and wellness,basic pharma,73438,0.00,78360,48894,-6.28,60.27,22.56,decelerating,50
+mysore sandal,bath body and hair,soap,72969,0.17,85702,,-14.86,,,decelerating,50
+mouthwash,hygiene and wellness,oral care,71940,0.00,69482,76622,3.54,-9.32,-3.1,accelerating,75
+lip liner,makeup,lip makeup,70238,0.00,57641,54940,21.85,4.92,13.07,stable_up,100
+chemist at play,bath body and hair,shower gel,69685,0.00,67483,98137,3.26,-31.24,-15.73,accelerating,75
+nivea,bath body and hair,body lotion,69293,0.00,91950,178326,-24.64,-48.44,-37.66,stable_down,0
+facial kit,beauty and grooming,face and lip care,66848,0.00,33665,78442,98.57,-57.08,-7.69,accelerating,75
+roll on,bath body and hair,"perfumes, deos and talc",66828,0.00,60173,87719,11.06,-31.40,-12.72,accelerating,75
+boroline,bath body and hair,face cream,65188,0.13,115201,183150,-43.41,-37.10,-40.34,stable_down,0
+sofy,hygiene and wellness,feminine hygiene,64457,0.00,63692,94984,1.20,-32.94,-17.62,accelerating,75
+nail paint,makeup,nail paints and accessories,63894,0.00,63420,15906,0.75,298.72,100.42,stable_up,100
+mysore soap,bath body and hair,soap,60292,0.00,3456,,1644.56,,,stable_up,100
+face razor,beauty and grooming,hair removal,58192,0.00,58595,82265,-0.69,-28.77,-15.89,stable_down,0
+durex condom,hygiene and wellness,sexual wellness,57881,0.00,29393,772,96.92,3707.38,765.88,stable_up,100
+shower gel,bath body and hair,shower gel,56241,0.00,65924,85500,-14.69,-22.90,-18.9,stable_down,0
+hair mask,bath body and hair,shampoo and conditioner,52691,0.00,44259,78825,19.05,-43.85,-18.24,accelerating,75
+castor oil,bath body and hair,hair oil and serum,52431,0.00,32859,40334,59.56,-18.53,14.01,accelerating,75
+sexual wellness,hygiene and wellness,sexual wellness,50683,0.00,14309,16954,254.20,-15.60,72.9,accelerating,75
+nail polish,makeup,nail paints and accessories,45761,0.00,78044,58088,-41.37,34.35,-11.24,decelerating,50
+vaseline jelly,beauty and grooming,face and lip care,45069,0.00,35746,23886,26.08,49.65,37.36,stable_up,100
+gillette blade,beauty and grooming,shaving needs,44143,0.00,27824,15788,58.65,76.24,67.21,stable_up,100
+minimalist,bath body and hair,face wash and scrub,43263,0.00,52612,76132,-17.77,-30.89,-24.62,stable_down,0
+pilgrim serum,beauty and grooming,face and lip care,40761,0.00,20752,15892,96.42,30.58,60.15,stable_up,100
+face scrub,bath body and hair,face wash and scrub,36817,0.00,32034,60748,14.93,-47.27,-22.15,accelerating,75
+moisturising lotion,bath body and hair,body lotion,36671,0.00,27700,21275,32.39,30.20,31.29,stable_up,100
+moisturising cream,bath body and hair,face cream,36272,0.00,18693,14397,94.04,29.84,58.73,stable_up,100
+prega kit,hygiene and wellness,basic pharma,35048,0.00,42105,24910,-16.76,69.03,18.62,decelerating,50
+plum,bath body and hair,fruits,33716,0.00,92805,62205,-63.67,49.19,-26.38,decelerating,50
+mirror,makeup,makeup brushes and tools,32508,0.02,54291,56576,-40.12,-4.04,-24.2,stable_down,0
+body scrub,bath body and hair,shower gel,32225,0.00,29531,47411,9.12,-37.71,-17.56,accelerating,75
+face moisturizer,bath body and hair,face cream,30958,0.00,54810,79409,-43.52,-30.98,-37.56,stable_down,0
+ghar soaps,bath body and hair,soap,30577,0.00,20121,72359,51.97,-72.19,-34.99,accelerating,75
+sex toys,hygiene and wellness,sexual wellness,30111,0.00,30327,28349,-0.71,6.98,3.06,decelerating,50
+razor for men,beauty and grooming,shaving needs,30050,0.00,28053,21237,7.12,32.09,18.95,stable_up,100
+cough syrup,hygiene and wellness,basic pharma,29923,0.00,56058,38470,-46.62,45.72,-11.81,decelerating,50
+foundation,makeup,face makeup,29704,0.00,29449,81009,0.87,-63.65,-39.45,accelerating,75
+cotton,makeup,makeup brushes and tools,29001,0.00,61116,39825,-52.55,53.46,-14.66,decelerating,50
+sensodyne toothpaste,hygiene and wellness,oral care,28804,0.00,34557,,-16.65,,,decelerating,50
+mascara,makeup,eye makeup,28462,0.00,27500,73584,3.50,-62.63,-37.81,accelerating,75
+serum,beauty and grooming,face and lip care,28363,0.00,23413,38173,21.14,-38.67,-13.8,accelerating,75
+face serum,beauty and grooming,face and lip care,27984,0.00,25537,37149,9.58,-31.26,-13.21,accelerating,75
+durex,hygiene and wellness,sexual wellness,27556,0.00,2579,5557,968.48,-53.59,122.68,accelerating,75
+cetaphil moisturiser,bath body and hair,body lotion,27295,0.00,28529,46698,-4.33,-38.91,-23.55,stable_down,0
+anti dandruff,bath body and hair,shampoo and conditioner,26805,0.00,24899,15652,7.65,59.08,30.86,stable_up,100
+concealer,makeup,face makeup,26024,0.00,26527,67607,-1.90,-60.76,-37.96,stable_down,0
+aloe vera,beauty and grooming,face and lip care,25923,0.00,12845,4381,101.81,193.20,143.25,stable_up,100
+aloe vera gel,beauty and grooming,face and lip care,25127,0.00,20273,27169,23.94,-25.38,-3.83,accelerating,75
+face cream,bath body and hair,face cream,25006,0.00,26332,70316,-5.04,-62.55,-40.37,stable_down,0
+nivea moisturizer,bath body and hair,face cream,24693,0.00,57168,45057,-56.81,26.88,-25.97,decelerating,50
+dot & key,bath body and hair,face cream,24242,0.00,23890,13583,1.47,75.88,33.59,stable_up,100
+almond oil,bath body and hair,hair oil and serum,24200,0.00,24813,26928,-2.47,-7.85,-5.2,stable_down,0
+plum,bath body and hair,face cream,23937,0.00,,,,,,accelerating,75
+shoe polish,beauty and grooming,mens grooming,23362,0.00,22538,31110,3.66,-27.55,-13.34,accelerating,75
+bella vita,bath body and hair,"perfumes, deos and talc",22303,0.00,55899,19524,-60.10,186.31,6.88,decelerating,50
+body oil,bath body and hair,body lotion,22108,0.00,36649,68562,-39.68,-46.55,-43.22,stable_down,0
+hand sanitizer,hygiene and wellness,hand wash and sanitizer,22050,0.00,14888,15212,48.11,-2.13,20.4,accelerating,75
+ghar soap,bath body and hair,soap,21923,0.00,16075,30910,36.38,-47.99,-15.78,accelerating,75
+vitamin c,beauty and grooming,face and lip care,21280,0.00,21012,25033,1.28,-16.06,-7.8,accelerating,75
+pilgrim shampoo,bath body and hair,shampoo and conditioner,20614,0.00,19926,25796,3.45,-22.76,-10.61,accelerating,75
+hair removal,beauty and grooming,hair removal,20552,0.00,20852,23307,-1.44,-10.53,-6.1,stable_down,0
+gift for men,bath body and hair,"perfumes, deos and talc",20459,0.00,90213,25728,-77.32,250.64,-10.83,decelerating,50
+himalaya face wash,bath body and hair,face wash and scrub,20414,0.00,20369,24070,0.22,-15.38,-7.91,accelerating,75
+blush,makeup,face makeup,20335,0.00,20421,36105,-0.42,-43.44,-24.95,stable_down,0
+paradyes,beauty and grooming,hair colour,19797,0.00,23174,21170,-14.57,9.47,-3.3,decelerating,50
+fair and lovely,bath body and hair,face cream,19659,0.00,19451,26007,1.07,-25.21,-13.06,accelerating,75
+sensodyne toothbrush,hygiene and wellness,oral care,19600,0.00,16761,14036,16.94,19.41,18.17,stable_up,100
+gillette,beauty and grooming,shaving needs,19579,0.00,16152,18008,21.22,-10.31,4.27,accelerating,75
+perfume men,bath body and hair,"perfumes, deos and talc",19527,0.00,55595,31242,-64.88,77.95,-20.94,decelerating,50
+mars,makeup,milk chocolates,19491,0.00,18368,5957,6.11,208.34,80.89,stable_up,100
+the derma co,bath body and hair,face wash and scrub,19217,0.00,16234,24246,18.38,-33.04,-10.97,accelerating,75
+multani mitti,beauty and grooming,face and lip care,19082,0.00,17860,24892,6.84,-28.25,-12.44,accelerating,75
+hair wax,beauty and grooming,mens grooming,18810,0.00,19362,24094,-2.85,-19.64,-11.64,stable_down,0
+mars lipstick,makeup,lip makeup,18680,0.00,19491,25858,-4.16,-24.62,-15.01,stable_down,0
+powder,bath body and hair,"perfumes, deos and talc",18576,0.00,16479,24009,12.73,-31.36,-12.04,accelerating,75
+panty liner,hygiene and wellness,feminine hygiene,18458,0.00,14921,1439,23.70,936.90,258.15,stable_up,100
+sebamed,bath body and hair,shampoo and conditioner,17975,4.17,16989,26057,5.80,-34.80,-16.94,accelerating,75
+nail clipper,makeup,makeup brushes and tools,17396,0.00,4484,19828,287.96,-77.39,-6.33,accelerating,75
+pilgrim,bath body and hair,face and lip care,17281,0.00,26804,10181,-35.53,163.27,30.28,decelerating,50
+derma co,bath body and hair,face wash and scrub,17264,0.00,16888,12152,2.23,38.97,19.19,stable_up,100
+l'oreal paris,bath body and hair,shampoo and conditioner,17146,0.00,9272,131424,84.92,-92.94,-63.88,accelerating,75
+electric toothbrush,hygiene and wellness,oral care,17031,0.00,16864,18491,0.99,-8.80,-4.03,accelerating,75
+glycerine,beauty and grooming,face and lip care,16917,0.00,22281,51416,-24.07,-56.67,-42.64,stable_down,0
+face pack,beauty and grooming,face and lip care,16646,0.00,16167,19817,2.96,-18.42,-8.35,accelerating,75
+toner,beauty and grooming,face makeup,16483,0.00,12357,20319,33.39,-39.18,-9.93,accelerating,75
+dot and key,bath body and hair,face cream,16450,0.00,17216,19185,-4.45,-10.26,-7.4,stable_down,0
+rose water,beauty and grooming,shampoo and conditioner,16326,0.00,,10676,,-100.00,23.66,accelerating,75
+mehendi,beauty and grooming,hair colour,16070,0.00,4581,,250.80,,,stable_up,100
+bombay shaving company,beauty and grooming,shaving needs,15982,0.00,16656,14342,-4.05,16.13,5.56,decelerating,50
+lux soap,bath body and hair,soap,15739,0.00,12801,10313,22.95,24.12,23.54,stable_up,100
+razor for women,beauty and grooming,hair removal,15425,0.00,31162,1160,-50.50,2586.38,264.66,decelerating,50
+nail,makeup,nail paints and accessories,15220,0.00,13436,,13.28,,,stable_up,100
+derma roller,beauty and grooming,mens grooming,15156,0.00,15194,16668,-0.25,-8.84,-4.64,stable_down,0
+cotton pads,makeup,makeup brushes and tools,15031,0.00,13041,5541,15.26,135.35,64.7,stable_up,100
+hair spray,beauty and grooming,mens grooming,14742,0.00,16242,23229,-9.24,-30.08,-20.34,stable_down,0
+pond's,bath body and hair,"perfumes, deos and talc",14494,0.00,14581,19701,-0.60,-25.99,-14.23,stable_down,0
+nails,makeup,nail paints and accessories,14492,0.00,19553,42016,-25.88,-53.46,-41.27,stable_down,0
+press on nails,makeup,nail paints and accessories,14485,0.00,18495,18531,-21.68,-0.19,-11.59,stable_down,0
+mamaearth,bath body and hair,face wash and scrub,14160,0.00,15315,23321,-7.54,-34.33,-22.08,stable_down,0
+spray bottle,makeup,makeup brushes and tools,14073,0.00,22304,25029,-36.90,-10.89,-25.02,stable_down,0
+n95 mask,hygiene and wellness,basic pharma,13866,0.00,73625,125403,-81.17,-41.29,-66.75,stable_down,0
+lip tint,makeup,lip makeup,13802,0.00,14157,20587,-2.51,-31.23,-18.12,stable_down,0
+pilgrim,beauty and grooming,face and lip care,13711,0.00,,35156,,-100.00,-37.55,accelerating,75
+foxtale,bath body and hair,face and lip care,13662,0.00,,,,,,accelerating,75
+simple,bath body and hair,face wash and scrub,13593,0.00,9958,21342,36.50,-53.34,-20.19,accelerating,75
+nose strip,beauty and grooming,face and lip care,13557,0.00,16185,18257,-16.24,-11.35,-13.83,stable_down,0
+cetaphil soap,bath body and hair,soap,13391,0.00,15927,7033,-15.92,126.46,37.99,decelerating,50
+rose water,beauty and grooming,gift packs,13371,0.00,45192,44442,-70.41,1.69,-45.15,decelerating,50
+foxtale,beauty and grooming,face and lip care,13175,0.00,21755,31874,-39.44,-31.75,-35.71,stable_down,0
+renee,makeup,eye makeup,12970,0.00,14181,18464,-8.54,-23.20,-16.19,stable_down,0
+spray bottles,makeup,makeup brushes and tools,12955,0.00,,,,,,accelerating,75
+tresemme shampoo,bath body and hair,shampoo and conditioner,12912,0.00,7004,12842,84.35,-45.46,0.27,accelerating,75
+wax,beauty and grooming,hair removal,12713,0.00,12604,16013,0.86,-21.29,-10.9,accelerating,75
+lipbalm,beauty and grooming,face and lip care,12581,0.00,14038,22585,-10.38,-37.84,-25.36,stable_down,0
+bellavita perfume,bath body and hair,"perfumes, deos and talc",12475,0.00,5056,55906,146.74,-90.96,-52.76,accelerating,75
+bandage,hygiene and wellness,wound care and pain relief,12348,0.00,7053,9847,75.07,-28.37,11.98,accelerating,75
+mehendi cones,beauty and grooming,alta,12322,0.00,8812,1744,39.83,405.28,165.81,stable_up,100
+primer,makeup,face makeup,12236,0.00,8619,24066,41.97,-64.19,-28.7,accelerating,75
+hand cream,bath body and hair,face cream,12150,0.00,15408,17862,-21.14,-13.74,-17.52,stable_down,0
+cough medicine,hygiene and wellness,basic pharma,12002,0.00,10653,20022,12.66,-46.79,-22.58,accelerating,75
+simple wash,bath body and hair,face wash and scrub,11769,0.00,6446,,82.58,,,stable_up,100
+price drop,hygiene and wellness,basic pharma,11765,0.20,8845,3302,33.01,167.87,88.76,stable_up,100
+lens,hygiene and wellness,basic pharma,11711,0.00,13126,13864,-10.78,-5.32,-8.09,stable_down,0
+blade,beauty and grooming,hair removal,11485,0.00,9947,3524,15.46,182.26,80.53,stable_up,100
+vaseline lip,beauty and grooming,face and lip care,11450,0.00,35802,55387,-68.02,-35.36,-54.53,stable_down,0
+cera ve,bath body and hair,body lotion,11435,0.00,,,,,,accelerating,75
+bb cream,bath body and hair,face cream,11333,0.00,14503,20724,-21.86,-30.02,-26.05,stable_down,0
+deos,bath body and hair,"perfumes, deos and talc",11292,0.00,11881,18010,-4.96,-34.03,-20.82,stable_down,0
+rosemary oil,bath body and hair,hair oil and serum,11225,0.00,10619,12230,5.71,-13.17,-4.2,accelerating,75
+eyebrow pencils,makeup,eye makeup,11186,0.00,8055,,38.87,,,stable_up,100
+rosemary water,bath body and hair,hair oil and serum,11065,0.00,,,,,,accelerating,75
+compact,makeup,face makeup,10890,0.00,9939,20020,9.57,-50.35,-26.25,accelerating,75
+dandruff shampoo,bath body and hair,shampoo and conditioner,10740,0.00,11506,13907,-6.66,-17.26,-12.12,stable_down,0
+minoxidil,beauty and grooming,mens grooming,10517,0.00,9087,11209,15.74,-18.93,-3.14,accelerating,75
+hair removal spray,beauty and grooming,hair removal,10491,0.00,16526,21111,-36.52,-21.72,-29.51,stable_down,0
+cetaphil face wash,bath body and hair,face wash and scrub,10456,0.00,10182,10674,2.69,-4.61,-1.03,accelerating,75
+body scrubber,beauty and grooming,beauty accessories,10427,0.00,5048,12155,106.56,-58.47,-7.38,accelerating,75
+mars lip liner,makeup,lip makeup,10422,0.00,1371,7445,660.18,-81.58,18.32,accelerating,75
+kiro,makeup,lip makeup,10264,0.00,,,,,,accelerating,75
