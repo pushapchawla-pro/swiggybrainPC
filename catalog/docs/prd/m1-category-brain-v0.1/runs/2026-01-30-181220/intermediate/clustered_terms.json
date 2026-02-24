@@ -1,0 +1,1761 @@
+{
+  "metadata": {
+    "input_terms": 200,
+    "clusters": 193,
+    "threshold": 0.75,
+    "max_cluster_size": 10
+  },
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "canonical_term": "condom",
+      "variant_terms": [],
+      "total_volume": 551578,
+      "avg_growth_pct": 14.01,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness"
+    },
+    {
+      "cluster_id": 1,
+      "canonical_term": "shampoo",
+      "variant_terms": [],
+      "total_volume": 524644,
+      "avg_growth_pct": 12.09,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 2,
+      "canonical_term": "toothbrush",
+      "variant_terms": [],
+      "total_volume": 512669,
+      "avg_growth_pct": 1.97,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 3,
+      "canonical_term": "toothpaste",
+      "variant_terms": [],
+      "total_volume": 510868,
+      "avg_growth_pct": 0.61,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 4,
+      "canonical_term": "coconut oil",
+      "variant_terms": [],
+      "total_volume": 493904,
+      "avg_growth_pct": 0.36,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 5,
+      "canonical_term": "handwash",
+      "variant_terms": [],
+      "total_volume": 412165,
+      "avg_growth_pct": 24.82,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer"
+    },
+    {
+      "cluster_id": 6,
+      "canonical_term": "face wash",
+      "variant_terms": [],
+      "total_volume": 407387,
+      "avg_growth_pct": 6.18,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 7,
+      "canonical_term": "body wash",
+      "variant_terms": [],
+      "total_volume": 368588,
+      "avg_growth_pct": 3.32,
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel"
+    },
+    {
+      "cluster_id": 8,
+      "canonical_term": "lip balm",
+      "variant_terms": [],
+      "total_volume": 308826,
+      "avg_growth_pct": -24.18,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 9,
+      "canonical_term": "sanitary pads",
+      "variant_terms": [],
+      "total_volume": 280571,
+      "avg_growth_pct": 7.45,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 10,
+      "canonical_term": "body lotion",
+      "variant_terms": [],
+      "total_volume": 274799,
+      "avg_growth_pct": -26.76,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 11,
+      "canonical_term": "sunscreen",
+      "variant_terms": [],
+      "total_volume": 267820,
+      "avg_growth_pct": 14.88,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 12,
+      "canonical_term": "colgate",
+      "variant_terms": [],
+      "total_volume": 237025,
+      "avg_growth_pct": 4.46,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 13,
+      "canonical_term": "pads",
+      "variant_terms": [],
+      "total_volume": 232880,
+      "avg_growth_pct": 5.53,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 14,
+      "canonical_term": "soap",
+      "variant_terms": [],
+      "total_volume": 232043,
+      "avg_growth_pct": 8.92,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 15,
+      "canonical_term": "soaps",
+      "variant_terms": [],
+      "total_volume": 223986,
+      "avg_growth_pct": 8.74,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 16,
+      "canonical_term": "pregnancy kit",
+      "variant_terms": [],
+      "total_volume": 205630,
+      "avg_growth_pct": -1.84,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 17,
+      "canonical_term": "dettol",
+      "variant_terms": [],
+      "total_volume": 203094,
+      "avg_growth_pct": 3.31,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "wound care and pain relief"
+    },
+    {
+      "cluster_id": 18,
+      "canonical_term": "whisper",
+      "variant_terms": [],
+      "total_volume": 191309,
+      "avg_growth_pct": 8.82,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 19,
+      "canonical_term": "cetaphil",
+      "variant_terms": [],
+      "total_volume": 182070,
+      "avg_growth_pct": 2.77,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 20,
+      "canonical_term": "lipstick",
+      "variant_terms": [],
+      "total_volume": 173198,
+      "avg_growth_pct": -7.88,
+      "l1_category": "makeup",
+      "l2_category": "lip makeup"
+    },
+    {
+      "cluster_id": 21,
+      "canonical_term": "perfumes",
+      "variant_terms": [
+        "perfume"
+      ],
+      "total_volume": 298893,
+      "avg_growth_pct": -23.97,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 22,
+      "canonical_term": "conditioner",
+      "variant_terms": [],
+      "total_volume": 167512,
+      "avg_growth_pct": 10.83,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 23,
+      "canonical_term": "hair colour",
+      "variant_terms": [],
+      "total_volume": 165396,
+      "avg_growth_pct": 1.52,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair colour"
+    },
+    {
+      "cluster_id": 24,
+      "canonical_term": "stayfree",
+      "variant_terms": [],
+      "total_volume": 164044,
+      "avg_growth_pct": 6.52,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 25,
+      "canonical_term": "hair serum",
+      "variant_terms": [],
+      "total_volume": 160500,
+      "avg_growth_pct": 4.49,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 26,
+      "canonical_term": "cetaphil cleanser",
+      "variant_terms": [],
+      "total_volume": 155800,
+      "avg_growth_pct": 13.72,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 27,
+      "canonical_term": "vaseline",
+      "variant_terms": [],
+      "total_volume": 141291,
+      "avg_growth_pct": -28.61,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 28,
+      "canonical_term": "face mask",
+      "variant_terms": [],
+      "total_volume": 138886,
+      "avg_growth_pct": -12.75,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 29,
+      "canonical_term": "hair oil",
+      "variant_terms": [],
+      "total_volume": 137968,
+      "avg_growth_pct": 5.6,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 30,
+      "canonical_term": "period panties",
+      "variant_terms": [],
+      "total_volume": 137655,
+      "avg_growth_pct": 6.42,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 31,
+      "canonical_term": "moisturizer",
+      "variant_terms": [],
+      "total_volume": 137526,
+      "avg_growth_pct": -44.33,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 32,
+      "canonical_term": "vicks",
+      "variant_terms": [],
+      "total_volume": 136019,
+      "avg_growth_pct": -16.95,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 33,
+      "canonical_term": "nua",
+      "variant_terms": [],
+      "total_volume": 126704,
+      "avg_growth_pct": 9.92,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 34,
+      "canonical_term": "sensodyne",
+      "variant_terms": [],
+      "total_volume": 126160,
+      "avg_growth_pct": -1.42,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 35,
+      "canonical_term": "adult diaper",
+      "variant_terms": [],
+      "total_volume": 122638,
+      "avg_growth_pct": 7.13,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 36,
+      "canonical_term": "l'oreal shampoo",
+      "variant_terms": [],
+      "total_volume": 118780,
+      "avg_growth_pct": 8.53,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 37,
+      "canonical_term": "tongue cleaner",
+      "variant_terms": [],
+      "total_volume": 117519,
+      "avg_growth_pct": 5.93,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 38,
+      "canonical_term": "pears",
+      "variant_terms": [],
+      "total_volume": 116769,
+      "avg_growth_pct": 11.8,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 39,
+      "canonical_term": "medicine",
+      "variant_terms": [],
+      "total_volume": 115946,
+      "avg_growth_pct": -5.73,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 40,
+      "canonical_term": "razor",
+      "variant_terms": [],
+      "total_volume": 113500,
+      "avg_growth_pct": -5.66,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal"
+    },
+    {
+      "cluster_id": 41,
+      "canonical_term": "pimple patch",
+      "variant_terms": [],
+      "total_volume": 111862,
+      "avg_growth_pct": 0.52,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 42,
+      "canonical_term": "paste",
+      "variant_terms": [],
+      "total_volume": 104136,
+      "avg_growth_pct": 3.67,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 43,
+      "canonical_term": "mask",
+      "variant_terms": [],
+      "total_volume": 98637,
+      "avg_growth_pct": -18.5,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 44,
+      "canonical_term": "kajal",
+      "variant_terms": [],
+      "total_volume": 97764,
+      "avg_growth_pct": 5.94,
+      "l1_category": "makeup",
+      "l2_category": "eye makeup"
+    },
+    {
+      "cluster_id": 45,
+      "canonical_term": "parachute",
+      "variant_terms": [],
+      "total_volume": 95983,
+      "avg_growth_pct": -1.11,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 46,
+      "canonical_term": "bare anatomy",
+      "variant_terms": [],
+      "total_volume": 93668,
+      "avg_growth_pct": 10.24,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 47,
+      "canonical_term": "dove shampoo",
+      "variant_terms": [],
+      "total_volume": 91196,
+      "avg_growth_pct": 2.88,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 48,
+      "canonical_term": "dettol handwash",
+      "variant_terms": [],
+      "total_volume": 89389,
+      "avg_growth_pct": 7.64,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer"
+    },
+    {
+      "cluster_id": 49,
+      "canonical_term": "facewash",
+      "variant_terms": [],
+      "total_volume": 89331,
+      "avg_growth_pct": 6.5,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 50,
+      "canonical_term": "dove soaps",
+      "variant_terms": [],
+      "total_volume": 88901,
+      "avg_growth_pct": 15.5,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 51,
+      "canonical_term": "pad",
+      "variant_terms": [],
+      "total_volume": 88172,
+      "avg_growth_pct": 15.05,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 52,
+      "canonical_term": "pears soap",
+      "variant_terms": [],
+      "total_volume": 86788,
+      "avg_growth_pct": 4.05,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 53,
+      "canonical_term": "brush",
+      "variant_terms": [],
+      "total_volume": 86408,
+      "avg_growth_pct": 6.03,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 54,
+      "canonical_term": "lip gloss",
+      "variant_terms": [],
+      "total_volume": 86369,
+      "avg_growth_pct": 2.53,
+      "l1_category": "makeup",
+      "l2_category": "lip makeup"
+    },
+    {
+      "cluster_id": 55,
+      "canonical_term": "pregnancy test",
+      "variant_terms": [],
+      "total_volume": 83823,
+      "avg_growth_pct": -3.68,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 56,
+      "canonical_term": "nail cutter",
+      "variant_terms": [],
+      "total_volume": 83706,
+      "avg_growth_pct": -1.3,
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools"
+    },
+    {
+      "cluster_id": 57,
+      "canonical_term": "loofah",
+      "variant_terms": [],
+      "total_volume": 83430,
+      "avg_growth_pct": 23.42,
+      "l1_category": "beauty and grooming",
+      "l2_category": "beauty accessories"
+    },
+    {
+      "cluster_id": 58,
+      "canonical_term": "dove",
+      "variant_terms": [],
+      "total_volume": 81509,
+      "avg_growth_pct": 8.89,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 59,
+      "canonical_term": "sanitizer",
+      "variant_terms": [],
+      "total_volume": 74943,
+      "avg_growth_pct": -3.71,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer"
+    },
+    {
+      "cluster_id": 60,
+      "canonical_term": "eyeliner",
+      "variant_terms": [],
+      "total_volume": 73478,
+      "avg_growth_pct": -2.87,
+      "l1_category": "makeup",
+      "l2_category": "eye makeup"
+    },
+    {
+      "cluster_id": 61,
+      "canonical_term": "prega news",
+      "variant_terms": [],
+      "total_volume": 73438,
+      "avg_growth_pct": -6.28,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 62,
+      "canonical_term": "mysore sandal",
+      "variant_terms": [],
+      "total_volume": 72969,
+      "avg_growth_pct": -14.86,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 63,
+      "canonical_term": "mouthwash",
+      "variant_terms": [],
+      "total_volume": 71940,
+      "avg_growth_pct": 3.54,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 64,
+      "canonical_term": "lip liner",
+      "variant_terms": [],
+      "total_volume": 70238,
+      "avg_growth_pct": 21.85,
+      "l1_category": "makeup",
+      "l2_category": "lip makeup"
+    },
+    {
+      "cluster_id": 65,
+      "canonical_term": "chemist at play",
+      "variant_terms": [],
+      "total_volume": 69685,
+      "avg_growth_pct": 3.26,
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel"
+    },
+    {
+      "cluster_id": 66,
+      "canonical_term": "nivea",
+      "variant_terms": [],
+      "total_volume": 69293,
+      "avg_growth_pct": -24.64,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 67,
+      "canonical_term": "facial kit",
+      "variant_terms": [],
+      "total_volume": 66848,
+      "avg_growth_pct": 98.57,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 68,
+      "canonical_term": "roll on",
+      "variant_terms": [],
+      "total_volume": 66828,
+      "avg_growth_pct": 11.06,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 69,
+      "canonical_term": "boroline",
+      "variant_terms": [],
+      "total_volume": 65188,
+      "avg_growth_pct": -43.41,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 70,
+      "canonical_term": "sofy",
+      "variant_terms": [],
+      "total_volume": 64457,
+      "avg_growth_pct": 1.2,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 71,
+      "canonical_term": "nail paint",
+      "variant_terms": [],
+      "total_volume": 63894,
+      "avg_growth_pct": 0.75,
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories"
+    },
+    {
+      "cluster_id": 72,
+      "canonical_term": "mysore soap",
+      "variant_terms": [],
+      "total_volume": 60292,
+      "avg_growth_pct": 1644.56,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 73,
+      "canonical_term": "face razor",
+      "variant_terms": [],
+      "total_volume": 58192,
+      "avg_growth_pct": -0.69,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal"
+    },
+    {
+      "cluster_id": 74,
+      "canonical_term": "durex condom",
+      "variant_terms": [],
+      "total_volume": 57881,
+      "avg_growth_pct": 96.92,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness"
+    },
+    {
+      "cluster_id": 75,
+      "canonical_term": "shower gel",
+      "variant_terms": [],
+      "total_volume": 56241,
+      "avg_growth_pct": -14.69,
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel"
+    },
+    {
+      "cluster_id": 76,
+      "canonical_term": "hair mask",
+      "variant_terms": [],
+      "total_volume": 52691,
+      "avg_growth_pct": 19.05,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 77,
+      "canonical_term": "castor oil",
+      "variant_terms": [],
+      "total_volume": 52431,
+      "avg_growth_pct": 59.56,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 78,
+      "canonical_term": "sexual wellness",
+      "variant_terms": [],
+      "total_volume": 50683,
+      "avg_growth_pct": 254.2,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness"
+    },
+    {
+      "cluster_id": 79,
+      "canonical_term": "nail polish",
+      "variant_terms": [],
+      "total_volume": 45761,
+      "avg_growth_pct": -41.37,
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories"
+    },
+    {
+      "cluster_id": 80,
+      "canonical_term": "vaseline jelly",
+      "variant_terms": [],
+      "total_volume": 45069,
+      "avg_growth_pct": 26.08,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 81,
+      "canonical_term": "gillette blade",
+      "variant_terms": [],
+      "total_volume": 44143,
+      "avg_growth_pct": 58.65,
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs"
+    },
+    {
+      "cluster_id": 82,
+      "canonical_term": "minimalist",
+      "variant_terms": [],
+      "total_volume": 43263,
+      "avg_growth_pct": -17.77,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 83,
+      "canonical_term": "pilgrim serum",
+      "variant_terms": [],
+      "total_volume": 40761,
+      "avg_growth_pct": 96.42,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 84,
+      "canonical_term": "face scrub",
+      "variant_terms": [],
+      "total_volume": 36817,
+      "avg_growth_pct": 14.93,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 85,
+      "canonical_term": "moisturising lotion",
+      "variant_terms": [],
+      "total_volume": 36671,
+      "avg_growth_pct": 32.39,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 86,
+      "canonical_term": "moisturising cream",
+      "variant_terms": [],
+      "total_volume": 36272,
+      "avg_growth_pct": 94.04,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 87,
+      "canonical_term": "prega kit",
+      "variant_terms": [],
+      "total_volume": 35048,
+      "avg_growth_pct": -16.76,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 88,
+      "canonical_term": "plum",
+      "variant_terms": [
+        "plum"
+      ],
+      "total_volume": 57653,
+      "avg_growth_pct": -31.84,
+      "l1_category": "bath body and hair",
+      "l2_category": "fruits"
+    },
+    {
+      "cluster_id": 89,
+      "canonical_term": "mirror",
+      "variant_terms": [],
+      "total_volume": 32508,
+      "avg_growth_pct": -40.12,
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools"
+    },
+    {
+      "cluster_id": 90,
+      "canonical_term": "body scrub",
+      "variant_terms": [],
+      "total_volume": 32225,
+      "avg_growth_pct": 9.12,
+      "l1_category": "bath body and hair",
+      "l2_category": "shower gel"
+    },
+    {
+      "cluster_id": 91,
+      "canonical_term": "face moisturizer",
+      "variant_terms": [],
+      "total_volume": 30958,
+      "avg_growth_pct": -43.52,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 92,
+      "canonical_term": "ghar soaps",
+      "variant_terms": [
+        "ghar soap"
+      ],
+      "total_volume": 52500,
+      "avg_growth_pct": 44.17,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 93,
+      "canonical_term": "sex toys",
+      "variant_terms": [],
+      "total_volume": 30111,
+      "avg_growth_pct": -0.71,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness"
+    },
+    {
+      "cluster_id": 94,
+      "canonical_term": "razor for men",
+      "variant_terms": [],
+      "total_volume": 30050,
+      "avg_growth_pct": 7.12,
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs"
+    },
+    {
+      "cluster_id": 95,
+      "canonical_term": "cough syrup",
+      "variant_terms": [],
+      "total_volume": 29923,
+      "avg_growth_pct": -46.62,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 96,
+      "canonical_term": "foundation",
+      "variant_terms": [],
+      "total_volume": 29704,
+      "avg_growth_pct": 0.87,
+      "l1_category": "makeup",
+      "l2_category": "face makeup"
+    },
+    {
+      "cluster_id": 97,
+      "canonical_term": "cotton",
+      "variant_terms": [],
+      "total_volume": 29001,
+      "avg_growth_pct": -52.55,
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools"
+    },
+    {
+      "cluster_id": 98,
+      "canonical_term": "sensodyne toothpaste",
+      "variant_terms": [],
+      "total_volume": 28804,
+      "avg_growth_pct": -16.65,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 99,
+      "canonical_term": "mascara",
+      "variant_terms": [],
+      "total_volume": 28462,
+      "avg_growth_pct": 3.5,
+      "l1_category": "makeup",
+      "l2_category": "eye makeup"
+    },
+    {
+      "cluster_id": 100,
+      "canonical_term": "serum",
+      "variant_terms": [],
+      "total_volume": 28363,
+      "avg_growth_pct": 21.14,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 101,
+      "canonical_term": "face serum",
+      "variant_terms": [],
+      "total_volume": 27984,
+      "avg_growth_pct": 9.58,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 102,
+      "canonical_term": "durex",
+      "variant_terms": [],
+      "total_volume": 27556,
+      "avg_growth_pct": 968.48,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "sexual wellness"
+    },
+    {
+      "cluster_id": 103,
+      "canonical_term": "cetaphil moisturiser",
+      "variant_terms": [],
+      "total_volume": 27295,
+      "avg_growth_pct": -4.33,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 104,
+      "canonical_term": "anti dandruff",
+      "variant_terms": [],
+      "total_volume": 26805,
+      "avg_growth_pct": 7.65,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 105,
+      "canonical_term": "concealer",
+      "variant_terms": [],
+      "total_volume": 26024,
+      "avg_growth_pct": -1.9,
+      "l1_category": "makeup",
+      "l2_category": "face makeup"
+    },
+    {
+      "cluster_id": 106,
+      "canonical_term": "aloe vera",
+      "variant_terms": [],
+      "total_volume": 25923,
+      "avg_growth_pct": 101.81,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 107,
+      "canonical_term": "aloe vera gel",
+      "variant_terms": [],
+      "total_volume": 25127,
+      "avg_growth_pct": 23.94,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 108,
+      "canonical_term": "face cream",
+      "variant_terms": [],
+      "total_volume": 25006,
+      "avg_growth_pct": -5.04,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 109,
+      "canonical_term": "nivea moisturizer",
+      "variant_terms": [],
+      "total_volume": 24693,
+      "avg_growth_pct": -56.81,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 110,
+      "canonical_term": "dot & key",
+      "variant_terms": [],
+      "total_volume": 24242,
+      "avg_growth_pct": 1.47,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 111,
+      "canonical_term": "almond oil",
+      "variant_terms": [],
+      "total_volume": 24200,
+      "avg_growth_pct": -2.47,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 112,
+      "canonical_term": "shoe polish",
+      "variant_terms": [],
+      "total_volume": 23362,
+      "avg_growth_pct": 3.66,
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming"
+    },
+    {
+      "cluster_id": 113,
+      "canonical_term": "bella vita",
+      "variant_terms": [],
+      "total_volume": 22303,
+      "avg_growth_pct": -60.1,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 114,
+      "canonical_term": "body oil",
+      "variant_terms": [],
+      "total_volume": 22108,
+      "avg_growth_pct": -39.68,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 115,
+      "canonical_term": "hand sanitizer",
+      "variant_terms": [],
+      "total_volume": 22050,
+      "avg_growth_pct": 48.11,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "hand wash and sanitizer"
+    },
+    {
+      "cluster_id": 116,
+      "canonical_term": "vitamin c",
+      "variant_terms": [],
+      "total_volume": 21280,
+      "avg_growth_pct": 1.28,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 117,
+      "canonical_term": "pilgrim shampoo",
+      "variant_terms": [],
+      "total_volume": 20614,
+      "avg_growth_pct": 3.45,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 118,
+      "canonical_term": "hair removal",
+      "variant_terms": [],
+      "total_volume": 20552,
+      "avg_growth_pct": -1.44,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal"
+    },
+    {
+      "cluster_id": 119,
+      "canonical_term": "gift for men",
+      "variant_terms": [],
+      "total_volume": 20459,
+      "avg_growth_pct": -77.32,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 120,
+      "canonical_term": "himalaya face wash",
+      "variant_terms": [],
+      "total_volume": 20414,
+      "avg_growth_pct": 0.22,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 121,
+      "canonical_term": "blush",
+      "variant_terms": [],
+      "total_volume": 20335,
+      "avg_growth_pct": -0.42,
+      "l1_category": "makeup",
+      "l2_category": "face makeup"
+    },
+    {
+      "cluster_id": 122,
+      "canonical_term": "paradyes",
+      "variant_terms": [],
+      "total_volume": 19797,
+      "avg_growth_pct": -14.57,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair colour"
+    },
+    {
+      "cluster_id": 123,
+      "canonical_term": "fair and lovely",
+      "variant_terms": [],
+      "total_volume": 19659,
+      "avg_growth_pct": 1.07,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 124,
+      "canonical_term": "sensodyne toothbrush",
+      "variant_terms": [],
+      "total_volume": 19600,
+      "avg_growth_pct": 16.94,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 125,
+      "canonical_term": "gillette",
+      "variant_terms": [],
+      "total_volume": 19579,
+      "avg_growth_pct": 21.22,
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs"
+    },
+    {
+      "cluster_id": 126,
+      "canonical_term": "perfume men",
+      "variant_terms": [],
+      "total_volume": 19527,
+      "avg_growth_pct": -64.88,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 127,
+      "canonical_term": "mars",
+      "variant_terms": [],
+      "total_volume": 19491,
+      "avg_growth_pct": 6.11,
+      "l1_category": "makeup",
+      "l2_category": "milk chocolates"
+    },
+    {
+      "cluster_id": 128,
+      "canonical_term": "the derma co",
+      "variant_terms": [],
+      "total_volume": 19217,
+      "avg_growth_pct": 18.38,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 129,
+      "canonical_term": "multani mitti",
+      "variant_terms": [],
+      "total_volume": 19082,
+      "avg_growth_pct": 6.84,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 130,
+      "canonical_term": "hair wax",
+      "variant_terms": [],
+      "total_volume": 18810,
+      "avg_growth_pct": -2.85,
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming"
+    },
+    {
+      "cluster_id": 131,
+      "canonical_term": "mars lipstick",
+      "variant_terms": [],
+      "total_volume": 18680,
+      "avg_growth_pct": -4.16,
+      "l1_category": "makeup",
+      "l2_category": "lip makeup"
+    },
+    {
+      "cluster_id": 132,
+      "canonical_term": "powder",
+      "variant_terms": [],
+      "total_volume": 18576,
+      "avg_growth_pct": 12.73,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 133,
+      "canonical_term": "panty liner",
+      "variant_terms": [],
+      "total_volume": 18458,
+      "avg_growth_pct": 23.7,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "feminine hygiene"
+    },
+    {
+      "cluster_id": 134,
+      "canonical_term": "sebamed",
+      "variant_terms": [],
+      "total_volume": 17975,
+      "avg_growth_pct": 5.8,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 135,
+      "canonical_term": "nail clipper",
+      "variant_terms": [],
+      "total_volume": 17396,
+      "avg_growth_pct": 287.96,
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools"
+    },
+    {
+      "cluster_id": 136,
+      "canonical_term": "pilgrim",
+      "variant_terms": [
+        "pilgrim"
+      ],
+      "total_volume": 30992,
+      "avg_growth_pct": -17.77,
+      "l1_category": "bath body and hair",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 137,
+      "canonical_term": "derma co",
+      "variant_terms": [],
+      "total_volume": 17264,
+      "avg_growth_pct": 2.23,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 138,
+      "canonical_term": "l'oreal paris",
+      "variant_terms": [],
+      "total_volume": 17146,
+      "avg_growth_pct": 84.92,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 139,
+      "canonical_term": "electric toothbrush",
+      "variant_terms": [],
+      "total_volume": 17031,
+      "avg_growth_pct": 0.99,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "oral care"
+    },
+    {
+      "cluster_id": 140,
+      "canonical_term": "glycerine",
+      "variant_terms": [],
+      "total_volume": 16917,
+      "avg_growth_pct": -24.07,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 141,
+      "canonical_term": "face pack",
+      "variant_terms": [],
+      "total_volume": 16646,
+      "avg_growth_pct": 2.96,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 142,
+      "canonical_term": "toner",
+      "variant_terms": [],
+      "total_volume": 16483,
+      "avg_growth_pct": 33.39,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face makeup"
+    },
+    {
+      "cluster_id": 143,
+      "canonical_term": "dot and key",
+      "variant_terms": [],
+      "total_volume": 16450,
+      "avg_growth_pct": -4.45,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 144,
+      "canonical_term": "rose water",
+      "variant_terms": [
+        "rose water"
+      ],
+      "total_volume": 29697,
+      "avg_growth_pct": -35.2,
+      "l1_category": "beauty and grooming",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 145,
+      "canonical_term": "mehendi",
+      "variant_terms": [],
+      "total_volume": 16070,
+      "avg_growth_pct": 250.8,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair colour"
+    },
+    {
+      "cluster_id": 146,
+      "canonical_term": "bombay shaving company",
+      "variant_terms": [],
+      "total_volume": 15982,
+      "avg_growth_pct": -4.05,
+      "l1_category": "beauty and grooming",
+      "l2_category": "shaving needs"
+    },
+    {
+      "cluster_id": 147,
+      "canonical_term": "lux soap",
+      "variant_terms": [],
+      "total_volume": 15739,
+      "avg_growth_pct": 22.95,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 148,
+      "canonical_term": "razor for women",
+      "variant_terms": [],
+      "total_volume": 15425,
+      "avg_growth_pct": -50.5,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal"
+    },
+    {
+      "cluster_id": 149,
+      "canonical_term": "nail",
+      "variant_terms": [],
+      "total_volume": 15220,
+      "avg_growth_pct": 13.28,
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories"
+    },
+    {
+      "cluster_id": 150,
+      "canonical_term": "derma roller",
+      "variant_terms": [],
+      "total_volume": 15156,
+      "avg_growth_pct": -0.25,
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming"
+    },
+    {
+      "cluster_id": 151,
+      "canonical_term": "cotton pads",
+      "variant_terms": [],
+      "total_volume": 15031,
+      "avg_growth_pct": 15.26,
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools"
+    },
+    {
+      "cluster_id": 152,
+      "canonical_term": "hair spray",
+      "variant_terms": [],
+      "total_volume": 14742,
+      "avg_growth_pct": -9.24,
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming"
+    },
+    {
+      "cluster_id": 153,
+      "canonical_term": "pond's",
+      "variant_terms": [],
+      "total_volume": 14494,
+      "avg_growth_pct": -0.6,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 154,
+      "canonical_term": "nails",
+      "variant_terms": [],
+      "total_volume": 14492,
+      "avg_growth_pct": -25.88,
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories"
+    },
+    {
+      "cluster_id": 155,
+      "canonical_term": "press on nails",
+      "variant_terms": [],
+      "total_volume": 14485,
+      "avg_growth_pct": -21.68,
+      "l1_category": "makeup",
+      "l2_category": "nail paints and accessories"
+    },
+    {
+      "cluster_id": 156,
+      "canonical_term": "mamaearth",
+      "variant_terms": [],
+      "total_volume": 14160,
+      "avg_growth_pct": -7.54,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 157,
+      "canonical_term": "spray bottle",
+      "variant_terms": [
+        "spray bottles"
+      ],
+      "total_volume": 27028,
+      "avg_growth_pct": -18.45,
+      "l1_category": "makeup",
+      "l2_category": "makeup brushes and tools"
+    },
+    {
+      "cluster_id": 158,
+      "canonical_term": "n95 mask",
+      "variant_terms": [],
+      "total_volume": 13866,
+      "avg_growth_pct": -81.17,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 159,
+      "canonical_term": "lip tint",
+      "variant_terms": [],
+      "total_volume": 13802,
+      "avg_growth_pct": -2.51,
+      "l1_category": "makeup",
+      "l2_category": "lip makeup"
+    },
+    {
+      "cluster_id": 160,
+      "canonical_term": "foxtale",
+      "variant_terms": [
+        "foxtale"
+      ],
+      "total_volume": 26837,
+      "avg_growth_pct": -19.72,
+      "l1_category": "bath body and hair",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 161,
+      "canonical_term": "simple",
+      "variant_terms": [],
+      "total_volume": 13593,
+      "avg_growth_pct": 36.5,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 162,
+      "canonical_term": "nose strip",
+      "variant_terms": [],
+      "total_volume": 13557,
+      "avg_growth_pct": -16.24,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 163,
+      "canonical_term": "cetaphil soap",
+      "variant_terms": [],
+      "total_volume": 13391,
+      "avg_growth_pct": -15.92,
+      "l1_category": "bath body and hair",
+      "l2_category": "soap"
+    },
+    {
+      "cluster_id": 164,
+      "canonical_term": "renee",
+      "variant_terms": [],
+      "total_volume": 12970,
+      "avg_growth_pct": -8.54,
+      "l1_category": "makeup",
+      "l2_category": "eye makeup"
+    },
+    {
+      "cluster_id": 165,
+      "canonical_term": "tresemme shampoo",
+      "variant_terms": [],
+      "total_volume": 12912,
+      "avg_growth_pct": 84.35,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 166,
+      "canonical_term": "wax",
+      "variant_terms": [],
+      "total_volume": 12713,
+      "avg_growth_pct": 0.86,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal"
+    },
+    {
+      "cluster_id": 167,
+      "canonical_term": "lipbalm",
+      "variant_terms": [],
+      "total_volume": 12581,
+      "avg_growth_pct": -10.38,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 168,
+      "canonical_term": "bellavita perfume",
+      "variant_terms": [],
+      "total_volume": 12475,
+      "avg_growth_pct": 146.74,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 169,
+      "canonical_term": "bandage",
+      "variant_terms": [],
+      "total_volume": 12348,
+      "avg_growth_pct": 75.07,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "wound care and pain relief"
+    },
+    {
+      "cluster_id": 170,
+      "canonical_term": "mehendi cones",
+      "variant_terms": [],
+      "total_volume": 12322,
+      "avg_growth_pct": 39.83,
+      "l1_category": "beauty and grooming",
+      "l2_category": "alta"
+    },
+    {
+      "cluster_id": 171,
+      "canonical_term": "primer",
+      "variant_terms": [],
+      "total_volume": 12236,
+      "avg_growth_pct": 41.97,
+      "l1_category": "makeup",
+      "l2_category": "face makeup"
+    },
+    {
+      "cluster_id": 172,
+      "canonical_term": "hand cream",
+      "variant_terms": [],
+      "total_volume": 12150,
+      "avg_growth_pct": -21.14,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 173,
+      "canonical_term": "cough medicine",
+      "variant_terms": [],
+      "total_volume": 12002,
+      "avg_growth_pct": 12.66,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 174,
+      "canonical_term": "simple wash",
+      "variant_terms": [],
+      "total_volume": 11769,
+      "avg_growth_pct": 82.58,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 175,
+      "canonical_term": "price drop",
+      "variant_terms": [],
+      "total_volume": 11765,
+      "avg_growth_pct": 33.01,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 176,
+      "canonical_term": "lens",
+      "variant_terms": [],
+      "total_volume": 11711,
+      "avg_growth_pct": -10.78,
+      "l1_category": "hygiene and wellness",
+      "l2_category": "basic pharma"
+    },
+    {
+      "cluster_id": 177,
+      "canonical_term": "blade",
+      "variant_terms": [],
+      "total_volume": 11485,
+      "avg_growth_pct": 15.46,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal"
+    },
+    {
+      "cluster_id": 178,
+      "canonical_term": "vaseline lip",
+      "variant_terms": [],
+      "total_volume": 11450,
+      "avg_growth_pct": -68.02,
+      "l1_category": "beauty and grooming",
+      "l2_category": "face and lip care"
+    },
+    {
+      "cluster_id": 179,
+      "canonical_term": "cera ve",
+      "variant_terms": [],
+      "total_volume": 11435,
+      "avg_growth_pct": 0.0,
+      "l1_category": "bath body and hair",
+      "l2_category": "body lotion"
+    },
+    {
+      "cluster_id": 180,
+      "canonical_term": "bb cream",
+      "variant_terms": [],
+      "total_volume": 11333,
+      "avg_growth_pct": -21.86,
+      "l1_category": "bath body and hair",
+      "l2_category": "face cream"
+    },
+    {
+      "cluster_id": 181,
+      "canonical_term": "deos",
+      "variant_terms": [],
+      "total_volume": 11292,
+      "avg_growth_pct": -4.96,
+      "l1_category": "bath body and hair",
+      "l2_category": "perfumes, deos and talc"
+    },
+    {
+      "cluster_id": 182,
+      "canonical_term": "rosemary oil",
+      "variant_terms": [],
+      "total_volume": 11225,
+      "avg_growth_pct": 5.71,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 183,
+      "canonical_term": "eyebrow pencils",
+      "variant_terms": [],
+      "total_volume": 11186,
+      "avg_growth_pct": 38.87,
+      "l1_category": "makeup",
+      "l2_category": "eye makeup"
+    },
+    {
+      "cluster_id": 184,
+      "canonical_term": "rosemary water",
+      "variant_terms": [],
+      "total_volume": 11065,
+      "avg_growth_pct": 0.0,
+      "l1_category": "bath body and hair",
+      "l2_category": "hair oil and serum"
+    },
+    {
+      "cluster_id": 185,
+      "canonical_term": "compact",
+      "variant_terms": [],
+      "total_volume": 10890,
+      "avg_growth_pct": 9.57,
+      "l1_category": "makeup",
+      "l2_category": "face makeup"
+    },
+    {
+      "cluster_id": 186,
+      "canonical_term": "dandruff shampoo",
+      "variant_terms": [],
+      "total_volume": 10740,
+      "avg_growth_pct": -6.66,
+      "l1_category": "bath body and hair",
+      "l2_category": "shampoo and conditioner"
+    },
+    {
+      "cluster_id": 187,
+      "canonical_term": "minoxidil",
+      "variant_terms": [],
+      "total_volume": 10517,
+      "avg_growth_pct": 15.74,
+      "l1_category": "beauty and grooming",
+      "l2_category": "mens grooming"
+    },
+    {
+      "cluster_id": 188,
+      "canonical_term": "hair removal spray",
+      "variant_terms": [],
+      "total_volume": 10491,
+      "avg_growth_pct": -36.52,
+      "l1_category": "beauty and grooming",
+      "l2_category": "hair removal"
+    },
+    {
+      "cluster_id": 189,
+      "canonical_term": "cetaphil face wash",
+      "variant_terms": [],
+      "total_volume": 10456,
+      "avg_growth_pct": 2.69,
+      "l1_category": "bath body and hair",
+      "l2_category": "face wash and scrub"
+    },
+    {
+      "cluster_id": 190,
+      "canonical_term": "body scrubber",
+      "variant_terms": [],
+      "total_volume": 10427,
+      "avg_growth_pct": 106.56,
+      "l1_category": "beauty and grooming",
+      "l2_category": "beauty accessories"
+    },
+    {
+      "cluster_id": 191,
+      "canonical_term": "mars lip liner",
+      "variant_terms": [],
+      "total_volume": 10422,
+      "avg_growth_pct": 660.18,
+      "l1_category": "makeup",
+      "l2_category": "lip makeup"
+    },
+    {
+      "cluster_id": 192,
+      "canonical_term": "kiro",
+      "variant_terms": [],
+      "total_volume": 10264,
+      "avg_growth_pct": 0.0,
+      "l1_category": "makeup",
+      "l2_category": "lip makeup"
+    }
+  ]
+}
