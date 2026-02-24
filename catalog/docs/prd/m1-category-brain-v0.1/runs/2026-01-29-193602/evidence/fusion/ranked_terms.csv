@@ -1,0 +1,59 @@
+rank,search_string,l1_category,l2_category,current_month_volume,mom_search_growth_pct,mom_sales_growth_pct,google_interest,zero_result_rate,availability_pct,top_oos_reason,emerging_score
+1,pantyliners,hygiene and wellness,feminine hygiene,8453,3214.9,-4.31,0.0,0.02,62.01,oos_9.fillrate Issue,59.31
+2,soap paper,hygiene and wellness,hand wash and sanitizer,3453,217.96,-4.31,45.0,0.03,62.44,oos_9.fillrate Issue,50.33
+3,vicks lozenges,hygiene and wellness,basic pharma,5021,1884.58,-4.31,0.0,0.0,61.11,oos_9.fillrate Issue,49.11
+4,sexual wellness,hygiene and wellness,sexual wellness,31997,115.42,-4.31,0.0,0.06,79.08,oos_10.Planning Ordering Issue,45.48
+5,spray bottles,makeup,makeup brushes and tools,12837,4404.21,-18.23,0.0,0.0,56.64,oos_9.fillrate Issue,44.1
+6,alife,bath body and hair,soap,45677,75.36,-9.22,0.0,0.01,73.23,oos_10.Planning Ordering Issue,41.24
+7,whisper period panty,hygiene and wellness,feminine hygiene,3518,766.5,-4.31,0.0,0.03,62.01,oos_9.fillrate Issue,40.7
+8,close up,hygiene and wellness,oral care,12680,281.12,-4.31,0.0,0.0,58.49,oos_9.fillrate Issue,40.58
+9,sensodyne repair,hygiene and wellness,oral care,15994,126.54,-4.31,0.0,0.02,58.49,oos_9.fillrate Issue,40.49
+10,dabur red toothpaste,hygiene and wellness,oral care,15904,111.52,-4.31,0.0,0.0,58.49,oos_9.fillrate Issue,40.48
+11,vwash wash,hygiene and wellness,feminine hygiene,11956,228.46,-4.31,0.0,0.0,62.01,oos_9.fillrate Issue,39.98
+12,whispers,hygiene and wellness,feminine hygiene,15671,59.92,-4.31,0.0,0.02,62.01,oos_9.fillrate Issue,39.93
+13,whisper pad,hygiene and wellness,feminine hygiene,16322,73.18,-4.31,0.0,0.07,62.01,oos_9.fillrate Issue,39.92
+14,refill handwash,hygiene and wellness,hand wash and sanitizer,14949,70.13,-4.31,0.0,0.01,62.44,oos_9.fillrate Issue,39.82
+15,mysore soap,bath body and hair,soap,40303,113.97,-9.22,0.0,0.01,73.23,oos_10.Planning Ordering Issue,39.72
+16,prega news pregnancy,hygiene and wellness,basic pharma,7774,198.54,-4.31,0.0,0.0,61.11,oos_9.fillrate Issue,38.39
+17,nooky chocolate,hygiene and wellness,sexual wellness,5430,255.83,-4.31,0.0,0.02,79.08,oos_10.Planning Ordering Issue,37.88
+18,stayfree night,hygiene and wellness,feminine hygiene,6922,64.89,-4.31,0.0,0.0,62.01,oos_9.fillrate Issue,37.18
+19,closeup everfresh,hygiene and wellness,oral care,3008,172.71,-4.31,0.0,0.0,58.49,oos_9.fillrate Issue,36.62
+20,ultra pads,hygiene and wellness,feminine hygiene,4543,140.75,-4.31,0.0,0.07,62.01,oos_9.fillrate Issue,36.47
+21,be bodywise foot,hygiene and wellness,basic pharma,3260,94.74,-4.31,0.0,0.0,61.11,oos_9.fillrate Issue,36.17
+22,thin condom,hygiene and wellness,sexual wellness,4024,58.18,-4.31,0.0,0.02,79.08,oos_10.Planning Ordering Issue,36.05
+23,friends diaper,hygiene and wellness,basic pharma,3140,82.35,-4.31,0.0,0.0,61.11,oos_9.fillrate Issue,36.04
+24,plush panties,hygiene and wellness,feminine hygiene,3236,67.49,-4.31,0.0,0.0,62.01,oos_9.fillrate Issue,35.97
+25,whisper liner,hygiene and wellness,feminine hygiene,3835,58.67,-4.31,0.0,0.03,62.01,oos_9.fillrate Issue,35.92
+26,period box,hygiene and wellness,feminine hygiene,3074,102.37,-4.31,0.0,0.07,62.01,oos_9.fillrate Issue,35.72
+27,skore condoms,hygiene and wellness,sexual wellness,3619,66.47,-4.31,0.0,0.06,79.08,oos_10.Planning Ordering Issue,35.72
+28,preganews,hygiene and wellness,basic pharma,3270,59.36,-4.31,0.0,0.21,61.11,oos_9.fillrate Issue,34.61
+29,pilgrim serum,beauty and grooming,face and lip care,33048,63.43,-11.21,0.0,0.02,75.56,oos_10.Planning Ordering Issue,33.33
+30,l'oreal paris moisture,bath body and hair,shampoo and conditioner,4917,789.15,-9.22,0.0,0.02,72.98,oos_9.fillrate Issue,32.57
+31,sandal soap,bath body and hair,soap,19020,60.71,-9.22,0.0,0.02,73.23,oos_10.Planning Ordering Issue,32.22
+32,aloe vera,beauty and grooming,face and lip care,27897,101.22,-11.21,0.0,0.01,75.56,oos_10.Planning Ordering Issue,31.94
+33,cera ve,bath body and hair,body lotion,12309,225.63,-9.22,0.0,0.02,74.08,oos_9.fillrate Issue,31.13
+34,vaseline moisturiser,bath body and hair,body lotion,7987,165.0,-9.22,0.0,0.0,74.08,oos_9.fillrate Issue,29.41
+35,sunscreen gel,bath body and hair,face cream,7757,67.47,-9.22,0.0,0.0,78.41,oos_9.fillrate Issue,28.66
+36,pond's bb cream,bath body and hair,face cream,6243,125.95,-9.22,0.0,0.0,78.41,oos_9.fillrate Issue,28.56
+37,wottagirl,bath body and hair,"perfumes, deos and talc",4453,142.14,-9.22,0.0,0.0,0.0,,28.08
+38,moisturizer lotion,bath body and hair,body lotion,4547,128.61,-9.22,0.0,0.0,74.08,oos_9.fillrate Issue,28.01
+39,perfume pack,bath body and hair,"perfumes, deos and talc",3336,160.22,-9.22,0.0,0.0,0.0,,27.83
+40,livon serums,bath body and hair,hair oil and serum,4965,79.31,-9.22,0.0,0.0,68.37,oos_9.fillrate Issue,27.81
+41,moisturising gel,bath body and hair,face cream,4729,64.26,-9.22,0.0,0.0,78.41,oos_9.fillrate Issue,27.63
+42,suncream,bath body and hair,face cream,4319,68.12,-9.22,0.0,0.0,78.41,oos_9.fillrate Issue,27.52
+43,mehendi,beauty and grooming,hair colour,15280,96.91,-11.21,0.0,0.05,63.34,oos_9.fillrate Issue,27.47
+44,herbal essences shampoo,bath body and hair,shampoo and conditioner,3189,107.35,-9.22,0.0,0.0,72.98,oos_9.fillrate Issue,27.42
+45,biolage shampoo,bath body and hair,shampoo and conditioner,4270,58.38,-9.22,0.0,0.02,72.98,oos_9.fillrate Issue,27.31
+46,sebamed dandruff,bath body and hair,shampoo and conditioner,3169,83.39,-9.22,0.0,0.0,72.98,oos_9.fillrate Issue,27.24
+47,aroma magic,bath body and hair,face wash and scrub,3035,89.33,-9.22,0.0,0.0,72.43,oos_9.fillrate Issue,27.24
+48,paranda,beauty and grooming,beauty accessories,6452,420.32,-11.21,0.0,0.03,68.5,oos_10.Planning Ordering Issue,26.9
+49,garnier colour,beauty and grooming,hair colour,8525,119.04,-11.21,0.0,0.01,63.34,oos_9.fillrate Issue,25.63
+50,aroma magic facial kit,beauty and grooming,face and lip care,3700,324.8,-11.21,0.0,0.03,75.56,oos_10.Planning Ordering Issue,25.32
+51,gillette cartridge,beauty and grooming,shaving needs,5606,111.87,-11.21,0.0,0.0,69.88,oos_9.fillrate Issue,24.68
+52,re'equil cream,beauty and grooming,beauty accessories,3704,141.15,-11.21,0.0,0.0,68.5,oos_10.Planning Ordering Issue,24.25
+53,oxylife bleach,beauty and grooming,face and lip care,4485,67.54,-11.21,0.0,0.02,75.56,oos_10.Planning Ordering Issue,23.87
+54,dermatouch face,beauty and grooming,face wash and scrub,3015,107.79,-11.21,0.0,0.03,72.43,oos_9.fillrate Issue,23.6
+55,kiro,makeup,lip makeup,7277,292.08,-18.23,0.0,0.01,71.04,oos_9.fillrate Issue,13.8
+56,cotton ear bud,makeup,makeup brushes and tools,3183,224.13,-18.23,0.0,0.0,56.64,oos_9.fillrate Issue,12.04
+57,lip stick,makeup,lip makeup,4967,72.59,-18.23,0.0,0.0,71.04,oos_9.fillrate Issue,11.58
+58,stick-on nails,makeup,nail paints and accessories,4176,64.09,-18.23,0.0,0.0,71.22,oos_9.fillrate Issue,11.26
