@@ -1,0 +1,50 @@
+
+templateVersion: 2.0
+
+meta:
+  org: "dip" 
+  pod: "dsp" 
+  name: "swiggy-brain" 
+  tier: 2
+  version: "0.1"
+  frameworks:
+    - name: ""
+      version: ""
+sos:
+  type: ""
+  name: ""
+
+pipeline:
+  stages:
+    - name: "CI"
+      env: "ci"
+      actions:
+        - type: "test"
+          name: "all"
+          params:
+            command: ""
+        - type: "codeCoverage"
+          name: "all"
+          params:
+            exclusions: ""
+            inclusions: ""
+            coverageExclusions: ""
+            testExclusions: ""
+            testInclusions: ""
+            cpdExclusions: ""
+            coverageReportPaths: ""
+        - type: "build"
+          name: "Build"
+          params:
+            command: ""
+            uploadPackage:
+              - pkg: ""
+                clusterName: ""
+              
+
+ciSetup:
+  baseContainer:
+    name: "ubuntu-dind"
+    resources:
+      cpu: "4"
+      memory: "8Gi"
