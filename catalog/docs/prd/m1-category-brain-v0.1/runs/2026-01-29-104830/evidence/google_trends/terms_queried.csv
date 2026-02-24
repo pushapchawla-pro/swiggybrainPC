@@ -1,0 +1,21 @@
+term,current_interest,month_ago_interest,mom_growth_pct,geo,source
+soap paper,0,0,0,IN,google_trends_api
+shampoo sachets,0,0,0,IN,google_trends_api
+pantyliners,0,0,0,IN,google_trends_api
+beard colour,0,1,-100.0,IN,google_trends_api
+mehndi,16,42,-61.9,IN,google_trends_api
+gift set,3,5,-40.0,IN,google_trends_api
+lifebuoy soap,0,0,0,IN,google_trends_api
+pregnancy test,25,18,38.89,IN,google_trends_api
+face wash,46,73,-36.99,IN,google_trends_api
+body lotion,10,14,-28.57,IN,google_trends_api
+condom,20,28,-28.57,IN,google_trends_api
+shampoo,54,82,-34.15,IN,google_trends_api
+toothbrush,3,4,-25.0,IN,google_trends_api
+toothpaste,9,11,-18.18,IN,google_trends_api
+coconut oil,10,14,-28.57,IN,google_trends_api
+handwash,1,1,0.0,IN,google_trends_api
+sunscreen,34,48,-29.17,IN,google_trends_api
+perfume,51,86,-40.7,IN,google_trends_api
+lipstick,20,33,-39.39,IN,google_trends_api
+sanitary pads,1,2,-50.0,IN,google_trends_api
