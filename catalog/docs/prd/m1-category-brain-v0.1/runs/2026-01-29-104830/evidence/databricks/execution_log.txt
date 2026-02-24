@@ -1,0 +1,44 @@
+Databricks Query Execution Log
+==============================
+Run ID: 2026-01-29-104830
+Executed: 2026-01-29 11:00 IST
+Connection: swiggy-analytics.cloud.databricks.com
+Warehouse: 61ce236c169e5b23
+
+Table Used:
+- prod.analytics_prod.analytics_public_sku_wise_availability_rca_with_reasons_v7
+- Date: 2026-01-28 (latest available)
+
+Categories Filtered: Bath Body and Hair, Beauty and Grooming, Makeup, Hygiene and Wellness
+
+Queries Executed:
+1. availability_rca.sql - Detailed RCA by category
+2. rca_summary.txt - Summary by reason code
+
+Output Files:
+- availability_rca.csv - 100 rows (detailed by L1/L2/reason)
+- rca_summary.txt - 25 unique reason codes
+
+Key Findings - Top Root Causes:
+1. oos_9.fillrate Issue - 500M non-avail sessions, 70% avg availability
+   (Warehouse/vendor not filling orders completely)
+
+2. oos_10.Planning Ordering Issue - 427M non-avail sessions, 78% avg availability
+   (PO planning problems - forecasting, MOQ, timing)
+
+3. oos_8.Long Term Supply Issue - 151M non-avail sessions, 76% avg availability
+   (Chronic supply problems with vendors)
+
+4. instock_8.POD Cap Missed - 107M non-avail sessions, 78% avg availability
+   (Dark store capacity constraints)
+
+5. oos_9h.Case_Size_Constraint - 74M non-avail sessions, 88% avg availability
+   (Order unit constraints)
+
+Most Impacted Categories (by non-avail sessions):
+- Shampoo and Conditioner (fillrate + planning issues)
+- Feminine Hygiene (fillrate issues)
+- Face and Lip Care (planning issues)
+- Oral Care (fillrate issues)
+
+Status: SUCCESS
