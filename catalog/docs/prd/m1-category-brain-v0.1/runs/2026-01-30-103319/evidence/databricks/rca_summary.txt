@@ -1,0 +1,43 @@
+# CB-5 Availability RCA Extraction - Execution Summary
+# Date: 2026-01-30
+# Target Data Date: 2026-01-29
+# Status: BLOCKED
+
+## Task Details
+- Task ID: 6
+- Query Target: prod.analytics_prod.analytics_public_sku_wise_availability_rca_with_reasons_v7
+- L1 Categories: Bath Body and Hair, Beauty and Grooming, Hygiene and Wellness, Makeup
+
+## Execution Attempt
+- Databricks CLI Version: v0.285.0
+- Profiles Attempted: DEFAULT, main-workspace, test-workspace
+- Host: https://swiggy-dpml-test-2.cloud.databricks.com
+
+## Blocker
+Databricks CLI OAuth tokens have expired across all configured profiles.
+Interactive browser-based re-authentication is required.
+
+### Resolution Steps
+1. Run the following command in an interactive terminal:
+   ```
+   databricks auth login --host https://swiggy-dpml-test-2.cloud.databricks.com
+   ```
+2. Complete the browser-based OAuth flow
+3. Re-run this task
+
+## SQL Query Saved
+The query has been saved to: availability_rca.sql
+Once authentication is restored, execute with:
+```
+databricks api post /api/2.0/sql/statements --json '{
+  "warehouse_id": "<WAREHOUSE_ID>",
+  "statement": "<SQL_FROM_FILE>",
+  "wait_timeout": "30s"
+}'
+```
+
+## Alternative: Manual Query Execution
+1. Open Databricks SQL workspace
+2. Copy query from availability_rca.sql
+3. Execute against a running warehouse
+4. Export results to availability_rca.csv
