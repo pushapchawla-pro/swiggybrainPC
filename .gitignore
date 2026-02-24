@@ -1,0 +1,10 @@
+**/.DS_Store
+.dmux/
+.dmux-hooks/AGENTS.md
+.dmux-hooks/CLAUDE.md
+.dmux-hooks/README.md
+.dmux-hooks/examples/post_merge.example
+.dmux-hooks/examples/run_dev.example
+.dmux-hooks/examples/run_test.example
+.dmux-hooks/examples/worktree_created.example
+**.pyc
