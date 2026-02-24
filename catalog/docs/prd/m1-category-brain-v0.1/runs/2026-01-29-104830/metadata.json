@@ -1,0 +1,59 @@
+{
+  "run_id": "2026-01-29-104830",
+  "started_at": "2026-01-29T10:48:30+05:30",
+  "completed_at": "2026-01-29T11:15:00+05:30",
+  "status": "completed",
+  "version": "v0.1",
+  "config": {
+    "categories": ["Personal Care"],
+    "l1_categories": [
+      "Bath Body and Hair",
+      "Beauty and Grooming",
+      "Hygiene and Wellness",
+      "Makeup"
+    ],
+    "l1_count": 4,
+    "google_trends_delay_seconds": 30,
+    "data_sources": {
+      "snowflake": {
+        "search_metrics": "IM_SEARCH_FACT",
+        "category_mapping": "IM_SEARCH_DB_STRING_TO_CATEGORY"
+      },
+      "databricks": {
+        "availability_rca": "analytics_public_sku_wise_availability_rca_with_reasons_v7"
+      },
+      "google_trends": {
+        "api": "pytrends",
+        "geo": "IN",
+        "timeframe": "today 3-m"
+      }
+    }
+  },
+  "stats": {
+    "terms_processed": 100,
+    "insights_generated": 8,
+    "snowflake_queries": 2,
+    "databricks_queries": 2,
+    "google_trends_queries": 4,
+    "errors": []
+  },
+  "evidence_files": [
+    "evidence/snowflake/search_metrics.sql",
+    "evidence/snowflake/search_metrics.csv",
+    "evidence/snowflake/q2c_metrics.csv",
+    "evidence/snowflake/execution_log.txt",
+    "evidence/databricks/availability_rca.sql",
+    "evidence/databricks/availability_rca.csv",
+    "evidence/databricks/rca_summary.txt",
+    "evidence/databricks/execution_log.txt",
+    "evidence/google_trends/fetch_trends_v2.py",
+    "evidence/google_trends/terms_queried.csv",
+    "evidence/google_trends/raw_responses.json",
+    "evidence/google_trends/execution_log.txt",
+    "intermediate/signal_fusion.py",
+    "intermediate/signal_fusion.json",
+    "intermediate/ranked_terms.csv"
+  ],
+  "output_file": "output/digest.md",
+  "feedback_status": "pending"
+}
