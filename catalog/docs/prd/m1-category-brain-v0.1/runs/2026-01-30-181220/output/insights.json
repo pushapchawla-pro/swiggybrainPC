@@ -1,0 +1,613 @@
+{
+  "run_id": "2026-01-30-181220",
+  "category": "Personal Care",
+  "week": "Week 5, 2026",
+  "generated_at": "2026-01-30T18:45:00Z",
+  "total_terms_processed": 200,
+  "terms_passed_gates": 38,
+  "insights_generated": 20,
+  "insights": [
+    {
+      "insight_number": 1,
+      "title": "Mysore Soap (+1645% MoM)",
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Soap",
+      "consumer_insight": "Mysore sandal soap is experiencing explosive viral demand, with searches jumping from 3,456 to 60,292 weekly. This suggests a renewed consumer interest in traditional Ayurvedic skincare products, potentially driven by social media content or nostalgia marketing.",
+      "strategy": [
+        "Urgently increase Mysore Sandal Soap inventory by 3x to capture demand surge",
+        "Improve fillrate from current 71% to 85%+ by prioritizing vendor allocation",
+        "Create 'Traditional Indian Soaps' collection featuring heritage brands"
+      ],
+      "evidence": {
+        "search_volume": 60292,
+        "search_growth_pct": 1644.56,
+        "typed_pct": 7.19,
+        "l2_sales_gmv": 32491314,
+        "l2_sales_growth_pct": 15.26,
+        "estimated_demand": 45976105.84,
+        "demand_gap": 13484791.84,
+        "availability_pct": 70.67
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Exceptional growth (+1645%) with strong volume (60K/wk) but low typed search ratio (7%) suggests autosuggest-driven discovery",
+      "tags": ["DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 2,
+      "title": "Body Scrubber (+107% MoM)",
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Beauty Accessories",
+      "consumer_insight": "Body scrubbers (exfoliating bath tools) are showing strong demand growth despite severe supply constraints. With only 14% availability, customers actively seeking these products are largely unable to purchase, indicating a massive unmet demand opportunity.",
+      "strategy": [
+        "Address long-term supply issue immediately - current 14% availability is critical",
+        "Onboard 3-5 new body scrubber vendors to diversify supply",
+        "Feature prominently in Bath & Body category as availability improves"
+      ],
+      "evidence": {
+        "search_volume": 10427,
+        "search_growth_pct": 106.56,
+        "typed_pct": 11.51,
+        "l2_sales_gmv": 5596363,
+        "l2_sales_growth_pct": 13.27,
+        "estimated_demand": 39162792.16,
+        "demand_gap": 33566429.16,
+        "availability_pct": 14.29
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong growth signal but availability crisis (14%) creates uncertainty in true demand measurement",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 3,
+      "title": "Durex (+968% MoM)",
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Sexual Wellness",
+      "consumer_insight": "Durex brand searches have exploded from 2,579 to 27,556 weekly, indicating a strong brand preference shift in the sexual wellness category. Customers are increasingly searching for premium, trusted brands in this sensitive category.",
+      "strategy": [
+        "Expand Durex SKU assortment to include full product range (all variants)",
+        "Improve planning/ordering to address availability gaps (currently 79%)",
+        "Bundle Durex products in discreet combo packs for higher AOV"
+      ],
+      "evidence": {
+        "search_volume": 27556,
+        "search_growth_pct": 968.48,
+        "typed_pct": 11.22,
+        "l2_sales_gmv": 37432293,
+        "l2_sales_growth_pct": 22.4,
+        "estimated_demand": 47239138.06,
+        "demand_gap": 9806845.06,
+        "availability_pct": 79.24
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Exceptional brand-specific growth aligned with category-level sales growth (+22%)",
+      "tags": ["DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 4,
+      "title": "Panty Liner (+24% MoM)",
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Feminine Hygiene",
+      "consumer_insight": "Panty liner searches show consistent upward trajectory with 100% trend stability, reflecting growing mainstream adoption of everyday feminine hygiene products. The 63% availability signals significant fillrate issues leaving demand unmet.",
+      "strategy": [
+        "Prioritize panty liner fillrate improvement - current 63% is below acceptable threshold",
+        "Add premium D2C brands like Plush, Nua alongside established players",
+        "Create feminine hygiene education content highlighting everyday use benefits"
+      ],
+      "evidence": {
+        "search_volume": 18458,
+        "search_growth_pct": 23.7,
+        "typed_pct": 11.56,
+        "l2_sales_gmv": 83771177,
+        "l2_sales_growth_pct": 27.45,
+        "estimated_demand": 132906833.25,
+        "demand_gap": 49135656.25,
+        "availability_pct": 63.03
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Stable upward trend with strong category sales correlation (+27% L2 growth)",
+      "tags": ["SUPPLY_CONSTRAINED", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 5,
+      "title": "Loofah (+23% MoM)",
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Beauty Accessories",
+      "consumer_insight": "Loofah searches (83K/wk) dominate the bath accessories category but only 14% availability means customers are consistently disappointed. This represents one of the largest supply-demand gaps in Personal Care.",
+      "strategy": [
+        "Resolve long-term supply issue affecting Beauty Accessories (14% availability)",
+        "Prioritize loofah as highest-volume term in severely constrained category",
+        "Source alternative suppliers and increase vendor diversity"
+      ],
+      "evidence": {
+        "search_volume": 83430,
+        "search_growth_pct": 23.42,
+        "typed_pct": 12.91,
+        "l2_sales_gmv": 5596363,
+        "l2_sales_growth_pct": 13.27,
+        "estimated_demand": 39162792.16,
+        "demand_gap": 33566429.16,
+        "availability_pct": 14.29
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Very high volume (83K/wk) provides strong signal despite supply constraints",
+      "tags": ["SUPPLY_CONSTRAINED", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 6,
+      "title": "Mars Lip Liner (+660% MoM)",
+      "l1_category": "Makeup",
+      "l2_category": "Lip Makeup",
+      "consumer_insight": "Mars cosmetics lip liner searches surged from 1,371 to 10,422 weekly. This value-conscious makeup brand is gaining significant traction, likely driven by beauty influencer recommendations and affordable luxury positioning.",
+      "strategy": [
+        "Expand Mars lip liner SKU range (colors, formulations)",
+        "Cross-sell with Mars lipsticks and lip glosses for complete lip kit",
+        "Feature in 'Budget Beauty Finds' collection alongside other affordable brands"
+      ],
+      "evidence": {
+        "search_volume": 10422,
+        "search_growth_pct": 660.18,
+        "typed_pct": 18.78,
+        "l2_sales_gmv": 12368370,
+        "l2_sales_growth_pct": 16.94,
+        "estimated_demand": 12377117.92,
+        "demand_gap": 8747.92,
+        "availability_pct": 88.47
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong brand-specific growth with good availability (88%) enables immediate capture",
+      "tags": ["DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 7,
+      "title": "Sexual Wellness (+254% MoM)",
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Sexual Wellness",
+      "consumer_insight": "Category-level searches for sexual wellness have tripled, indicating growing comfort with online purchasing in this segment. The shift from embarrassment to convenience-driven shopping represents a significant category maturation.",
+      "strategy": [
+        "Expand sexual wellness assortment beyond condoms to lubricants, toys, accessories",
+        "Address planning/ordering issues to improve from 79% availability",
+        "Invest in discreet packaging messaging to reinforce trust"
+      ],
+      "evidence": {
+        "search_volume": 50683,
+        "search_growth_pct": 254.2,
+        "typed_pct": 15.45,
+        "l2_sales_gmv": 37432293,
+        "l2_sales_growth_pct": 22.4,
+        "estimated_demand": 47239138.06,
+        "demand_gap": 9806845.06,
+        "availability_pct": 79.24
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Category-level growth aligns with brand-level signals (Durex +968%)",
+      "tags": ["DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 8,
+      "title": "Mehendi (+251% MoM)",
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Hair Colour",
+      "consumer_insight": "Mehendi (henna) searches have surged from 4,581 to 16,070 weekly with 100% trend stability. This traditional hair coloring solution appeals to customers seeking natural, chemical-free alternatives and those preparing for festive occasions.",
+      "strategy": [
+        "Expand mehendi assortment including ready-to-use cones and powder forms",
+        "Improve availability from 77% with better planning/ordering",
+        "Cross-promote with wedding and festive season campaigns"
+      ],
+      "evidence": {
+        "search_volume": 16070,
+        "search_growth_pct": 250.8,
+        "typed_pct": 9.54,
+        "l2_sales_gmv": 15951100,
+        "l2_sales_growth_pct": 28.76,
+        "estimated_demand": 16045442.32,
+        "demand_gap": 94342.32,
+        "availability_pct": 76.6
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong stable upward trend with category sales growing at 29%",
+      "tags": ["DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 9,
+      "title": "L'Oreal Paris (+85% MoM)",
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Shampoo and Conditioner",
+      "consumer_insight": "Premium haircare brand L'Oreal Paris is seeing renewed search interest, indicating customer willingness to trade up for trusted international brands in the competitive shampoo market.",
+      "strategy": [
+        "Ensure complete L'Oreal Paris haircare range availability",
+        "Create premium haircare bundles (shampoo + conditioner + serum)",
+        "Improve fillrate in Shampoo category (currently 73%)"
+      ],
+      "evidence": {
+        "search_volume": 17146,
+        "search_growth_pct": 84.92,
+        "typed_pct": 7.79,
+        "l2_sales_gmv": 70825633,
+        "l2_sales_growth_pct": 12.8,
+        "estimated_demand": 96782772.62,
+        "demand_gap": 25957139.62,
+        "availability_pct": 73.18
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong brand growth in high-GMV category (INR 7Cr+)",
+      "tags": ["HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 10,
+      "title": "Tresemme Shampoo (+84% MoM)",
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Shampoo and Conditioner",
+      "consumer_insight": "Tresemme, a salon-professional brand at mass pricing, is experiencing strong demand growth. Customers are seeking professional-quality haircare without salon visits, a behavioral shift that accelerated post-pandemic.",
+      "strategy": [
+        "Expand Tresemme range to include full professional line (masks, treatments)",
+        "Address fillrate issues in shampoo category (73% availability)",
+        "Position in 'Salon at Home' collection"
+      ],
+      "evidence": {
+        "search_volume": 12912,
+        "search_growth_pct": 84.35,
+        "typed_pct": 7.2,
+        "l2_sales_gmv": 70825633,
+        "l2_sales_growth_pct": 12.8,
+        "estimated_demand": 96782772.62,
+        "demand_gap": 25957139.62,
+        "availability_pct": 73.18
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Parallel growth with L'Oreal suggests broad premium haircare trend",
+      "tags": ["HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 11,
+      "title": "Nail Clipper (+288% MoM)",
+      "l1_category": "Makeup",
+      "l2_category": "Makeup Brushes and Tools",
+      "consumer_insight": "Nail clipper searches surged from 4,484 to 17,396 weekly. This essential grooming tool category shows customers are increasingly relying on Instamart for everyday personal care replenishment rather than dedicated stores.",
+      "strategy": [
+        "Address severe supply constraint in tools category (57% availability)",
+        "Expand nail care tools assortment (files, buffers, cuticle pushers)",
+        "Bundle as part of 'Grooming Essentials' kit"
+      ],
+      "evidence": {
+        "search_volume": 17396,
+        "search_growth_pct": 287.96,
+        "typed_pct": 9.51,
+        "l2_sales_gmv": 5609405,
+        "l2_sales_growth_pct": 31.5,
+        "estimated_demand": 9880931.83,
+        "demand_gap": 4271526.83,
+        "availability_pct": 56.77
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong growth aligns with category GMV growth (+32%)",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 12,
+      "title": "Durex Condom (+97% MoM)",
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Sexual Wellness",
+      "consumer_insight": "Specific Durex condom searches nearly doubled, complementing the broader Durex brand surge. Customers demonstrate strong brand loyalty in sexual wellness, preferring established trusted brands for intimate products.",
+      "strategy": [
+        "Ensure full Durex condom variant availability (ultra-thin, flavored, etc.)",
+        "Optimize pricing against competition while maintaining brand value",
+        "Cross-promote with other Durex products for basket building"
+      ],
+      "evidence": {
+        "search_volume": 57881,
+        "search_growth_pct": 96.92,
+        "typed_pct": 8.77,
+        "l2_sales_gmv": 37432293,
+        "l2_sales_growth_pct": 22.4,
+        "estimated_demand": 47239138.06,
+        "demand_gap": 9806845.06,
+        "availability_pct": 79.24
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "High volume (58K/wk) with stable upward trend provides reliable signal",
+      "tags": ["HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 13,
+      "title": "Price Drop Search (+33% MoM)",
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Basic Pharma",
+      "consumer_insight": "Searches for 'price drop' indicate customers actively seeking deals and discounted products. This price-sensitive behavior in pharma/wellness suggests opportunity for promotional campaigns and value packs.",
+      "strategy": [
+        "Create dedicated 'Price Drop' collection with discounted wellness items",
+        "Improve fillrate in Basic Pharma (62% availability creating poor experience)",
+        "Implement price drop alerts for high-intent customers"
+      ],
+      "evidence": {
+        "search_volume": 11765,
+        "search_growth_pct": 33.01,
+        "typed_pct": 24.74,
+        "l2_sales_gmv": 32597480,
+        "l2_sales_growth_pct": 31.73,
+        "estimated_demand": 52943771.32,
+        "demand_gap": 20346291.32,
+        "availability_pct": 61.57
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "High typed ratio (25%) indicates strong intentional search behavior",
+      "tags": ["SUPPLY_CONSTRAINED", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 14,
+      "title": "Gillette Blade (+59% MoM)",
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Shaving Needs",
+      "consumer_insight": "Gillette razor blade searches are growing steadily with 100% trend stability. Male grooming customers show strong brand loyalty for shaving essentials, preferring trusted quality over experimentation.",
+      "strategy": [
+        "Ensure comprehensive Gillette blade inventory (all cartridge types)",
+        "Create shaving subscription or multi-pack value options",
+        "Cross-sell with shaving cream, aftershave for complete routine"
+      ],
+      "evidence": {
+        "search_volume": 44143,
+        "search_growth_pct": 58.65,
+        "typed_pct": 6.57,
+        "l2_sales_gmv": 11280313,
+        "l2_sales_growth_pct": 24.56,
+        "estimated_demand": 16041400.74,
+        "demand_gap": 4761087.74,
+        "availability_pct": 70.32
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "High volume (44K/wk) with stable growth and aligned category sales (+25%)",
+      "tags": ["HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 15,
+      "title": "Aloe Vera (+102% MoM)",
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Face and Lip Care",
+      "consumer_insight": "Aloe vera product searches doubled, reflecting continued consumer interest in natural, soothing skincare ingredients. This versatile ingredient appeals across demographics for face care, sunburn relief, and hair conditioning.",
+      "strategy": [
+        "Expand aloe vera product range (gels, moisturizers, masks)",
+        "Address planning/ordering issues in Face and Lip Care (66% availability)",
+        "Position in 'Natural Skincare' and 'Summer Essentials' collections"
+      ],
+      "evidence": {
+        "search_volume": 25923,
+        "search_growth_pct": 101.81,
+        "typed_pct": 14.72,
+        "l2_sales_gmv": 38281398,
+        "l2_sales_growth_pct": 21.22,
+        "estimated_demand": 38335658.38,
+        "demand_gap": 54260.38,
+        "availability_pct": 66.05
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong growth with stable trend and category alignment",
+      "tags": ["SUPPLY_CONSTRAINED", "DEMAND_SURGE", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 16,
+      "title": "Pilgrim Serum (+96% MoM)",
+      "l1_category": "Beauty and Grooming",
+      "l2_category": "Face and Lip Care",
+      "consumer_insight": "D2C skincare brand Pilgrim is seeing strong serum-specific searches, indicating growing consumer sophistication in skincare routines. Customers are moving beyond basic cleanse-moisturize to active ingredient-based regimens.",
+      "strategy": [
+        "Ensure full Pilgrim serum range availability (Vitamin C, Retinol, Hyaluronic)",
+        "Cross-sell with Pilgrim cleansers and moisturizers for complete routine",
+        "Feature in 'K-Beauty Inspired' or 'Serums for Every Concern' collections"
+      ],
+      "evidence": {
+        "search_volume": 40761,
+        "search_growth_pct": 96.42,
+        "typed_pct": 8.23,
+        "l2_sales_gmv": 38281398,
+        "l2_sales_growth_pct": 21.22,
+        "estimated_demand": 38335658.38,
+        "demand_gap": 54260.38,
+        "availability_pct": 66.05
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "brand_status": "EXISTING",
+      "confidence": "Medium",
+      "confidence_reason": "Strong brand-specific growth with stable upward trend",
+      "tags": ["SUPPLY_CONSTRAINED", "HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 17,
+      "title": "Moisturising Cream (+94% MoM)",
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Face Cream",
+      "consumer_insight": "Moisturising cream searches nearly doubled, showing winter skincare needs driving demand. The stable upward trend indicates this is sustained behavior rather than a spike, as customers establish hydration routines.",
+      "strategy": [
+        "Stock deep for winter moisturizer peak season",
+        "Feature rich, intensive moisturizers for dry skin concerns",
+        "Cross-promote with face oils and overnight masks"
+      ],
+      "evidence": {
+        "search_volume": 36272,
+        "search_growth_pct": 94.04,
+        "typed_pct": 11.99,
+        "l2_sales_gmv": 45224329,
+        "l2_sales_growth_pct": 14.27,
+        "estimated_demand": 45506471.76,
+        "demand_gap": 282142.76,
+        "availability_pct": 78.65
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong volume and growth with good availability (79%)",
+      "tags": ["HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 18,
+      "title": "Ghar Soaps (+52% MoM)",
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Soap",
+      "consumer_insight": "Ghar Soaps brand is gaining traction with searches growing 52% MoM. This indicates customer interest in regional/artisanal soap brands that offer differentiated formulations compared to mass-market options.",
+      "strategy": [
+        "Expand Ghar Soaps SKU assortment if currently limited",
+        "Position alongside heritage brands like Mysore Sandal",
+        "Improve soap category fillrate (currently 71%)"
+      ],
+      "evidence": {
+        "search_volume": 30577,
+        "search_growth_pct": 51.97,
+        "typed_pct": 9.94,
+        "l2_sales_gmv": 32491314,
+        "l2_sales_growth_pct": 15.26,
+        "estimated_demand": 45976105.84,
+        "demand_gap": 13484791.84,
+        "availability_pct": 70.67
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Good volume (31K/wk) with accelerating growth trend",
+      "tags": ["HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    },
+    {
+      "insight_number": 19,
+      "title": "Simple Face Wash (+83% MoM)",
+      "l1_category": "Bath Body and Hair",
+      "l2_category": "Face Wash and Scrub",
+      "consumer_insight": "Simple (the sensitive skin brand) face wash searches grew 83%, reflecting demand for gentle, fragrance-free skincare. Customers with sensitive skin actively seek brands that prioritize skin-friendly formulations.",
+      "strategy": [
+        "Ensure complete Simple face wash range availability",
+        "Create 'Sensitive Skin' collection featuring Simple and similar brands",
+        "Cross-promote with Simple moisturizers and cleansers"
+      ],
+      "evidence": {
+        "search_volume": 11769,
+        "search_growth_pct": 82.58,
+        "typed_pct": 5.36,
+        "l2_sales_gmv": 36322207,
+        "l2_sales_growth_pct": 19.91,
+        "estimated_demand": 36328410.3,
+        "demand_gap": 6203.3,
+        "availability_pct": 87.25
+      },
+      "trend_context": {
+        "trend_direction": "stable_up",
+        "trend_stability_score": 100,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "brand_status": "BREAKOUT",
+      "confidence": "Medium",
+      "confidence_reason": "Stable upward trend with excellent availability (87%)",
+      "tags": ["HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "STABLE_UP"]
+    },
+    {
+      "insight_number": 20,
+      "title": "Bandage (+75% MoM)",
+      "l1_category": "Hygiene and Wellness",
+      "l2_category": "Wound Care and Pain Relief",
+      "consumer_insight": "Bandage searches grew 75%, indicating Instamart becoming a go-to for first-aid essentials. Quick delivery of wound care products offers clear value proposition over planned pharmacy visits.",
+      "strategy": [
+        "Expand first-aid assortment (bandages, antiseptics, pain relief)",
+        "Improve planning/ordering in Wound Care category (66% availability)",
+        "Create 'First Aid Essentials' bundle for household stocking"
+      ],
+      "evidence": {
+        "search_volume": 12348,
+        "search_growth_pct": 75.07,
+        "typed_pct": 9.63,
+        "l2_sales_gmv": 12446278,
+        "l2_sales_growth_pct": 23.3,
+        "estimated_demand": 18866572.68,
+        "demand_gap": 6420294.68,
+        "availability_pct": 65.97
+      },
+      "trend_context": {
+        "trend_direction": "accelerating",
+        "trend_stability_score": 75,
+        "seasonality_flag": "SEASONAL_NORMAL"
+      },
+      "confidence": "Medium",
+      "confidence_reason": "Strong growth aligns with category sales growth (+23%)",
+      "tags": ["SUPPLY_CONSTRAINED", "HIGH_GROWTH", "AUTOSUGGEST_DRIVEN", "ACCELERATING"]
+    }
+  ]
+}
